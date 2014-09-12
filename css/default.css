@@ -11,3 +11,18 @@
 .journal-name {
     font-weight: bold;
 }
+
+.myroundThumb {
+    width: 150px;
+    height: 150px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
+}
+
+.myList {
+    line-height: 10%;
+}
