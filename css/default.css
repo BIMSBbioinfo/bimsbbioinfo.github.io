@@ -26,3 +26,9 @@
 .myList {
     line-height: 10%;
 }
+
+.home h4 {
+    font-weight: bold; }
+.home .header {
+    padding-bottom: 0;
+    border: none; }
