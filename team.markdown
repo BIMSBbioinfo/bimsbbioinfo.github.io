@@ -39,7 +39,7 @@ applications.
 - 2001-2005, B.Sc (Biological Sciences and Bioengineering), [Sabanci University](http://www.sabanciuniv.edu), Istanbul, Turkey
 
 **Publications:** [[PubMed]](http://www.ncbi.nlm.nih.gov/pubmed?term=Akalin%2C%20Altuna[Full%20Author%20Name])
-[[GoogleScholar]](http://scholar.google.com/citations?user=UWxaFlcAAAAJ&amp;hl=en)[[ImpactStory]](https://impactstory.org/AltunaAkalin)
+[[GoogleScholar]](http://scholar.google.com/citations?user=UWxaFlcAAAAJ&amp;hl=en) [[ImpactStory]](https://impactstory.org/AltunaAkalin)
 
 **Websites:**
 [[LinkedIn]](http://www.linkedin.com/in/altunaakalin)
