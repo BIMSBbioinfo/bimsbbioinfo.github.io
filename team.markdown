@@ -39,7 +39,7 @@ applications.
 - 2001-2005, B.Sc (Biological Sciences and Bioengineering), [Sabanci University](http://www.sabanciuniv.edu), Istanbul, Turkey
 
 **Publications:** [[PubMed]](http://www.ncbi.nlm.nih.gov/pubmed?term=Akalin%2C%20Altuna[Full%20Author%20Name])
-[[GoogleScholar]](http://scholar.google.com/citations?user=UWxaFlcAAAAJ&amp;hl=en)
+[[GoogleScholar]](http://scholar.google.com/citations?user=UWxaFlcAAAAJ&amp;hl=en)[[ImpactStory]](https://impactstory.org/AltunaAkalin)
 
 **Websites:**
 [[LinkedIn]](http://www.linkedin.com/in/altunaakalin)
@@ -103,6 +103,9 @@ Ricardo provides IT support for BIMSB scientists.  He has extensive experience i
 
 ##### Education:
 - 2005 - 2007 Siemens Technik Akademie, Berlin
+
+**Websites:**
+[[Github]](https://github.com/rekado)
 
 **E-mail:** Ricardo.Wurmus [at] mdc-berlin [dot] de
 </div></div>
