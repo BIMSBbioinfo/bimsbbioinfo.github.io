@@ -86,7 +86,7 @@ nodes. He is also involved in cluster maintenance tasks.
 
 
 <div class="row">
-  <img src="img/team/andromeda-orbit.jpg" class="columns myroundThumb">
+  <img src="img/andromeda-orbit.jpg" class="columns myroundThumb">
   <div class="large-10 columns" markdown="1">
 
 #### System Administrator
@@ -97,14 +97,11 @@ Ricardo provides IT support for BIMSB scientists.  He has extensive experience i
 
 
 ##### Previous Work Experience:
-
-- 2014 -&nbsp; MDC
 - 2009 - 2014, Server, cluster and workstation administrator, Siemens Ltd. China, Shanghai
 - 2008 - 2009, Developer, Siemens AG, Berlin
 - 2007 - 2008, Developer, Siemens Switchgear Ltd., Shanghai
 
 ##### Education:
-
 - 2005 - 2007 Siemens Technik Akademie, Berlin
 
 **E-mail:** Ricardo.Wurmus [at] mdc-berlin [dot] de
