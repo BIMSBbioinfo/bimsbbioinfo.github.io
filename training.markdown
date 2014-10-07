@@ -11,8 +11,7 @@ training sessions.
 ### Bioinformatics walk-in clinics
 Bioinformatics platform is offering walk-in clinics to help researchers with their bioinformatics questions and provide discussion. The clinics takes place every 30-45 days, it is announced via e-mail.
 
-**How it works**
-
+#####**How it works**
 Bring your bioinformatics problems/questions (and data if you have), no appointment needed. We will advise you on how to deal with your problem and/or refer you to other platforms or groups who can best advise you. The format is one-to-one consultation. This is not a course, lecture or a tutorial with a predefined agenda.
 Some of the things we can help with are listed below:
 
