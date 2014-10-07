@@ -56,7 +56,7 @@ Some specifics about BIMSB cluster
 [[https://bbc.mdc-berlin.de/howto/cluster]](https://bbc.mdc-berlin.de/howto/cluster)
 
 ##### **Notes on Computational Genomics with R**
-This is a resource developed by Altuna. Currently, it includes the basics of R and genomic interval analysis using R/Bioconductor packages. More to be added...
+This is a resource developed by Dr.Akalin. Currently, it includes the basics of R and genomic interval analysis using R/Bioconductor packages. More to be added...
 
 [[http://al2na.github.io/compgenr/]](http://al2na.github.io/compgenr/)
 
