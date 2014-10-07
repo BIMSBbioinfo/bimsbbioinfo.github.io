@@ -45,16 +45,19 @@ annotations.
 
 ### Learning materials
 
-##### Introduction to Unix and SGE (Sun Grid Engine)
+##### *Introduction to Unix and SGE (Sun Grid Engine)*
 This is a resource maintained and developed by platform members.
+
 [[http://bioinformatics.mdc-berlin.de/intro2UnixandSGE/]](http://bioinformatics.mdc-berlin.de/intro2UnixandSGE/)
 
-##### How to use the BIMSB cluster
+##### *How to use the BIMSB cluster*
 Some specifics about BIMSB cluster
+
 [[https://bbc.mdc-berlin.de/howto/cluster]](https://bbc.mdc-berlin.de/howto/cluster)
 
-##### Notes on Computational Genomics with R
+##### *Notes on Computational Genomics with R*
 This is a resource developed by Altuna. Currently, included basics of R and genomic interval analysis using R/Bioconductor packages.
+
 [[http://al2na.github.io/compgenr/]](http://al2na.github.io/compgenr/)
 
 
