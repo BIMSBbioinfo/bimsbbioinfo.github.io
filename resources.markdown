@@ -10,7 +10,7 @@ by bioinformatics platform members.
 
 ### Databases
 
-##### doRiNA
+##### **doRiNA**
 
 Dorina is a database for RNA binding protein binding sites and
 microRNAs.
@@ -20,7 +20,7 @@ microRNAs.
 
 ### Software
 
-##### methylKit
+##### **methylKit**
 
 methylKit is an R package for DNA methylation analysis and annotation
 from high-throughput bisulfite sequencing. The package is designed to
@@ -32,7 +32,7 @@ bisulfite sequencing data if proper input format is provided.
 
 [[https://code.google.com/p/methylkit]](https://code.google.com/p/methylkit/)
 
-##### genomation
+##### **genomation**
 
 This is an R package that contains a collection of tools for
 visualizing and analyzing genome-wide data sets. The package works
@@ -45,18 +45,18 @@ annotations.
 
 ### Learning materials
 
-##### *Introduction to Unix and SGE (Sun Grid Engine)*
+##### **Introduction to Unix and SGE (Sun Grid Engine)**
 This is a resource maintained and developed by platform members.
 
 [[http://bioinformatics.mdc-berlin.de/intro2UnixandSGE/]](http://bioinformatics.mdc-berlin.de/intro2UnixandSGE/)
 
-##### *How to use the BIMSB cluster*
+##### **How to use the BIMSB cluster**
 Some specifics about BIMSB cluster
 
 [[https://bbc.mdc-berlin.de/howto/cluster]](https://bbc.mdc-berlin.de/howto/cluster)
 
 ##### **Notes on Computational Genomics with R**
-This is a resource developed by Altuna. Currently, included basics of R and genomic interval analysis using R/Bioconductor packages.
+This is a resource developed by Altuna. Currently, it includes the basics of R and genomic interval analysis using R/Bioconductor packages. More to be added...
 
 [[http://al2na.github.io/compgenr/]](http://al2na.github.io/compgenr/)
 
