@@ -78,7 +78,7 @@ nodes. He is also involved in cluster maintenance tasks.
 - BSc, Computer Science, Alexandru Ioan Cuza University of Iasi, Romania
 
 **Websites:**
-[[LinkedIn]](de.linkedin.com/pub/dan-munteanu/37/204/642)
+[[LinkedIn]](http://de.linkedin.com/pub/dan-munteanu/37/204/642)
 
 **E-mail:** dan.munteanu [at] mdc-berlin [dot] de
 </div></div>
