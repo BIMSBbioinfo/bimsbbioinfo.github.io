@@ -32,4 +32,4 @@ We provide basic unix and SGE for scientists. Currrently, we offer courses only 
 ### On demand consulation 
 Go to [contact](contact.html) to request bioinformatics related
 help-desk services. These services can be scheduled depending on the
-demand availability of Dr. Altuna Akalin.
+demand and availability of Dr. Altuna Akalin.
