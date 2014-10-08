@@ -93,7 +93,9 @@ nodes. He is also involved in cluster maintenance tasks.
 
 ##### Ricardo Wurmus
 
-Ricardo provides IT support for BIMSB scientists.  He has extensive experience in Linux and programming.
+Ricardo provides IT support for BIMSB scientists.  He has extensive
+experience in GNU/Linux system administration (RHCE) and programming.
+He is a Free Software enthusiast and enjoys hacking hardware.
 
 
 ##### Previous Work Experience:
@@ -105,9 +107,11 @@ Ricardo provides IT support for BIMSB scientists.  He has extensive experience i
 - 2005 - 2007 Siemens Technik Akademie, Berlin
 
 **Websites:**
+[[Homepage]](http://elephly.net)
 [[Github]](https://github.com/rekado)
+[[Gitorious]](https://gitorious.org/~rekado)
 
-**E-mail:** Ricardo.Wurmus [at] mdc-berlin [dot] de
+**E-mail:** ricardo.wurmus [at] mdc-berlin [dot] de
 </div></div>
 
 
