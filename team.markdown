@@ -52,6 +52,34 @@ applications.
 </div></div>
 
 
+<div class="row">
+  <img src="img/andromeda-orbit.jpg" class="columns myroundThumb">
+  <div class="large-10 columns" markdown="1">
+
+#### Bioinformatics Scientist
+
+##### Vedran Franke
+
+Vedran supports research projects for the platform. He has extensive experience in next-generation sequencing analysis: RNA-seq, ChIP-seq, smallRNA-seq and whole genome sequencing. 
+
+
+##### Previous Work Experience:
+- 2011 - 2011, Researcher,Uni Research, Bergen Center for Computational Science, Bergen Norway
+- 2010 - 2011, Researcher, University of Zagreb, Croatia
+
+##### Education:
+- 2011 - 2014 PhD student,University of Zagreb, Croatia
+
+**Publications:** [[PubMed]](http://www.ncbi.nlm.nih.gov/pubmed?term=Franke%2C%20Vedran[Full%20Author%20Name])
+
+**Websites:**
+[[LinkedIn]](https://www.linkedin.com/pub/vedran-franke/24/ba/103)
+[[Github]](https://github.com/frenkiboy)
+
+
+**E-mail:** vedrab.franke [at] mdc-berlin [dot] de
+</div></div>
+
 
 <div class="row">
   <img src="img/team/danyel.jpg" class="columns myroundThumb">
