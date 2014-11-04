@@ -64,7 +64,7 @@ Vedran supports research projects for the platform. He has extensive experience 
 
 
 ##### Previous Work Experience:
-- 2011 - 2011, Researcher,Uni Research, Bergen Center for Computational Science, Bergen Norway
+- 2011 - 2011, Researcher,Uni Research/Bergen Center for Computational Science, Bergen, Norway
 - 2010 - 2011, Researcher, University of Zagreb, Croatia
 
 ##### Education:
