@@ -12,7 +12,8 @@ details and adress.
     <li class="fn">Dr. Altuna Akalin</li>
     <li class="street-address">
         Max-Delbrück-Centrum für Molekulare Medizin (MDC) <br>
-        Robert-Rössle-Str. 10
+        Robert-Rössle-Str. 10 <br>
+        Building 87, room 1.11
     </li>
     <li class="locality">Berlin-Buch</li>
     <li><span class="state">Germany</span>, <span class="zip">13125</span></li>
