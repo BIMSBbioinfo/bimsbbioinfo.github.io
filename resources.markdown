@@ -40,7 +40,7 @@ with a variety of genomic interval file types and enables easy summary
 and annotation of high throughput data sets with given genomic
 annotations.
 
-[[http://al2na.github.io/genomation/]](http://al2na.github.io/genomation/)
+[[http://bioinformatics.mdc-berlin.de/genomation/]](http://bioinformatics.mdc-berlin.de/genomation/)
 
 
 ### Learning materials
