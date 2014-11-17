@@ -9,6 +9,7 @@ BIMSB scientists. We are planning to have Galaxy and R/Bioconductor
 training sessions.
 
 ---------------------------------------
+
 ### Bioinformatics walk-in clinics
 Bioinformatics platform is offering walk-in clinics to help researchers with their bioinformatics questions and provide discussion. The clinics takes place every 30-45 days, it is announced via e-mail.
 
@@ -23,6 +24,7 @@ Some of the things we can help with are listed below:
 * Data visualisation and exploratory data analysis
 * R programming
 
+---------------------------------------
 
 ### R training
 We provide basic R training for scientists. Currrently, we offer courses only to BIMSB members. If you are not at BIMSB but interested in those training sessions, go to [contact](contact.html) to request more information.
