@@ -29,8 +29,12 @@ Some of the things we can help with are listed below:
 ### R training
 We provide basic R training for scientists. Currrently, we offer courses only to BIMSB members. If you are not at BIMSB but interested in those training sessions, go to [contact](contact.html) to request more information.
 
+---------------------------------------
+
 ### Unix and SGE training
 We provide basic unix and SGE for scientists. Currrently, we offer courses only to BIMSB members. If you are not at BIMSB but interested in those training sessions, go to [contact](contact.html) to request more information.
+
+---------------------------------------
 
 ### On demand consulation 
 Go to [contact](contact.html) to request bioinformatics related
