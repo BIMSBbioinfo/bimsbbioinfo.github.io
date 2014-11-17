@@ -7,6 +7,7 @@ layout: default
 Here is a list of software, databases and learning material maintained
 by bioinformatics platform members.
 
+-----------------------------------------
 
 ### Databases
 
@@ -17,6 +18,7 @@ microRNAs.
 
 [[http://dorina.mdc-berlin.de/rbp_browser/dorina.html]](http://dorina.mdc-berlin.de/rbp_browser/dorina.html)
 
+-----------------------------------------
 
 ### Software
 
@@ -42,6 +44,7 @@ annotations.
 
 [[http://bioinformatics.mdc-berlin.de/genomation/]](http://bioinformatics.mdc-berlin.de/genomation/)
 
+-----------------------------------------
 
 ### Learning materials
 
