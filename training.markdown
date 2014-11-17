@@ -8,6 +8,7 @@ Bioinformatics platform provides training and help-desk services for
 BIMSB scientists. We are planning to have Galaxy and R/Bioconductor
 training sessions.
 
+---------------------------------------
 ### Bioinformatics walk-in clinics
 Bioinformatics platform is offering walk-in clinics to help researchers with their bioinformatics questions and provide discussion. The clinics takes place every 30-45 days, it is announced via e-mail.
 
