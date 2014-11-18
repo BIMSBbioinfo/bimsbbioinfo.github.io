@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Visualisations with htd3.js
 
 [htd3.js](https://github.com/BIMSBbioinfo/htd3) is a collection of
