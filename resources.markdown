@@ -13,10 +13,8 @@ by bioinformatics platform members.
 
 ##### **doRiNA**
 
-Dorina is a database for RNA binding protein binding sites and
-microRNAs.
-
-[[http://dorina.mdc-berlin.de/rbp_browser/dorina.html]](http://dorina.mdc-berlin.de/rbp_browser/dorina.html)
+[DoRiNA](http://dorina.mdc-berlin.de/) is a database for RNA binding
+protein binding sites and microRNAs.
 
 -----------------------------------------
 
