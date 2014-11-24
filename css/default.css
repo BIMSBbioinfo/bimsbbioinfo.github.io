@@ -34,3 +34,13 @@ body.team .content .row {
 .home .header {
     padding-bottom: 0;
     border: none; }
+
+
+pre {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5em;
+}
+
+pre code {
+    padding: 0.5rem;
+}
