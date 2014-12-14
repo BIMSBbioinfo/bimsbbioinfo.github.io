@@ -4,7 +4,7 @@ layout: default
 
 # Publications
 
-As of March 2014.  (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.gov/pubmed?term=Akalin%2C%20Altuna[Full%20Author%20Name]).)
+As of March 2014.  (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D++OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D).)
 
 1. Pascarella G, Lazarevic D, Plessy C, Bertin N, <span class="highlight-contributor">Akalin A</span>, et al.
    [NanoCAGE analysis of the mouse olfactory epithelium identifies the expression of vomeronasal receptors and of proximal LINE elements](http://journal.frontiersin.org/Journal/10.3389/fncel.2014.00041/abstract).
