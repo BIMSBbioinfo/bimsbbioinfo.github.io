@@ -114,7 +114,7 @@ nodes. He is also involved in cluster maintenance tasks.
 
 
 <div class="row">
-  <img src="img/andromeda-orbit.jpg" class="columns myroundThumb">
+  <img src="https://avatars.githubusercontent.com/u/47740" class="columns myroundThumb">
   <div class="large-10 columns" markdown="1">
 
 #### System Administrator
