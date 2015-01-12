@@ -53,7 +53,7 @@ applications.
 
 
 <div class="row">
-  <img src="img/andromeda-orbit.jpg" class="columns myroundThumb">
+  <img src="img/team/vedran.jpg" class="columns myroundThumb">
   <div class="large-10 columns" markdown="1">
 
 #### Bioinformatics Scientist
