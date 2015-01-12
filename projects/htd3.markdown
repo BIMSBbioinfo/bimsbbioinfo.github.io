@@ -12,9 +12,8 @@ library [d3.js](http://d3js.org).
 ## Available visualisations
 
 htd3.js currently offers the following visualisations: associations
-graphs, exon-intron rendering, and region heatmaps.  The following
-other plot types will be available soon: simple boxplots and sushi
-plots.
+graphs, sushi plots, exon-intron rendering, and region heatmaps.
+Simple boxplots will also be made available soon.
 
 
 ## Composability
