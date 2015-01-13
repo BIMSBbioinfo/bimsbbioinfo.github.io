@@ -77,7 +77,7 @@ Vedran supports research projects for the platform. He has extensive experience 
 [[Github]](https://github.com/frenkiboy)
 
 
-**E-mail:** vedrab.franke [at] mdc-berlin [dot] de
+**E-mail:** vedran.franke [at] mdc-berlin [dot] de
 </div></div>
 
 
