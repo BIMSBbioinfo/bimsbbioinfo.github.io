@@ -6,13 +6,19 @@ layout: default
 
 As of March 2014.  (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D++OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D).)
 
+1. Rampal R, __Akalin A__*, Madzo J, Vasanthakumar A, Pronier E, Patel J, Li Y, Ahn, et al. [DNA Hydroxymethylation Profiling Reveals that WT1 Mutations Result in Loss of TET2 Function in Acute Myeloid Leukemia](http://www.ncbi.nlm.nih.gov/pubmed/25482556).<span class="journal-name">Cell Reports</span>, 2014  ( * Equal contribution)
+
+1. __Altuna Akalin__ #*, __Vedran Franke__ *, Kristian Vlahoviček, Christopher E Mason, Dirk Schübeler. [genomation: a toolkit to summarize, annotate and visualize genomic intervals](http://www.ncbi.nlm.nih.gov/pubmed/25417204).<span class="journal-name">Bioinformatics  </span>, 2014 (# Co-corresponding author, * Equal contribution)
+
+1. Kai Blin, Christoph Dieterich, __Ricardo Wurmus__, Nikolaus Rajewsky, Markus Landthaler, __Altuna Akalin__. [DoRiNA 2.0—upgrading the doRiNA database of RNA interactions in post-transcriptional regulation](www.ncbi.nlm.nih.gov/pubmed/25416797).<span class="journal-name"> Nucleic Acid Research </span>, 2014
+
 1. Pascarella G, Lazarevic D, Plessy C, Bertin N, <span class="highlight-contributor">Akalin A</span>, et al.
    [NanoCAGE analysis of the mouse olfactory epithelium identifies the expression of vomeronasal receptors and of proximal LINE elements](http://journal.frontiersin.org/Journal/10.3389/fncel.2014.00041/abstract).
    <span class="journal-name">Front. Cell. Neurosci.</span>, 18 February 2014
 
 2. Haberle V, Li N, Hadzhiev Y, Plessy C, Previti C, Nepal C, Gehrig J, Dong X, <span class="highlight-contributor">Akalin A</span>, Suzuki AM,van IJcken W, Armant A, Ferg M, Strähle U, Carninci P, Müller F, Boris Lenhard B.
    [Two independent transcription initiation codes overlap on vertebrate core promoters](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature12974.html).
-   <span class="journal-name">Nature</span> (in Print)
+   <span class="journal-name">Nature</span>, 2014
 
 3. Lu C, Venneti S, <span class="highlight-contributor">Akalin A</span>, Fang F, Ward PS, Dematteo RG, Intlekofer AM, Chen C et al.
    [Induction of sarcomas by mutant IDH2](http://genesdev.cshlp.org/content/27/18/1986?top=1).
@@ -26,9 +32,9 @@ As of March 2014.  (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.
    [An optimized algorithm for detecting and annotating regional differential methylation](http://www.biomedcentral.com/1471-2105/14/S5/S10).
    <span class="journal-name">BMC Bioinformatics</span>. 2013;14 Suppl 5:S10
  
-6. <span class="highlight-contributor">Akalin A</span>\*, Kormaksson M, Li S, Garrett-Bakelman FE, Figueroa ME, Melnick A, Mason CE.
+6. <span class="highlight-contributor">Akalin A</span>\#, Kormaksson M, Li S, Garrett-Bakelman FE, Figueroa ME, Melnick A, Mason CE.
    [methylKit: a comprehensive R package for the analysis of genome-wide DNA methylation profiles](http://genomebiology.com/content/13/10/R87).
-   <span class="journal-name">Genome Biology</span>, 2012 Oct 3;13(10):R87 * (Co-corresponding author)
+   <span class="journal-name">Genome Biology</span>, 2012 Oct 3;13(10):R87 #(Co-corresponding author)
 
 7. <span class="highlight-contributor">Akalin A</span>\*, Garrett-Bakelman FE\*, Kormaksson M, Busuttil J, et al.
    [Base-pair resolution DNA methylation sequencing reveals profoundly divergent epigenetic landscapes in acute myeloid leukemia](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002781).
