@@ -10,7 +10,7 @@ As of March 2014.  (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.
 
 1. <span class="highlight-contributor">Akalin A</span> * # , <span class="highlight-contributor">Franke V</span> *, Vlahoviček K, Mason CE,Schübeler D. [genomation: a toolkit to summarize, annotate and visualize genomic intervals](http://www.ncbi.nlm.nih.gov/pubmed/25417204). <span class="journal-name">Bioinformatics  </span>, 2014 (# Co-corresponding author, * Equal contribution)
 
-1. Blin K, Dieterich C, <span class="highlight-contributor">Wurmus R</span>, Nikolaus Rajewsky, Markus Landthaler, <span class="highlight-contributor">Akalin A</span>. [DoRiNA 2.0—upgrading the doRiNA database of RNA interactions in post-transcriptional regulation](www.ncbi.nlm.nih.gov/pubmed/25416797). <span class="journal-name"> Nucleic Acid Research </span>, 2014
+1. Blin K, Dieterich C, <span class="highlight-contributor">Wurmus R</span>, Nikolaus Rajewsky, Markus Landthaler, <span class="highlight-contributor">Akalin A</span>. [DoRiNA 2.0—upgrading the doRiNA database of RNA interactions in post-transcriptional regulation](http://www.ncbi.nlm.nih.gov/pubmed/25416797). <span class="journal-name"> Nucleic Acid Research </span>, 2014
 
 1. Pascarella G, Lazarevic D, Plessy C, Bertin N, <span class="highlight-contributor">Akalin A</span>, et al.
    [NanoCAGE analysis of the mouse olfactory epithelium identifies the expression of vomeronasal receptors and of proximal LINE elements](http://journal.frontiersin.org/Journal/10.3389/fncel.2014.00041/abstract).
