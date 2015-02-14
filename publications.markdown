@@ -6,9 +6,9 @@ layout: default
 
 (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D++OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D).)
 
-1. Baubec T, Colombo DF, Wirbelauer C, Schmidt J, Burger L, Krebs AR, <span class="highlight-contributor">Akalin A</span>,Schübeler D. [Genomic profiling of DNA methyltransferases reveals a role for DNMT3B in genic methylation](http://www.ncbi.nlm.nih.gov/pubmed/25607372). <span class="journal-name">Nature</span>, 2015  
+1. Baubec T, Colombo DF, Wirbelauer C, Schmidt J, Burger L, Krebs AR, <span class="highlight-contributor">Akalin A</span>, Schübeler D. [Genomic profiling of DNA methyltransferases reveals a role for DNMT3B in genic methylation](http://www.ncbi.nlm.nih.gov/pubmed/25607372). <span class="journal-name">Nature</span>, 2015  
 
-1. Rampal R*, <span class="highlight-contributor">Akalin A</span>*, Madzo J*, Vasanthakumar A*, Pronier E, Patel J, Li Y, Ahn, et al. [DNA Hydroxymethylation Profiling Reveals that WT1 Mutations Result in Loss of TET2 Function in Acute Myeloid Leukemia](http://www.ncbi.nlm.nih.gov/pubmed/25482556). <span class="journal-name">Cell Reports</span>, 2014  ( * Equal contribution)
+1. Rampal R *, <span class="highlight-contributor">Akalin A</span>*, Madzo J *, Vasanthakumar A *, Pronier E, Patel J, Li Y, Ahn, et al. [DNA Hydroxymethylation Profiling Reveals that WT1 Mutations Result in Loss of TET2 Function in Acute Myeloid Leukemia](http://www.ncbi.nlm.nih.gov/pubmed/25482556). <span class="journal-name">Cell Reports</span>, 2014  ( * Equal contribution)
 
 1. <span class="highlight-contributor">Akalin A</span> * # , <span class="highlight-contributor">Franke V</span> *, Vlahoviček K, Mason CE,Schübeler D. [genomation: a toolkit to summarize, annotate and visualize genomic intervals](http://www.ncbi.nlm.nih.gov/pubmed/25417204). <span class="journal-name">Bioinformatics  </span>, 2014 (# Co-corresponding author, * Equal contribution)
 
