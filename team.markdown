@@ -38,7 +38,7 @@ applications.
 - 2005-2010, PhD (Genomics &amp; Bioinformatics), [University of Bergen](http://www.uib.no), Bergen, Norway
 - 2001-2005, B.Sc (Biological Sciences and Bioengineering), [Sabanci University](http://www.sabanciuniv.edu), Istanbul, Turkey
 
-**Publications:** [[PubMed]](http://www.ncbi.nlm.nih.gov/pubmed?term=Akalin%2C%20Altuna[Full%20Author%20Name])
+**Publications:** [[PubMed]](http://www.ncbi.nlm.nih.gov/pubmed/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D++OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D)
 [[GoogleScholar]](http://scholar.google.com/citations?user=UWxaFlcAAAAJ&amp;hl=en) [[ImpactStory]](https://impactstory.org/AltunaAkalin)
 
 **Websites:**
