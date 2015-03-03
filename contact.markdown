@@ -21,5 +21,10 @@ details and adress.
 </ul>
 
 ### Visit the lab
-
 see [directions here](https://www.mdc-berlin.de/8233888/en/about_the_mdc/wegweiser).
+
+## Open positions
+For up-to-date oppurtunities for prospective students and postdocs, please contact Altuna.
+
+## Master's & Intership projects
+Our lab has multiple project themes available for Master’s or internship projects. See [here](https://www.dropbox.com/s/5ow58xk2z9yindd/AA_BioinfoProjects.pdf?dl=0) for more info.
