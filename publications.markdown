@@ -28,7 +28,7 @@ layout: default
 
 4. Nepal C, Hadzhiev Y, Previty C, Haberle V, Li N, Takahashi H, Suzuki AM, Sheng Y, Abdelhamid R, Anand S, Gehrig J, <span class="highlight-contributor">Akalin A</span>, Kockx C, et al.
    [Dynamic regulation of the transcription initiation landscape at single nucleotide resolution during vertebrate embryogenesis](http://genome.cshlp.org/content/23/11/1938.abstract).
-   <span class="journal-name">Genome Res</span>. 2013 Sep 3
+   <span class="journal-name">Genome Research</span>. 2013 Sep 3
 
 5. Li S, Garrett-Bakelman FE, <span class="highlight-contributor">Akalin A</span>, Zumbo P, Levine R, et al.
    [An optimized algorithm for detecting and annotating regional differential methylation](http://www.biomedcentral.com/1471-2105/14/S5/S10).
@@ -48,7 +48,7 @@ layout: default
 
 9. Taylor MS, Bokil NJ, Le Cao KA, Masterman KA, Labzin LI, Semple CA, Kapetanovic R, Fairbairn L, <span class="highlight-contributor">Akalin A</span>, Faulkner GJ, Baillie JK et al.
    [Conservation and divergence in Toll-like receptor 4-regulated gene expression in primary human versus mouse macrophages](http://www.pnas.org/content/early/2012/03/23/1110156109).
-    <span class="journal-name">Proc Natl Acad Sci U S A</span>. 2012 Apr 17;109(16):E944-53
+    <span class="journal-name">PNAS</span>. 2012 Apr 17;109(16):E944-53
 
 10. Royo JL, Hidalgo C, Roncero Y, Seda MA, <span class="highlight-contributor">Akalin A</span>, Lenhard B, Casares F, Gómez-Skarmeta JL.
     [Dissecting the transcriptional regulatory properties of human chromosome 16 highly conserved non-coding regions](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0024824).
@@ -72,7 +72,7 @@ layout: default
 
 15. FANTOM Consortium, Suzuki H, Forrest AR, van Nimwegen E, Daub CO, Balwierz PJ, Irvine KM, Lassmann T, Ravasi T, Hasegawa Y, de Hoon MJ, Katayama S, Schroder K, Carninci P, Tomaru Y, Kanamori-Katayama M, Kubosaki A, <span class="highlight-contributor">Akalin A</span>, Ando Y, Arner E, Asada M, Asahara H, Bailey T, Bajic VB et al.
     [The transcriptional network that controls growth arrest and differentiation in a human myeloid leukemia cell line](http://www.nature.com/ng/journal/v41/n5/abs/ng.375.html).
-    <span class="journal-name">Nat Genet</span>. 2009 May;41(5):553-62
+    <span class="journal-name">Nature Genetics</span>. 2009 May;41(5):553-62
 
 16. <span class="highlight-contributor">Akalin A</span>, Fredman D, Arner E, Dong X, Bryne JC, Suzuki H, Daub CO, Hayashizaki Y, Lenhard B.
     [Transcriptional features of genomic regulatory blocks](http://genomebiology.com/content/10/4/r38).
@@ -92,4 +92,4 @@ layout: default
 
 20. Engström PG, Suzuki H, Ninomiya N, <span class="highlight-contributor">Akalin A</span>, Sessa L, Lavorgna G, Brozzi A, Luzi L, Tan SL, Yang L, Kunarso G, Ng EL, Batalov S, Wahlestedt C, Kai C, Kawai J, Carninci P, Hayashizaki Y, Wells C, Bajic VB, Orlando V, Reid JF, Lenhard B, Lipovich L.
     [Complex Loci in human and mouse genomes](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0020047).
-    <span class="journal-name">PLoS Genet</span>. 2006 Apr;2(4):e47
+    <span class="journal-name">PLoS Genetics</span>. 2006 Apr;2(4):e47
