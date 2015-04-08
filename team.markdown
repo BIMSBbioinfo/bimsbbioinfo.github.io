@@ -11,6 +11,7 @@ class: team
 
 
 ### Altuna Akalin, PhD
+
 #### Group Leader
 
 Works at MDC as of March 2014 as the group leader for the
@@ -58,6 +59,7 @@ applications.
 
 
 ### Vedran Franke
+
 #### Bioinformatics Scientist
 
 Vedran supports research projects for the platform. He has extensive experience in next-generation sequencing analysis: RNA-seq, ChIP-seq, smallRNA-seq and whole genome sequencing. 
@@ -86,6 +88,7 @@ Vedran supports research projects for the platform. He has extensive experience 
   <div class="large-9 columns" markdown="1">
 
 ### Dan Munteanu
+
 #### System Administrator
 
 
@@ -121,6 +124,7 @@ nodes. He is also involved in cluster maintenance tasks.
 
 
 ### Ricardo Wurmus
+
 #### System Administrator
 
 Ricardo provides IT support for BIMSB scientists.  He has extensive
@@ -151,6 +155,7 @@ He is a Free Software enthusiast and enjoys hacking hardware.
   <div class="large-9 columns" markdown="1">
 
 ### Sabrina Deter
+
 #### Administrative Assistant
 
 
