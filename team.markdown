@@ -7,7 +7,7 @@ class: team
 
 <div class="row">
   <img src="https://avatars.githubusercontent.com/u/638225" class="columns myroundThumb">
-  <div class="large-10 columns" markdown="1">
+  <div class="large-9 columns" markdown="1">
 
 #### Group Leader
 
@@ -54,7 +54,7 @@ applications.
 
 <div class="row">
   <img src="img/team/vedran.jpg" class="columns myroundThumb">
-  <div class="large-10 columns" markdown="1">
+  <div class="large-9 columns" markdown="1">
 
 #### Bioinformatics Scientist
 
@@ -83,7 +83,7 @@ Vedran supports research projects for the platform. He has extensive experience 
 
 <div class="row">
   <img src="img/team/danyel.jpg" class="columns myroundThumb">
-  <div class="large-10 columns" markdown="1">
+  <div class="large-9 columns" markdown="1">
 
 #### System Administrator
 
@@ -115,7 +115,7 @@ nodes. He is also involved in cluster maintenance tasks.
 
 <div class="row">
   <img src="https://avatars.githubusercontent.com/u/47740" class="columns myroundThumb">
-  <div class="large-10 columns" markdown="1">
+  <div class="large-9 columns" markdown="1">
 
 #### System Administrator
 
@@ -146,7 +146,7 @@ He is a Free Software enthusiast and enjoys hacking hardware.
 
 <div class="row">
   <img src="img/team/sabrina.jpg" class="columns myroundThumb">
-  <div class="large-10 columns" markdown="1">
+  <div class="large-9 columns" markdown="1">
 
 #### Administrative Assistant
 
