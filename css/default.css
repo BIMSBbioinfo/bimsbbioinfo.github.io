@@ -11,6 +11,7 @@
     ul.magellan.fixed {
         left: auto;
         min-width: auto;
+        width: 220px;
     }
 }
 
