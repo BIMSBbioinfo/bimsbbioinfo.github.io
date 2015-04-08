@@ -3,6 +3,9 @@
     margin-bottom: 1em;
     border-bottom: 1px solid #ddd;
 }
+.header img {
+    max-width: 220px;
+}
 
 .highlight-contributor {
     font-weight: bold;
