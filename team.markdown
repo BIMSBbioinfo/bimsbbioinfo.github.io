@@ -9,9 +9,9 @@ class: team
   <img src="https://avatars.githubusercontent.com/u/638225" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
-#### Group Leader
 
 ### Altuna Akalin, PhD
+#### Group Leader
 
 Works at MDC as of March 2014 as the group leader for the
 bioinformatics platform. He has experience in computational
@@ -56,9 +56,9 @@ applications.
   <img src="img/team/vedran.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
-#### Bioinformatics Scientist
 
 ### Vedran Franke
+#### Bioinformatics Scientist
 
 Vedran supports research projects for the platform. He has extensive experience in next-generation sequencing analysis: RNA-seq, ChIP-seq, smallRNA-seq and whole genome sequencing. 
 
@@ -85,9 +85,10 @@ Vedran supports research projects for the platform. He has extensive experience 
   <img src="img/team/danyel.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
+### Dan Munteanu
 #### System Administrator
 
-### Dan Munteanu
+
 
 Dan provides technical (IT) support for BIMSB users, maintenance for
 BIMSB servers and scientific software installation on cluster
@@ -117,9 +118,10 @@ nodes. He is also involved in cluster maintenance tasks.
   <img src="https://avatars.githubusercontent.com/u/47740" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
-#### System Administrator
+
 
 ### Ricardo Wurmus
+#### System Administrator
 
 Ricardo provides IT support for BIMSB scientists.  He has extensive
 experience in GNU/Linux system administration (RHCE) and programming.
@@ -148,9 +150,10 @@ He is a Free Software enthusiast and enjoys hacking hardware.
   <img src="img/team/sabrina.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
+### Sabrina Deter
 #### Administrative Assistant
 
-### Sabrina Deter
+
 
 **E-mail:** sabrina.deter [at] mdc-berlin [dot] de
 </div></div>
