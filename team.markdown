@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: with-nav
 class: team
 ---
 
