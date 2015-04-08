@@ -29,6 +29,7 @@ utils = (function () {
     return $(root).
       find(level).
       map(function () {
+        $(this).attr('data-magellan-destination', this.id);
         return {
           'id': this.id,
           'text': this.innerHTML,
