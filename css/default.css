@@ -7,6 +7,13 @@
     max-width: 220px;
 }
 
+@media only screen and (min-width: 64.063em) {
+    ul.magellan.fixed {
+        left: auto;
+        min-width: auto;
+    }
+}
+
 .highlight-contributor {
     font-weight: bold;
     font-style: italic;
