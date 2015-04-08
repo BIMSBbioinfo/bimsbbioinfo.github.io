@@ -14,6 +14,19 @@
     }
 }
 
+ul.magellan {
+    margin: 0;
+}
+
+ul.magellan li {
+    list-style: none;
+    padding: 0.5em;
+    background: none;
+}
+ul.magellan li.active {
+    background: #eee;
+}
+
 .highlight-contributor {
     font-weight: bold;
     font-style: italic;
