@@ -9,12 +9,18 @@ by bioinformatics platform members.
 
 -----------------------------------------
 
-### Databases
+### Databases and Web Apps
 
 ##### **doRiNA**
 
 [DoRiNA](http://dorina.mdc-berlin.de/) is a database for RNA binding
 protein binding sites and microRNAs.
+
+##### **UCSC browser mirror**
+
+
+##### **Internal Galaxy Server**
+We are currently setting up a local version of Galaxy framework. 
 
 -----------------------------------------
 
@@ -43,6 +49,25 @@ annotations.
 [[http://bioinformatics.mdc-berlin.de/genomation/]](http://bioinformatics.mdc-berlin.de/genomation/)
 
 -----------------------------------------
+
+### Other IT services
+The platform has additional IT responsibilities. Some of those are listed below for reference. 
+
+- BIMSB cluster maintenance
+- Linux workstation support
+- Customized software installation and packaing with [Guix](http://www.gnu.org/software/guix/)
+- Maintain and set up virtual machines running databases and web apps
+- Backups (sequencing data, Linux workstations, puppet data)
+- BIMSB user support: send an e-mail to for IT related requests [helpdesk@mdc-berlin.de](helpdesk@mdc-berlin.de)
+  - Unix + Grid Engine trainings, see [Training](http://bioinformatics.mdc-berlin.de/training.html) and [Learning Materials](http://bioinformatics.mdc-berlin.de/resources.html#learning-materials)
+  - Processing sequencing data restore requests
+  - Cluster problems
+  - Triaging file access issues
+
+- Installation / configuration / maintenance for BIMSB apps servers (the physical machines)
+
+-----------------------------------------
+
 
 ### Learning materials
 
