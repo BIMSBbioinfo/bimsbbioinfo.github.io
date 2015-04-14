@@ -58,7 +58,7 @@ The platform has additional IT responsibilities. Some of those are listed below 
 - Customized software installation and packaing with [Guix](http://www.gnu.org/software/guix/)
 - Maintain and set up virtual machines running databases and web apps
 - Backups (sequencing data, Linux workstations, puppet data)
-- BIMSB user support: send an e-mail to for IT related requests [helpdesk@mdc-berlin.de](helpdesk@mdc-berlin.de)
+- BIMSB user support: send an e-mail to [helpdesk@mdc-berlin.de](helpdesk@mdc-berlin.de) for IT related requests
   - Unix + Grid Engine trainings, see [Training](http://bioinformatics.mdc-berlin.de/training.html) and [Learning Materials](http://bioinformatics.mdc-berlin.de/resources.html#learning-materials)
   - Processing sequencing data restore requests
   - Cluster problems
