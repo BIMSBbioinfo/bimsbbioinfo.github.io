@@ -143,7 +143,7 @@ He is a Free Software enthusiast and enjoys hacking hardware.
 **Websites:**
 [[Homepage]](http://elephly.net)
 [[Github]](https://github.com/rekado)
-[[Gitorious]](https://gitorious.org/~rekado)
+[[Code]](http://git.elephly.net)
 
 **E-mail:** ricardo.wurmus [at] mdc-berlin [dot] de
 </div></div>
