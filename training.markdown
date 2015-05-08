@@ -10,6 +10,11 @@ training sessions.
 
 ---------------------------------------
 
+### Computational genomics course 2015
+We are organizing a computional genomics course for 18-24 October 2015. The course will include theoretical lectures followed by practical sessions where students directly apply what they have learned. The programming tasks will be mainly done in R. The course will be beneficial for first year computational biology PhD students and experimental biologists who want to begin data analysis or are seeking a better understanding of computational genomics.
+More info on: [http://compgen2015.mdc-berlin.de/](http://compgen2015.mdc-berlin.de/)
+
+
 ### Bioinformatics walk-in clinics
 Bioinformatics platform is offering walk-in clinics to help researchers with their bioinformatics questions and provide discussion. The clinics takes place every 30-45 days, it is announced via e-mail.
 
