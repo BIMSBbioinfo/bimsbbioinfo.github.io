@@ -15,7 +15,10 @@ We are organizing a computional genomics course for 18-24 October 2015. The cour
 
 More info on: [http://compgen2015.mdc-berlin.de/](http://compgen2015.mdc-berlin.de/)
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/FzUshcE1uxHuys" width="477" height="610" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/altunaakalin/compgen-poster-2015dlow" title="Computational genomics course poster 2015 (BIMSB/MDC-Berlin)" target="_blank">Computational genomics course poster 2015 (BIMSB/MDC-Berlin)</a> </strong> from <strong><a href="http://compgen2015.mdc-berlin.de/" target="_blank">Altuna Akalin</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FzUshcE1uxHuys" width="477" height="660" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/altunaakalin/compgen-poster-2015dlow" title="Computational genomics course poster 2015 (BIMSB/MDC-Berlin)" target="_blank">Computational genomics course poster 2015 (BIMSB/MDC-Berlin)</a> </strong> from <strong><a href="http://compgen2015.mdc-berlin.de/" target="_blank">Altuna Akalin</a></strong> </div>
+
+
+
 
 
 
