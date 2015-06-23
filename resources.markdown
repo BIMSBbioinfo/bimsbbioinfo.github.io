@@ -17,7 +17,7 @@ by bioinformatics platform members.
 protein binding sites and microRNAs.
 
 ##### **UCSC browser mirror**
-We are maintaining a UCSC mirror with limited number of species. You can see reach it via [http://genome.mdc-berlin.de](http://genome.mdc-berlin.de). We also provide [web space](http://bimsbstatic.mdc-berlin.de/cgi-bin/bimsb/mdc-hubs.cgi) for static htmls and Track hub data for UCSC browser. Contact [Dan Munteanu](http://bioinformatics.mdc-berlin.de/team.html#dan-munteanu) for more info.
+We are maintaining a UCSC mirror with limited number of species. You can see reach it via [http://genome.mdc-berlin.de](http://genome.mdc-berlin.de). We also provide [web space](http://bimsbstatic.mdc-berlin.net) - the link is accessible only from MDC network - for static htmls and Track hub data for UCSC browser. Contact [Dan Munteanu](http://bioinformatics.mdc-berlin.de/team.html#dan-munteanu) for more info.
 
 ##### **Internal Galaxy Server**
 We are currently setting up a local version of Galaxy framework. 
