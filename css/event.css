@@ -1,0 +1,51 @@
+body {
+    font-size: 120%;
+    background: #efefef;
+    color: #333;
+}
+
+p {
+    font-size: 1.5rem; }
+
+a:hover {
+    color: #aed136; }
+a, a:visited {
+       font-weight: bold; }
+
+dl dt {
+    font-variant: small-caps; }
+dl dt a {
+    color: #0095e3;
+    font-weight: bold;
+}
+dl dt a:hover {
+    color: #00b8dc;
+}
+
+h1, h2, h3 {
+    color: #aed136;
+    text-shadow: 1px 1px 0px #fff;
+    font-weight: bold; }
+
+h1 {
+    font-size: 3.2em;
+    margin-top: 1.5em;
+    text-transform: uppercase;
+}
+
+.date {
+    font-weight: bold;
+    font-size: 1.4em; }
+.where {
+    font-weight: bold;
+    font-size: 1.2em; }
+.panel {
+    background-color: #f4ac42;
+    border: 0;
+    color: #fff; }
+.panel * {
+    line-height: 1.2em;
+    color: #fff; }
+
+footer {
+    padding-top: 2em; }
