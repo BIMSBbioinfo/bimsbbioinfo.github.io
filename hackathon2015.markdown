@@ -3,6 +3,7 @@ layout: event
 ---
 
 # Bioinformatics Hackathon 2015
+![hackathon graphic](/img/hackathon-2015.png)
 
 MDC/BIMSB is organising a bioinformatics hackathon with support from
 RNA Bioinformatics Center (de.NBI) and venue support from IRI Life
@@ -38,6 +39,8 @@ will spend two days making a pipeline or a tool that solves a
 bioinformatics problem.  The participants can only use public datasets
 for the testing and development.  The hackathon will take place at
 IRI, Philippstr. 13, Haus 18 / Top Floor 10115 Berlin.
+
+![Philippstr. 13](/img/hackathon-2015-map.png)
 
 Coffee and snacks will be provided.
 
