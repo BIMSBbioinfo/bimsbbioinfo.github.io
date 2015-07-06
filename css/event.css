@@ -1,15 +1,16 @@
 body {
     font-size: 120%;
-    background: #efefef;
-    color: #333;
+    background: #005982;
+    color: #fff;
 }
 
 p {
     font-size: 1.5rem; }
 
 a:hover {
-    color: #aed136; }
+    color: #ffcc00; }
 a, a:visited {
+       color: #ffcc00;
        font-weight: bold; }
 
 dl dt {
@@ -19,12 +20,11 @@ dl dt a {
     font-weight: bold;
 }
 dl dt a:hover {
-    color: #00b8dc;
+    color: #ffcc00;
 }
 
 h1, h2, h3 {
-    color: #aed136;
-    text-shadow: 1px 1px 0px #fff;
+    color: #ffcc00;
     font-weight: bold; }
 
 h1 {
@@ -40,12 +40,15 @@ h1 {
     font-weight: bold;
     font-size: 1.2em; }
 .panel {
-    background-color: #f4ac42;
+    background-color: #fff;
     border: 0;
-    color: #fff; }
+    color: #005982; }
 .panel * {
     line-height: 1.2em;
-    color: #fff; }
+    color: #005982; }
 
 footer {
     padding-top: 2em; }
+
+strong {
+    color: #ffcc00; }
