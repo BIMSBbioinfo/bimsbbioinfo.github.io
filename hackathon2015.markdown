@@ -10,6 +10,11 @@ MDC/BIMSB is organising a bioinformatics hackathon with support from
 RNA Bioinformatics Center (de.NBI) and venue support from IRI Life
 sciences from **September 14th to 15th 2015** (2 days).
 
+The event is for students, postdocs and investigators who are already
+making and using bioinformatics tools.  Participants are encouraged to
+work on problems related to RNA bioinformatics, though other
+bioinformatics research problems are also welcome.
+
 <div class="large-8 columns large-centered panel">
   <span class="date">14-15 September 2015</span>
   <div class="where">
@@ -23,14 +28,10 @@ sciences from **September 14th to 15th 2015** (2 days).
   </div>
 </div>
 
-The event is for students, postdocs and investigators who are already
-making and using bioinformatics tools.  Participants are encouraged to
-work on problems related to RNA bioinformatics, though other
-bioinformatics research problems are also welcome.
-
 There will also be ready made pitches from RNA bioinformatics domain.
 The participants can work on a tool, pipeline and/or a data analysis
 problem using public data sets.
+
 
 ## Organization
 
