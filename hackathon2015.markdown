@@ -62,7 +62,7 @@ Please note that spaces are limited!
     <img src="/img/GroupLogo.png">
   </div>
   <div class="large-4 columns">
-    <img src="/img/logo-rbc.png">
+    <img src="/img/logo-deNBI.png">
   </div>
   <div class="large-4 columns">
     <img src="/img/logo-iri.png">
