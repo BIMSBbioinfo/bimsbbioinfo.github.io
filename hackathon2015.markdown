@@ -2,7 +2,8 @@
 layout: event
 ---
 
-# Bioinformatics Hackathon 2015
+<h1>Bio<span style="color:#fff">informatics</span> Hackathon <span style="color:#fff">2015</span></h1>
+
 ![hackathon graphic](/img/hackathon-2015.png)
 
 MDC/BIMSB is organising a bioinformatics hackathon with support from
