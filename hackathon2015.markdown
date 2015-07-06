@@ -62,7 +62,7 @@ Please note that spaces are limited!
 <hr/>
 <div class="row">
   <div class="large-4 columns">
-    <img src="/img/GroupLogo.png">
+    <img src="/img/logo-bimsb-white.png">
   </div>
   <div class="large-4 columns">
     <img src="/img/logo-deNBI.png">
