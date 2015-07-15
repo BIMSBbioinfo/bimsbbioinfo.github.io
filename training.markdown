@@ -19,6 +19,7 @@ More info on: [http://compgen2015.mdc-berlin.de/](http://compgen2015.mdc-berlin.
 
 
 ---------------------------------------
+
 ### Bioinformatics Hackathon 2015
 We are organizing a Bioinformatics Hackathon between 14-15 September 2015. The event is for students, postdocs and investigators who are already making and using bioinformatics tools. Participants are encouraged to work on problems related to RNA bioinformatics, though other bioinformatics research problems are also welcome. There is no restriction on which programming languages or frameworks (such as galaxy) are used for development as long as developed tools are open source.
 
