@@ -48,6 +48,11 @@ annotations.
 
 [[http://bioinformatics.mdc-berlin.de/genomation/]](http://bioinformatics.mdc-berlin.de/genomation/)
 
+##### **github repository**
+We try to develop software in the open as much as we can. You can reach our repository here:
+
+[[https://github.com/BIMSBbioinfo/]](https://github.com/BIMSBbioinfo/)
+
 -----------------------------------------
 
 ### Other IT services
