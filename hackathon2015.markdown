@@ -13,7 +13,9 @@ sciences from **September 14th to 15th 2015** (2 days).
 The event is for students, postdocs and investigators who are already
 making and using bioinformatics tools.  Participants are encouraged to
 work on problems related to RNA bioinformatics, though other
-bioinformatics research problems are also welcome.
+bioinformatics research problems are also welcome. There is no restriction 
+on which programming languages or frameworks (such as galaxy) is used for development 
+as long as it is open source. 
 
 <div class="large-8 columns large-centered panel">
   <span class="date">14-15 September 2015</span>
@@ -52,7 +54,8 @@ Coffee and snacks will be provided.
 All pipelines, scripts and software generated in the hackathon should
 be added to public GitHub repositories, and the details of those
 software and projects will be shared in the hackathon webpage as well
-as README files of the repositories.
+as README files of the repositories. If a galaxy workflow and/or pipeline is developed
+it should still be publicly available with sufficient documentation. 
 
 
 ## Registration / Application
