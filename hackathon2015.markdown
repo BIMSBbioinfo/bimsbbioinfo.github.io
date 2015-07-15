@@ -6,7 +6,7 @@ layout: event
 
 ![hackathon graphic](/img/hackathon-2015.png)
 
-MDC/BIMSB is organising a bioinformatics hackathon with support from
+[MDC/BIMSB](https://www.mdc-berlin.de/13800178/en/bimsb) is organising a bioinformatics hackathon with support from
 RNA Bioinformatics Center (de.NBI) and venue support from IRI Life
 sciences from **September 14th to 15th 2015** (2 days).
 
@@ -14,8 +14,8 @@ The event is for students, postdocs and investigators who are already
 making and using bioinformatics tools.  Participants are encouraged to
 work on problems related to RNA bioinformatics, though other
 bioinformatics research problems are also welcome. There is no restriction 
-on which programming languages or frameworks (such as galaxy) is used for development 
-as long as it is open source. 
+on which programming languages or frameworks (such as galaxy) are used for development 
+as long as developed tools are open source. 
 
 <div class="large-8 columns large-centered panel">
   <span class="date">14-15 September 2015</span>
