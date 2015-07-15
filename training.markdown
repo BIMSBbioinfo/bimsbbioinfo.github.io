@@ -18,10 +18,16 @@ More info on: [http://compgen2015.mdc-berlin.de/](http://compgen2015.mdc-berlin.
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/FzUshcE1uxHuys" width="477" height="660" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/altunaakalin/compgen-poster-2015dlow" title="Computational genomics course poster 2015 (BIMSB/MDC-Berlin)" target="_blank">Computational genomics course poster 2015 (BIMSB/MDC-Berlin)</a> </strong> from <strong><a href="http://compgen2015.mdc-berlin.de/" target="_blank">Altuna Akalin</a></strong> </div>
 
 
+---------------------------------------
+### Bioinformatics Hackathon 2015
+We are organizing a Bioinformatics Hackathon between 14-15 September 2015. The event is for students, postdocs and investigators who are already making and using bioinformatics tools. Participants are encouraged to work on problems related to RNA bioinformatics, though other bioinformatics research problems are also welcome. There is no restriction on which programming languages or frameworks (such as galaxy) are used for development as long as developed tools are open source.
+
+More info on: [http://bioinformatics.mdc-berlin.de/hackathon2015.html](http://bioinformatics.mdc-berlin.de/hackathon2015.html)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/pQHL696tKJY5yP" width="477" height="660" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/altunaakalin/bimsb-bioinfo-hackathon-2015" title="Bimsb bioinfo hackathon 2015" target="_blank">Bimsb bioinfo hackathon 2015</a> </strong> from <strong><a href="//www.slideshare.net/altunaakalin" target="_blank">Altuna Akalin</a></strong> </div>
 
 
-
-
+---------------------------------------
 
 ### Bioinformatics walk-in clinics
 Bioinformatics platform is offering walk-in clinics to help researchers with their bioinformatics questions and provide discussion. The clinics takes place every 30-45 days, it is announced via e-mail.
