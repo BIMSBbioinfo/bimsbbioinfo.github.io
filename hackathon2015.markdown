@@ -6,7 +6,7 @@ layout: event
 
 ![hackathon graphic](/img/hackathon-2015.png)
 
-[MDC/BIMSB](https://www.mdc-berlin.de/13800178/en/bimsb) is organising a bioinformatics hackathon with support from
+[MDC/BIMSB](https://www.mdc-berlin.de/13800178/en/bimsb) [Bioinformatics platform](http://bioinformatics.mdc-berlin.de) is organising a bioinformatics hackathon with support from
 RNA Bioinformatics Center (de.NBI) and venue support from IRI Life
 sciences from **September 14th to 15th 2015** (2 days).
 
