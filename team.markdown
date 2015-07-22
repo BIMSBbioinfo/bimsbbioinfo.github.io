@@ -165,9 +165,11 @@ PhD Students
 
 ---------------------------------------
 
+
 <div class="row">
   <img src="img/team/andromeda-orbit.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
+
   
 ### Inga Patarcic
 
@@ -191,6 +193,8 @@ Interns/ Master's students
 
 ---------------------------------------
 
+
+
 <div class="row">
   <img src="img/team/andromeda-orbit.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
@@ -211,6 +215,8 @@ TBA
 
 
 
+
+
 <div class="row">
   <img src="img/team/andromeda-orbit.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
@@ -227,6 +233,8 @@ TBA
 
 ##### Education:
 - 2005 - 2007 TBA
+
+
 
 
 Administration
