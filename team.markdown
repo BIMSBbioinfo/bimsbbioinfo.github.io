@@ -157,6 +157,85 @@ He is a Free Software enthusiast and enjoys hacking hardware.
 
 
 
+
+
+PhD Students
+---------------------------------------
+
+
+---------------------------------------
+
+<div class="row">
+  <img src="img/team/andromeda-orbit.jpg" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+  
+### Inga Patarcic
+
+#### PhD student
+
+TBA
+
+
+##### Previous Work Experience:
+- 2009 - 2014 TBA
+
+##### Education:
+- 2005 - 2007 TBA
+
+
+
+
+Interns/ Master's students
+---------------------------------------
+
+
+---------------------------------------
+
+<div class="row">
+  <img src="img/team/andromeda-orbit.jpg" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+  
+### Katarzyna Wreczycka 
+
+#### Intern
+
+TBA
+
+
+##### Previous Work Experience:
+- 2009 - 2014 TBA
+
+##### Education:
+- 2005 - 2007 TBA
+
+
+
+
+<div class="row">
+  <img src="img/team/andromeda-orbit.jpg" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+  
+### Adrian Bierling
+
+#### Master's student (FU)
+
+TBA
+
+
+##### Previous Work Experience:
+- 2009 - 2014 TBA
+
+##### Education:
+- 2005 - 2007 TBA
+
+
+Administration
+---------------------------------------
+
+
+---------------------------------------
+
+
 <div class="row">
   <img src="img/team/sabrina.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
