@@ -53,6 +53,10 @@ applications.
 </div></div>
 
 
+Research and IT Staff
+---------------------------------------
+
+
 <div class="row">
   <img src="img/team/vedran.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
