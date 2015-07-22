@@ -53,7 +53,7 @@ applications.
 </div></div>
 
 
-Research and IT Staff
+
 ---------------------------------------
 
 
