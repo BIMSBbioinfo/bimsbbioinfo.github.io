@@ -62,7 +62,8 @@ it should still be publicly available with sufficient documentation.
 
 Please let us know whether you want to participate by
 [registering here](https://docs.google.com/forms/d/1SJF8IEmh2z4pZz3KKaS1y9pFUpvNLvwlrqN_fSgaBqM/viewform).
-Please note that spaces are limited!
+
+Please note that spaces are limited!  The **registration deadline is August 10**.  Your participation will be confirmed by the 15th of August.  If you have any questions about the Hackathon [please write us an email](mailto:altuna.akalin@mdc-berlin.de).
 
 <hr/>
 <div class="row">
