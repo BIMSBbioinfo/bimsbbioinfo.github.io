@@ -200,7 +200,7 @@ Interns and Master's students
 
 
 <div class="row">
-  <img src="img/andromeda-orbit.jpg" class="columns myroundThumb">
+  <img src="img/team/kasia.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
   
   
@@ -208,19 +208,20 @@ Interns and Master's students
 
 #### Intern
 
-TBA
-
+Kasia mainly works on the R package [[genomation]](https://github.com/BIMSBbioinfo/genomation).
+Her internship scholarship is awarded by the Institute of Computer Science Polish Academy of Science.
 
 ##### Previous Work Experience:
-- 2009 - 2014 TBA
 
 ##### Education:
-- 2005 - 2007 TBA
+- 2012 - 2014 MSc, Bioinformatics and Systems Biology, University of Warsaw, Poland
+- 2010 - 2012 BSc, Bioinformatics and Systems Biology, University of Warsaw, Poland
 
 **Websites:**
-TBA
+[[LinkedIn]](https://www.linkedin.com/pub/katarzyna-wręczycka/43/38b/a55)
+[[Github]](https://github.com/katwre)
 
-**E-mail:** TBA
+**E-mail:** katarzyna.wreczycka [at] mdc-berlin [dot] de
 
 </div></div>
 
