@@ -167,7 +167,7 @@ PhD Students
 
 
 <div class="row">
-  <img src="/Users/ipatarc/bimsbbioinfo.github.io/img/team/inga.jpg" class="columns myroundThumb">
+  <img src="/Users/ipatarc/bimsbbioinfo.github.io/img/team/Inga.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
   
 
