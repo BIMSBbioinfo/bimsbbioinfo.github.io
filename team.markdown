@@ -209,7 +209,7 @@ Interns and Master's students
 #### Intern
 
 Kasia mainly works on the R package [[genomation]](https://github.com/BIMSBbioinfo/genomation).
-Her internship scholarship is awarded by the Institute of Computer Science Polish Academy of Science.
+Her internship scholarship was awarded by the Institute of Computer Science Polish Academy of Science.
 
 ##### Previous Work Experience:
 
