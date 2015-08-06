@@ -201,7 +201,7 @@ Interns and Master's students
 
 
 <div class="row">
-  <img src="img/team/kasia.jpg" class="columns myroundThumb">
+  <img src="img/team/kasia.png" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
   
   
