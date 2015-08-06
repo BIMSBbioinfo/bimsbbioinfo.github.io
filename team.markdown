@@ -167,29 +167,30 @@ PhD Students
 
 
 <div class="row">
-  <img src="img/andromeda-orbit.jpg" class="columns myroundThumb">
+  <img src="./img/team/Inga.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
   
 
 ### Inga Patarcic
 
 #### PhD student
-TBA
+
 
 
 ##### Previous Work Experience:
-- 2009 - 2014 TBA
+- 2013 - 2015 Researcher, The School of Medicine, University of Split
+- 2015 - 2015 Visiting Scientist, University of Edinburgh, The MRC Institute of Genetics and Molecular Medicine, Edinburgh
 
 
 ##### Education:
-- 2005 - 2007 TBA
+- 2015 - PhD Student, MDC BIMSB, Berlin, Germany
+- 2010 - 2013 Master Student, University of Zagreb, Croatia
+- 2007 - 2010 Bachelor Student, University of Zagreb, Croatia
 
-**Websites:**
-TBA
 
-**E-mail:** TBA
+**E-mail:** inga.patarcic [at] mdc-berlin [dot] de
 
-</div></div>
+</div></div> 
 
 
 
