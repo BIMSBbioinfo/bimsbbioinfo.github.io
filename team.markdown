@@ -155,7 +155,40 @@ He is a Free Software enthusiast and enjoys hacking hardware.
 **E-mail:** ricardo.wurmus [at] mdc-berlin [dot] de
 </div></div>
 
+<div class="row">
+  <img src="https://avatars2.githubusercontent.com/u/6254567?v=3&s=460" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
 
+### Bora Uyar, PhD
+
+#### Bioinformatics Scientist
+
+Bora has started working at MDC on 1st of August, 2015 as a bioinformatics scientist. He has had a balanced trainining of biological and computational sciences. He is interested in doing large-scale data analysis to understand the molecular biology of diseases. At MDC, he will develop tools and annotation pipelines related to RNA bioinformatics and NGS data analysis, which will be integrated with the Galaxy instance of the Berlin Institute of Medical Systems Biology. 
+
+##### Previous Experience:
+
+- 2014-2015, Bridging Postdoctoral Fellow, Structural and Computational Biology Unit
+  [European Molecular Biology Laboratory](http://www.embl.de/),
+  Heidelberg, Germany
+- 2011-2014, PhD, Structural and Computational Biology Unit
+  [European Molecular Biology Laboratory](http://www.embl.de/),
+  Heidelberg, Germany
+- 2008-2010, M.Sc, CIHR/MSFHR Bioinformatics Training Program
+  [Simon Fraser University](http://www.sfu.ca) and [BC Cancer Research Center](http://bioinformatics.bcgsc.ca/)
+  Vancouver, Canada
+- 2003-2008, B.Sc Biological Sciences and Bioengineering (followed a Bioinformatics curriculum), [Sabanci University](http://www.sabanciuniv.edu), 
+  Istanbul, Turkey
+
+**Publications:** [[PubMed]](http://www.ncbi.nlm.nih.gov/pubmed?term=Uyar%2C%20Bora%5BAuthor%5D)
+[[GoogleScholar]](https://scholar.google.com/citations?user=YEZr1LUAAAAJ&hl=en) 
+
+**Websites:**
+[[LinkedIn]](https://de.linkedin.com/pub/bora-uyar/25/504/110)
+[[Github]](https://github.com/borauyar)
+[[ResearchGate]](http://www.researchgate.net/profile/Bora_Uyar)
+
+**E-mail:** bora.uyar [at] mdc-berlin [dot] de
+</div></div>
 
 
 
