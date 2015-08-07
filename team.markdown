@@ -125,37 +125,6 @@ nodes. He is also involved in cluster maintenance tasks.
 
 
 <div class="row">
-  <img src="https://avatars.githubusercontent.com/u/47740" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
-
-
-
-### Ricardo Wurmus
-
-#### System Administrator
-
-Ricardo provides IT support for BIMSB scientists.  He has extensive
-experience in GNU/Linux system administration (RHCE) and programming.
-He is a Free Software enthusiast and enjoys hacking hardware.
-
-
-##### Previous Work Experience:
-- 2009 - 2014, Server, cluster and workstation administrator, Siemens Ltd. China, Shanghai
-- 2008 - 2009, Developer, Siemens AG, Berlin
-- 2007 - 2008, Developer, Siemens Switchgear Ltd., Shanghai
-
-##### Education:
-- 2005 - 2007 Siemens Technik Akademie, Berlin
-
-**Websites:**
-[[Homepage]](http://elephly.net)
-[[Github]](https://github.com/rekado)
-[[Code]](http://git.elephly.net)
-
-**E-mail:** ricardo.wurmus [at] mdc-berlin [dot] de
-</div></div>
-
-<div class="row">
   <img src="https://avatars2.githubusercontent.com/u/6254567?v=3&s=460" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
@@ -189,6 +158,40 @@ Bora has started working at MDC on 1st of August, 2015 as a bioinformatics scien
 
 **E-mail:** bora.uyar [at] mdc-berlin [dot] de
 </div></div>
+
+
+
+
+<div class="row">
+  <img src="https://avatars.githubusercontent.com/u/47740" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+
+### Ricardo Wurmus
+
+#### System Administrator
+
+Ricardo provides IT support for BIMSB scientists.  He has extensive
+experience in GNU/Linux system administration (RHCE) and programming.
+He is a Free Software enthusiast and enjoys hacking hardware.
+
+
+##### Previous Work Experience:
+- 2009 - 2014, Server, cluster and workstation administrator, Siemens Ltd. China, Shanghai
+- 2008 - 2009, Developer, Siemens AG, Berlin
+- 2007 - 2008, Developer, Siemens Switchgear Ltd., Shanghai
+
+##### Education:
+- 2005 - 2007 Siemens Technik Akademie, Berlin
+
+**Websites:**
+[[Homepage]](http://elephly.net)
+[[Github]](https://github.com/rekado)
+[[Code]](http://git.elephly.net)
+
+**E-mail:** ricardo.wurmus [at] mdc-berlin [dot] de
+</div></div>
+
+
 
 
 
@@ -233,31 +236,6 @@ Interns and Master's students
 ---------------------------------------
 
 
-<div class="row">
-  <img src="img/team/kasia.png" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
-  
-  
-### Katarzyna Wreczycka 
-
-#### Intern
-
-Katarzyna mainly works on the R package [[genomation]](https://github.com/BIMSBbioinfo/genomation).
-Her internship scholarship was awarded by the Institute of Computer Science Polish Academy of Science.
-
-##### Previous Work Experience:
-
-##### Education:
-- 2012 - 2014 MSc, Bioinformatics and Systems Biology, University of Warsaw, Poland
-- 2010 - 2012 BSc, Bioinformatics and Systems Biology, University of Warsaw, Poland
-
-**Websites:**
-[[LinkedIn]](https://www.linkedin.com/pub/katarzyna-wręczycka/43/38b/a55)
-[[Github]](https://github.com/katwre)
-
-**E-mail:** katarzyna.wreczycka [at] mdc-berlin [dot] de
-
-</div></div>
 
 
 <div class="row">
@@ -282,6 +260,34 @@ TBA
 TBA
 
 **E-mail:** TBA
+
+</div></div>
+
+
+
+<div class="row">
+  <img src="img/team/kasia.png" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+  
+  
+### Katarzyna Wreczycka 
+
+#### Intern
+
+Katarzyna mainly works on the R package [[genomation]](https://github.com/BIMSBbioinfo/genomation).
+Her internship scholarship was awarded by the Institute of Computer Science Polish Academy of Science.
+
+##### Previous Work Experience:
+
+##### Education:
+- 2012 - 2014 MSc, Bioinformatics and Systems Biology, University of Warsaw, Poland
+- 2010 - 2012 BSc, Bioinformatics and Systems Biology, University of Warsaw, Poland
+
+**Websites:**
+[[LinkedIn]](https://www.linkedin.com/pub/katarzyna-wręczycka/43/38b/a55)
+[[Github]](https://github.com/katwre)
+
+**E-mail:** katarzyna.wreczycka [at] mdc-berlin [dot] de
 
 </div></div>
 
