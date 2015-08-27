@@ -60,7 +60,7 @@ The platform has additional IT responsibilities. Some of those are listed below 
 
 - BIMSB cluster maintenance
 - Linux workstation support
-- Customized software installation and packaing with [Guix](http://www.gnu.org/software/guix/)
+- Customized software installation and packaging with [Guix](http://www.gnu.org/software/guix/), see list of available bioinformatics software [here](http://guix.mdc-berlin.de/packages?/?search=bioinfo).
 - Maintain and set up virtual machines running databases and web apps
 - Backups (sequencing data, Linux workstations, puppet data)
 - BIMSB user support: send an e-mail to [helpdesk@mdc-berlin.de](helpdesk@mdc-berlin.de) for IT related requests
