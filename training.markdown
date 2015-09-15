@@ -11,7 +11,7 @@ training sessions.
 ---------------------------------------
 
 ### Internal computational genomics course 2016
-We are organizing a computional genomics course for January/February 2016. The course will be open for BIMSB and MDC students and employees. The course contetn will be similar to compgen2015 course below. If you are interested, please register your interest below.
+We are organizing a computional genomics course for January/February 2016. The course will be open for BIMSB and MDC students and employees. The course content will be similar to compgen2015 course below. If you are interested, please register your interest below.
 
 Registration of interest [form](https://docs.google.com/forms/d/1zo0ixPyPZukFcUhUnbgzpvIfrPDkA1eqyHDHM03jIvo/viewform)
 
