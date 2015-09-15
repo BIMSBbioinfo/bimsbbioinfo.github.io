@@ -9,6 +9,9 @@ BIMSB scientists. We are planning to have Galaxy and R/Bioconductor
 training sessions.
 
 ---------------------------------------
+### Internal Computational genomics course 2016
+We are organizing a computional genomics course for January/February 2016. The course will be open for BIMSB and MDC students and employees. The course contetn will be similar to compgen2015 course below. If you are interested, please register your interest below.
+Registration of interest [form](https://docs.google.com/forms/d/1zo0ixPyPZukFcUhUnbgzpvIfrPDkA1eqyHDHM03jIvo/viewform)
 
 ### Computational genomics course 2015
 We are organizing a computional genomics course for 18-24 October 2015. The course will include theoretical lectures followed by practical sessions where students directly apply what they have learned. The programming tasks will be mainly done in R. The course will be beneficial for first year computational biology PhD students and experimental biologists who want to begin data analysis or are seeking a better understanding of computational genomics.
