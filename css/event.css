@@ -23,7 +23,7 @@ dl dt a:hover {
     color: #ffcc00;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     color: #ffcc00;
     font-weight: bold; }
 
@@ -52,3 +52,6 @@ footer {
 
 strong {
     color: #ffcc00; }
+
+ul {
+    font-size: inherit; }
