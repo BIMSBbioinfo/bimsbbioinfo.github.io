@@ -148,6 +148,9 @@ and optimized the R interface to the JavaScript code to enable the usage of
 the browser by R directly.  In two days we produced a working browser which
 supports genomic file formats, and most commonly used data types.
 
+#### Links
+* [Project on GitHub](https://github.com/uhlitz/gbdr)
+
 
 
 <hr/>
