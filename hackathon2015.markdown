@@ -29,10 +29,10 @@ IRI, Philippstr. 13, Haus 18 / Top Floor 10115 Berlin.
 ## Results
 
 During the bioinformatics hackaton, participants prototyped three different projects.
-With a more biological focus, the first project looked at the Influence of
-long non coding RNAs on splicing.  The second project centered on developing a
+With a more biological focus, the [first project](http://bioinformatics.mdc-berlin.de/hackathon2015.html#project-lincsplice) looked at the Influence of
+long non coding RNAs on splicing.  The [second project](http://bioinformatics.mdc-berlin.de/hackathon2015.html#project-interactive-tutorials-for-the-galaxy-platform) centered on developing a
 system for producing automated tutorials for the Galaxy platform, while the
-third project focused on integrating an interactive genome browser into the
+[third project](http://bioinformatics.mdc-berlin.de/hackathon2015.html#project-interactive-genome-browserhttpsgithubcomuhlitzgbdr) focused on integrating an interactive genome browser into the
 Bioconductor computing environment.
 
 ------
