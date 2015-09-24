@@ -35,6 +35,8 @@ system for producing automated tutorials for the Galaxy platform, while the
 third project focused on integrating an interactive genome browser into the
 Bioconductor computing environment.
 
+------
+
 ### Project: LINC_SPLICE
 
 #### Background and Motivation
@@ -111,6 +113,7 @@ ArrayExpress.
 * [Hackathon presentation](https://www.dropbox.com/s/93yo898218xzz59/linc-splice.pptx?dl=0)
 * [Project on GitHub](https://github.com/holtgrewe/linc_splice/)
 
+------
 
 ### Project: Interactive tutorials for the Galaxy platform
 
@@ -129,6 +132,7 @@ proper ways of doing analysis of biological data, without having a personal
 tutor.  We hope that this would greatly expand the usage of the Galaxy
 platform and the reproducibility of biological science.
 
+------
 
 ### Project: [Interactive genome browser](https://github.com/uhlitz/gbdr)
 
