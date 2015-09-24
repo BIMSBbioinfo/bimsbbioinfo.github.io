@@ -148,8 +148,8 @@ ArrayExpress.
 
 #### Links
 
-* Hackathon presentation: linc-splice
-* Project on GitHub: https://github.com/holtgrewe/linc_splice/
+* [Hackathon presentation](https://www.dropbox.com/s/93yo898218xzz59/linc-splice.pptx?dl=0)
+* [Project on GitHub](https://github.com/holtgrewe/linc_splice/)
 
 
 ### Interactive tutorials for the Galaxy platform
