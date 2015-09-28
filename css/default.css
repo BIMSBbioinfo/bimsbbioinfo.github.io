@@ -15,7 +15,7 @@
     }
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 400px) and (max-height: 700px) {
     #static-nav {
         display: none;
     }
