@@ -286,6 +286,9 @@ PhD Students
   
 ### Katarzyna Wreczycka 
 
+After completing a 6-month internship, Katarzyna has started working at MDC on 1st of October, 2015 as a PhD student.
+Her project is dealing with assessing prognostic and diagnostic features of high-dimensional genomics data for neuroblastoma.
+
 #### PhD student
 
 ##### Previous Work Experience:
