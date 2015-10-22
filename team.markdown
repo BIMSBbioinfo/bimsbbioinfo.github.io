@@ -279,6 +279,34 @@ PhD Students
 
 
 
+<div class="row">
+  <img src="img/team/kasia.jpg" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+  
+  
+### Katarzyna Wreczycka 
+
+After completing a 6-month internship, Katarzyna has started working at MDC on 1st of October, 2015 as a PhD student.
+Her project is dealing with assessing prognostic and diagnostic features of high-dimensional genomics data for neuroblastoma.
+
+#### PhD student
+
+##### Previous Work Experience:
+- 2014 Intern, MDC BIMSB &amp; [Insitute of Computer Science Polish Academy of Science](http://www2.ipipan.waw.pl/index.php/en), Berlin, Germany
+
+##### Education:
+- 2012 - 2014 MSc, Bioinformatics and Systems Biology, [University of Warsaw](http://www.mimuw.edu.pl/?LANG=en), Warsaw, Poland
+- 2010 - 2012 BSc, Bioinformatics and Systems Biology, [University of Warsaw](http://www.mimuw.edu.pl/?LANG=en), Warsaw, Poland
+
+**Websites:**
+[[LinkedIn]](https://www.linkedin.com/pub/katarzyna-wręczycka/43/38b/a55)
+[[Github]](https://github.com/katwre)
+
+**E-mail:** katarzyna.wreczycka [at] mdc-berlin [dot] de
+
+</div></div>
+
+
 
 Interns and Master's students
 ---------------------------------------
@@ -312,33 +340,6 @@ TBA
 
 </div></div>
 
-
-
-<div class="row">
-  <img src="img/team/kasia.png" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
-  
-  
-### Katarzyna Wreczycka 
-
-#### Intern
-
-Katarzyna mainly works on the R package [[genomation]](https://github.com/BIMSBbioinfo/genomation).
-Her internship scholarship was awarded by the Institute of Computer Science Polish Academy of Science.
-
-##### Previous Work Experience:
-
-##### Education:
-- 2012 - 2014 MSc, Bioinformatics and Systems Biology, University of Warsaw, Poland
-- 2010 - 2012 BSc, Bioinformatics and Systems Biology, University of Warsaw, Poland
-
-**Websites:**
-[[LinkedIn]](https://www.linkedin.com/pub/katarzyna-wręczycka/43/38b/a55)
-[[Github]](https://github.com/katwre)
-
-**E-mail:** katarzyna.wreczycka [at] mdc-berlin [dot] de
-
-</div></div>
 
 
 
