@@ -11,6 +11,11 @@ training sessions.
 
 ---------------------------------------
 
+### Computational genomics course 2016
+We are organizing a computional genomics course titled "Computational genomics approaches to precision medicine". The course will take place between 12 and 23 September 2016 in Berlin. The course will include theoretical lectures followed by practical sessions where students directly apply what they have learned. The programming tasks will be mainly done in R and unix. The course will be beneficial for first year computational biology PhD students and experimental biologists who want to begin data analysis or are seeking a better understanding of computational genomics and its applications in precision medicine.
+
+more information to follow...
+
 ### Bioinformatics walk-in clinics
 Bioinformatics platform is offering walk-in clinics to help researchers with their bioinformatics questions and provide discussion. The clinics takes place every 30-45 days, it is announced via e-mail through MDC maillists. 
 
