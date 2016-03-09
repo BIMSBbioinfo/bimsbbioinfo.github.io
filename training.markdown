@@ -16,6 +16,8 @@ We are organizing a computional genomics course titled "Computational genomics a
 
 more information to follow...
 
+---------------------------------------
+
 ### Bioinformatics walk-in clinics
 Bioinformatics platform is offering walk-in clinics to help researchers with their bioinformatics questions and provide discussion. The clinics takes place every 30-45 days, it is announced via e-mail through MDC maillists. 
 
