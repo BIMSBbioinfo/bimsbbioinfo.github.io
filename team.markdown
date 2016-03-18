@@ -65,7 +65,7 @@ Research and IT Staff
   <div class="large-9 columns" markdown="1">
 
 
-### Vedran Franke
+### Vedran Franke, PhD
 
 #### Bioinformatics Scientist
 
