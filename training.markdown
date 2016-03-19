@@ -14,7 +14,9 @@ training sessions.
 ### Computational genomics course 2016
 We are organizing a computional genomics course titled "Computational genomics approaches to precision medicine". The course will take place between 12 and 23 September 2016 in Berlin. The course will include theoretical lectures followed by practical sessions where students directly apply what they have learned. The programming tasks will be mainly done in R and unix. The course will be beneficial for first year computational biology PhD students and experimental biologists who want to begin data analysis or are seeking a better understanding of computational genomics and its applications in precision medicine.
 
-more information to follow...
+More info on: [http://compgen2016.mdc-berlin.de/](http://compgen2016.mdc-berlin.de/)
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/Af8me9jbSbEKod" width="477" height="660" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/altunaakalin/computational-genomics-approaches-to-precision-medicine" title="Computational genomics approaches to precision medicine" target="_blank">Computational genomics approaches to precision medicine</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/altunaakalin">Altuna Akalin</a></strong> </div>
 
 ---------------------------------------
 
