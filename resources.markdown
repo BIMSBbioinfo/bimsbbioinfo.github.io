@@ -59,6 +59,7 @@ RNA Centric Annotation System (RCAS) is an R package that provides
     the transcriptome. RCAS overlays the input target regions with the annotated gene 
     features and generates a variety of summary plots. Furthermore, RCAS enables GO term 
     and gene set enrichment analyses based on targeted genes.  
+[[https://github.com/BIMSBbioinfo/RCAS/]](https://github.com/BIMSBbioinfo/RCAS/)
 
 ##### **github repository**
 We try to develop software in the open as much as we can. You can reach our repository here:
