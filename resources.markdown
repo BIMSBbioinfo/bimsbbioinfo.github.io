@@ -48,6 +48,18 @@ annotations.
 
 [[http://bioinformatics.mdc-berlin.de/genomation/]](http://bioinformatics.mdc-berlin.de/genomation/)
 
+##### **RCAS**
+
+RNA Centric Annotation System (RCAS) is an R package that provides
+    dynamic annotations with interactive figures and tables for custom input files 
+    that contain transcriptomic target regions. Such transcriptomic target regions 
+    could be, for instance, peak regions detected by CLIP-Seq analysis that detect 
+    protein-RNA interactions, MeRIP-Seq analysis that detect RNA modifications 
+    (alias the epitranscriptome), or any collection of target regions at the level of 
+    the transcriptome. RCAS overlays the input target regions with the annotated gene 
+    features and generates a variety of summary plots. Furthermore, RCAS enables GO term 
+    and gene set enrichment analyses based on targeted genes.  
+
 ##### **github repository**
 We try to develop software in the open as much as we can. You can reach our repository here:
 
