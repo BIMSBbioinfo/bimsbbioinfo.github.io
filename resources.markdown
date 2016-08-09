@@ -20,7 +20,7 @@ protein binding sites and microRNAs.
 We are maintaining a UCSC mirror with limited number of species. You can see reach it via [http://genome.mdc-berlin.de](http://genome.mdc-berlin.de). We also provide [web space](http://bimsbstatic.mdc-berlin.net) (the link is accessible only from MDC network) for static htmls and Track hub data for UCSC browser. Contact [Dan Munteanu](http://bioinformatics.mdc-berlin.de/team.html#dan-munteanu) for more info.
 
 ##### **Internal Galaxy Server**
-We are maintaining a local version of Galaxy framework available at (https://galaxy.mdc-berlin.net/)[https://galaxy.mdc-berlin.net/]. This website is only accesible within campus. To gain access please send an e-mail to (galaxy@mdc-berlin.de)[mailto:galaxy@mdc-berlin.de]. We provide galaxy tutorials as well. These are announced via e-mail using MDC mailling lists. 
+We are maintaining a local version of Galaxy framework available at [https://galaxy.mdc-berlin.net/]([https://galaxy.mdc-berlin.net/). This website is only accesible within campus. To gain access please send an e-mail to [galaxy@mdc-berlin.de](mailto:galaxy@mdc-berlin.de). We provide galaxy tutorials as well. These are announced via e-mail using MDC mailling lists. 
 
 -----------------------------------------
 
