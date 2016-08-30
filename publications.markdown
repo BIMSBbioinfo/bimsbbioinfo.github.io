@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: with-nav
 ---
 
 # Publications
+
+## Peer-reviewed publications
 
 (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D++OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D).)
 
@@ -93,3 +95,9 @@ layout: default
 20. Engström PG, Suzuki H, Ninomiya N, <span class="highlight-contributor">Akalin A</span>, Sessa L, Lavorgna G, Brozzi A, Luzi L, Tan SL, Yang L, Kunarso G, Ng EL, Batalov S, Wahlestedt C, Kai C, Kawai J, Carninci P, Hayashizaki Y, Wells C, Bajic VB, Orlando V, Reid JF, Lenhard B, Lipovich L.
     [Complex Loci in human and mouse genomes](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0020047).
     <span class="journal-name">PLoS Genetics</span>. 2006 Apr;2(4):e47
+
+## Book chapters
+
+1. Baubec T & Akalin A. ["Genome-Wide Analysis of DNA Methylation Patterns by High-Throughput Sequencing"](http://link.springer.com/chapter/10.1007/978-3-319-31350-4_9). Field Guidelines for Genetic Experimental Designs in High-Throughput Sequencing. Springer, 2016.
+
+## Pre-prints
