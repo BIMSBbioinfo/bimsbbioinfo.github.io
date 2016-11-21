@@ -139,6 +139,7 @@ Bren specializes in chromatin structure and organization using thermodynamic and
 - 2009 - 2014, doctoral candidate, University of Munich (LMU), Chair of Statistical and Biological Physics, Munich, Germany
 
 **Selected Publications:** 
+
 [[Adsorption-Desorption Kinetics of Soft Particles]](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.088301), <i>Physical Review Letters</i>, <b>115</b>, 088301 (2015)
 
 [[Replication-Guided Nucleosome Packing and Nucleosome Breathing Expedite the Formation of Dense Arrays]](http://nar.oxfordjournals.org/content/early/2014/11/26/nar.gku1190.abstract), <i>Nucleic Acids Research, Oxford Journals</i>, <b>42</b>, 13633 (2014)
@@ -149,7 +150,9 @@ Bren specializes in chromatin structure and organization using thermodynamic and
 [[Further publications available on researchgate]](https://www.researchgate.net/profile/Brendan_Osberg)
 
 **Websites:**
+
 [[LinkedIn]](https://www.linkedin.com/in/brendan-osberg-18960814)
+
 [[CV]](http://myweb.dal.ca/bosberg/resume.html)
 
 
