@@ -122,6 +122,39 @@ nodes. He is also involved in cluster maintenance tasks.
 **E-mail:** dan.munteanu [at] mdc-berlin [dot] de
 </div></div>
 
+<div class="row">
+  <img src="img/team/BrenO.jpg" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+
+### Bren Osberg, Dr. rer. nat.
+
+#### Biophysicist/Bioinformatics Scientist
+
+Bren specializes in chromatin structure and organization using thermodynamic and statistical-mechanics-based modelling. Previous publications have focused on granular media and nucleosome positioning; current projects focus on deconvolution algorithms for cell-mixtures using general bio-marker algorithms.
+
+##### Previous Work Experience:
+- 2014 - 2015, Researcher, Technical University of Munich (TUM), Physics of Complex Biosystems, Garching, Germany
+
+##### Education:
+- 2009 - 2014, doctoral candidate, University of Munich (LMU), Chair of Statistical and Biological Physics, Munich, Germany
+
+**Selected Publications:** 
+[[Adsorption-Desorption Kinetics of Soft Particles]](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.088301), <i>Physical Review Letters</i>, <b>115</b>, 088301 (2015)
+
+[[Replication-Guided Nucleosome Packing and Nucleosome Breathing Expedite the Formation of Dense Arrays]](http://nar.oxfordjournals.org/content/early/2014/11/26/nar.gku1190.abstract), <i>Nucleic Acids Research, Oxford Journals</i>, <b>42</b>, 13633 (2014)
+
+[[Toward a Unified Physical Model of Nucleosome Patterns Flanking Transcription Start Sites]](http://www.pnas.org/content/110/14/5719.abstract), <i>Proceedings of the National Acadamy of Sciences</i>, <b>110</b>, 5719 (2013)
+
+
+[[Further publications available on researchgate]](https://www.researchgate.net/profile/Brendan_Osberg)
+
+**Websites:**
+[[LinkedIn]](https://www.linkedin.com/in/brendan-osberg-18960814)
+[[CV]](http://myweb.dal.ca/bosberg/resume.html)
+
+
+**E-mail:** Brendan.Osberg [at] mdc-berlin [dot] de
+</div></div>
 
 
 <div class="row">
@@ -299,7 +332,7 @@ Her project is dealing with assessing prognostic and diagnostic features of high
 - 2010 - 2012 BSc, Bioinformatics and Systems Biology, [University of Warsaw](http://www.mimuw.edu.pl/?LANG=en), Warsaw, Poland
 
 **Websites:**
-[[LinkedIn]](https://www.linkedin.com/pub/katarzyna-wręczycka/43/38b/a55)
+[[LinkedIn]](https://www.linkedin.com/pub/katarzyna-wr??czycka/43/38b/a55)
 [[Github]](https://github.com/katwre)
 
 **E-mail:** katarzyna.wreczycka [at] mdc-berlin [dot] de
