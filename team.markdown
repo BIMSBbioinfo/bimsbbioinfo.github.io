@@ -261,6 +261,32 @@ PhD Students
 
 
 <div class="row">
+  <img src="./img/team/Alex.jpg" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+  
+
+### Alexander Gosdschan
+
+#### PhD student
+
+Alexander will join with Baris Tursun (Tursun Research Group at MDC) during his PhD to analyse and model gene-regulation in c.elegans and other model organisms.
+
+##### Previous Work Experience:
+- 2015 - 2016 Intern, MDC BIMSB, Berlin, Germany
+
+
+##### Education:
+- 2016 - PhD Student, MDC BIMSB, Berlin, Germany
+- 2014 - 2016 Master Student, Freie Universtät Berlin, Germany
+- 2010 - 2014 Bachelor Student, Freie Universtät Berlin, Germany
+
+
+**E-mail:** Alexander.Gosdschan [at] mdc-berlin [dot] de
+
+</div></div> 
+
+
+<div class="row">
   <img src="./img/team/Inga.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
   
