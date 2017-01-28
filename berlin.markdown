@@ -8,6 +8,7 @@ This is a non-exhaustive list of Bioinformatics groups in Berlin. The groups are
 affiliations.
 If you want to be included please make a pull request to our github repository
 
+---------------------------------------
 
 ### MDC-Berlin
 
@@ -41,13 +42,22 @@ __Research Interest/Areas of expertise:__ Evolutionary and cancer genomics
 
 [[Lab Website]](https://www.mdc-berlin.de/46613283/en/research/research_teams/evolution-and-cancer-genomics)
 
+---------------------------------------
 
 ### Humbolt University 
 
+---------------------------------------
+
 ### Charite
+
+---------------------------------------
 
 ### Free University
 
+---------------------------------------
+
 ### Max Planck Institute for Molecular Genetics
+
+---------------------------------------
 
 ### Robert Koch Institute 
