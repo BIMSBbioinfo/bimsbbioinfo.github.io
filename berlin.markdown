@@ -44,7 +44,21 @@ __Research Interest/Areas of expertise:__ Evolutionary and cancer genomics
 
 ---------------------------------------
 
+### Berlin Institute of Health
+
+### Bioinformatics Core Facility
+__Research Interest/Areas of expertise:__ genomics data analysis and data integration 
+
+[[Lab Website]](https://www.bihealth.org/en/research/core-facilities/bioinformatics/)
+
+---------------------------------------
+
 ### Humbolt University 
+
+#### Bluethgen Lab
+Modelling signalling and gene-regulatory networks
+
+[[Lab Website]](http://www.sys-bio.net/)
 
 ---------------------------------------
 
@@ -64,16 +78,16 @@ __Research Interest/Areas of expertise:__ Algorithm development for bioinformati
 
 ### Max Planck Institute for Molecular Genetics
 
+#### Marsico Lab
+__Research Interest/Areas of expertise:__ RNA bioinformatics
+
+[[Lab Website]](http://www.molgen.mpg.de/2733742/RNA-Bioinformatics)
+
 #### Vingron Lab
 __Research Interest/Areas of expertise:__ transcriptional regulation
 
 
 [[Lab Website]](https://www.molgen.mpg.de/93952/Regulation_der_Transkription)
-
-#### Marsico Lab
-__Research Interest/Areas of expertise:__ RNA bioinformatics
-
-[[Lab Website]](http://www.molgen.mpg.de/2733742/RNA-Bioinformatics)
 
 ---------------------------------------
 
