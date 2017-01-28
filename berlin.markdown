@@ -54,10 +54,32 @@ __Research Interest/Areas of expertise:__ Evolutionary and cancer genomics
 
 ### Free University
 
+#### Reinert Lab
+__Research Interest/Areas of expertise:__ Algorithm development for bioinformatics
+
+[[Lab Website]](https://www.molgen.mpg.de/93952/Regulation_der_Transkription)
+
+
 ---------------------------------------
 
 ### Max Planck Institute for Molecular Genetics
 
+#### Vingron Lab
+__Research Interest/Areas of expertise:__ transcriptional regulation
+
+
+[[Lab Website]](https://www.molgen.mpg.de/93952/Regulation_der_Transkription)
+
+#### Marsico Lab
+__Research Interest/Areas of expertise:__ RNA bioinformatics
+
+[[Lab Website]](http://www.molgen.mpg.de/2733742/RNA-Bioinformatics)
+
 ---------------------------------------
 
 ### Robert Koch Institute 
+
+#### Renard Lab
+__Research Interest/Areas of expertise:__ Proteomics and genomics software development
+
+[[Lab Website]](http://www.rki.de/EN/Content/Institute/DepartmentsUnits/JuniorGroups/JRG4.html?nn=2386920)
