@@ -6,7 +6,7 @@ class: team
 # Bioinformatics Groups in Berlin
 This is a non-exhaustive list of Bioinformatics groups in Berlin. The groups are listed under their primary
 affiliations, some labs will be have multiple affiliations.
-If you want to be included please make a pull request to our github repository after editing [[this]](https://github.com/BIMSBbioinfo/bimsbbioinfo.github.io/blob/master/berlin.markdown) markdown document.
+If you want to be included  or edit the information please make a pull request to our github repository after editing [[this]](https://github.com/BIMSBbioinfo/bimsbbioinfo.github.io/blob/master/berlin.markdown) markdown document.
 
 ---------------------------------------
 
@@ -46,7 +46,7 @@ __Research Interest/Areas of expertise:__ Evolutionary and cancer genomics
 
 ### Berlin Institute of Health
 
-### Bioinformatics Core Facility
+#### Beule Lab/ Bioinformatics Core Facility
 __Research Interest/Areas of expertise:__ genomics data analysis and data integration 
 
 [[Lab Website]](https://www.bihealth.org/en/research/core-facilities/bioinformatics/)
@@ -56,9 +56,14 @@ __Research Interest/Areas of expertise:__ genomics data analysis and data integr
 ### Humbolt University 
 
 #### Bluethgen Lab
-Modelling signalling and gene-regulatory networks
+__Research Interest/Areas of expertise:__ Modelling signalling and gene-regulatory networks
 
 [[Lab Website]](http://www.sys-bio.net/)
+
+#### Hertzel Lab
+__Research Interest/Areas of expertise:__  chronobiology (circadian rthyms)
+
+[[Lab Website]](https://itb.biologie.hu-berlin.de/wiki/groups/herzel/start)
 
 ---------------------------------------
 
@@ -85,7 +90,6 @@ __Research Interest/Areas of expertise:__ RNA bioinformatics
 
 #### Vingron Lab
 __Research Interest/Areas of expertise:__ transcriptional regulation
-
 
 [[Lab Website]](https://www.molgen.mpg.de/93952/Regulation_der_Transkription)
 
