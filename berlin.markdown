@@ -4,9 +4,9 @@ class: team
 ---
 
 # Bioinformatics Groups in Berlin
-This is a non-exhaustive list of Bioinformatics groups in Berlin. The groups are listed under their main
-affiliations.
-If you want to be included please make a pull request to our github repository
+This is a non-exhaustive list of Bioinformatics groups in Berlin. The groups are listed under their primary
+affiliations, some labs will be have multiple affiliations.
+If you want to be included please make a pull request to our github repository after editing [[this]](https://github.com/BIMSBbioinfo/bimsbbioinfo.github.io/blob/master/berlin.markdown) markdown document.
 
 ---------------------------------------
 
