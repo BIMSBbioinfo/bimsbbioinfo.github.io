@@ -8,7 +8,7 @@ layout: with-nav
 
 ### Research Software sustainability 
 Reproducibility of scientific workflows is a general problem across all fields of science including computation and data 
-analysis heavy fields. For data analysis or computational work it is desirable to install the exact same version as 
+analysis heavy fields (see [1](http://science.sciencemag.org/content/334/6060/1226) for reference). For data analysis or computational work it is desirable to install the exact same version as 
 published research software in order to enable reproduction of published data and controlled manipulation or augmentation 
 of the software system. At MDC, we use GNU Guix for more than three years to build scientific software at different 
 versions and variants, and to manage software environments in a reproducible fashion. We have also team members who 
