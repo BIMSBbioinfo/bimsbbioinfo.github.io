@@ -3,7 +3,7 @@ layout: with-nav
 ---
 
 # Master’s/Internship projects 
-Akalin lab (http://bioinformatics.mdc-berlin.de) has multiple project themes available for Master’s or internship projects.
+[BIMSB Bioinformatics platform](http://bioinformatics.mdc-berlin.de) has multiple project themes available for Master’s or internship projects. Applicants must have the relevant background for each project. 
 
 
 ### Research Software sustainability 
