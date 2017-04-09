@@ -27,4 +27,4 @@ see [directions here](https://www.mdc-berlin.de/8233888/en/about_the_mdc/wegweis
 For up-to-date oppurtunities for prospective students and postdocs, please contact Altuna.
 
 ## Master's & Intership projects
-Our lab has multiple project themes available for Master’s or internship projects. See [here](https://gist.github.com/al2na/d4d4a62d80f9c7564e8a) for more info.
+Our lab has multiple project themes available for Master’s or internship projects. See [here](http://bioinformatics.mdc-berlin.de/mastersprojects.html) for more info.
