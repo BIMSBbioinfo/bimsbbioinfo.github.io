@@ -25,7 +25,7 @@ package variants with Guix and Cuirass.
 
 #### What will you get out of this?
 * You will get to contribute to a GNU project
-* TBD
+* You will learn about continuous integration and deployment for software
 * TBD
 * TBD
 
