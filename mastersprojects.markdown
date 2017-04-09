@@ -24,7 +24,7 @@ package variants with Guix and Cuirass.
 - Investigate and patch sources of non-determinism in software packages offered through Guix.
 
 #### What will you get out of this?
-* TBD
+* You will get to contribute to a GNU project
 * TBD
 * TBD
 * TBD
