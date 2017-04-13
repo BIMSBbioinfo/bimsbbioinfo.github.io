@@ -10,9 +10,9 @@ layout: with-nav
 Reproducibility of scientific workflows is a general problem across all fields of science including computation and data 
 analysis heavy fields (see [1](http://science.sciencemag.org/content/334/6060/1226) for reference). For data analysis or computational work it is desirable to install the exact same version as 
 published research software in order to enable reproduction of published data and controlled manipulation or augmentation 
-of the software system. At MDC, we use GNU Guix for more than three years to build scientific software at different 
+of the software system. At the MDC, we have been using GNU Guix for more than three years to build scientific software at different 
 versions and variants, and to manage software environments in a reproducible fashion. We have also team members who 
-are main contributors to GNU Guix project. We are looking for new members who can help improve our workflow.
+are main contributors to the GNU Guix project. We are looking for new members who can help improve our workflow.
 Our goal is to implement a system based on [GNU Guix](https://www.gnu.org/software/guix/manual/html_node/Package-Management.html) 
 and [Cuirass](https://notabug.org/mthl/cuirass), by which we can build a wide range of scientific software continuously and 
 automatically in a bit-for-bit reproducible fashion and offer the build results to Guix users.
@@ -24,17 +24,19 @@ package variants with Guix and Cuirass.
 - Investigate and patch sources of non-determinism in software packages offered through Guix.
 
 #### What will you get out of this?
-* You will get to contribute to a GNU project
-* You will learn about continuous integration and deployment for software
-* TBD
-* TBD
+* You will learn about continuous integration and software deployment
+* You will learn about and improve a state-of-the-art implementation of a functional package manager
+* You will contribute to improving the state of software reproducibility
+* You will learn about setting up and running production-level web services
+* You will get to contribute to one of the most welcoming projects under the GNU umbrella
+* You will get to work with experienced free software hackers
 
 #### What do you need to know?
-* TBD
-* TBD
-* TBD
-
-
+* Familiarity with building and patching source code (GNU make, diff, patch)
+* Basic knowledge of version control with Git
+* Knowledge of HTTP and RESTful APIs
+* You need to be comfortable with the GNU+Linux command line interface
+* Experience with Scheme (or another Lisp) is beneficial but not required.  Familiarity with functional programming is a big plus.
 
 
 ### Other projects
