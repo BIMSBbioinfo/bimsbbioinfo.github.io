@@ -208,8 +208,11 @@ Bora has started working at MDC on 1st of August, 2015 as a bioinformatics scien
 
 Ricardo provides IT support for BIMSB scientists.  He has extensive
 experience in GNU/Linux system administration (RHCE) and programming.
-He is a Free Software enthusiast and enjoys hacking hardware.
 
+Since 2014 Ricardo works on [GNU Guix](https://gnu.org/software/guix),
+a functional package manager, which allows us to build scientific
+software reproducibly and manage complex software environments.
+Ricardo is an Emacs, Scheme, and Free Software enthusiast.
 
 ##### Previous Work Experience:
 - 2009 - 2014, Server, cluster and workstation administrator, Siemens Ltd. China, Shanghai
@@ -220,9 +223,9 @@ He is a Free Software enthusiast and enjoys hacking hardware.
 - 2005 - 2007 Siemens Technik Akademie, Berlin
 
 **Websites:**
-[[Homepage]](http://elephly.net)
+[[Homepage]](https://elephly.net)
+[[Code]](https://git.elephly.net)
 [[Github]](https://github.com/rekado)
-[[Code]](http://git.elephly.net)
 
 **E-mail:** ricardo.wurmus [at] mdc-berlin [dot] de
 </div></div>
