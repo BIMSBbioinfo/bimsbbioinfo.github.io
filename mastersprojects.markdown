@@ -14,7 +14,7 @@ of the software system. At the MDC, we have been using GNU Guix for more than th
 versions and variants, and to manage software environments in a reproducible fashion. We have also team members who 
 are main contributors to the GNU Guix project. We are looking for new members who can help improve our workflow.
 Our goal is to implement a system based on [GNU Guix](https://www.gnu.org/software/guix/manual/html_node/Package-Management.html) 
-and [Cuirass](https://notabug.org/mthl/cuirass), by which we can build a wide range of scientific software continuously and 
+and [Cuirass](http://git.savannah.nongnu.org/cgit/guix/guix-cuirass.git), by which we can build a wide range of scientific software continuously and 
 automatically in a bit-for-bit reproducible fashion and offer the build results to Guix users.
 
 #### Specific tasks
