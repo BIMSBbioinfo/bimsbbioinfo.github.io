@@ -38,6 +38,8 @@ package variants with Guix and Cuirass.
 * You need to be comfortable with the GNU+Linux command line interface
 * Experience with Scheme (or another Lisp) is beneficial but not required.  Familiarity with functional programming is a big plus.
 
+#### Contact
+Please contact ricardo.wurmus@mdc-berlin.de or altuna.akalin@mdc-berlin.de for this project
 
 ### Other projects
 #### 1) Methods for DNA modification analysis
