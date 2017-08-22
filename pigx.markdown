@@ -6,7 +6,7 @@ class: team
 # PiGx
 
 <div class="row">
-  <img src="img/hex-PIGx-forGenomics.png" class="columns myroundThumb">
+  <img src="img/hex-PIGx-forGenomics.png" class="columns">
   <div class="large-9 columns" markdown="1">
   
 PiGx is a collection of reproducible pipelines for genomics data processing and analysis. The pipelines are packaged via GNU Guix and also
@@ -15,6 +15,7 @@ available via Docker. It is also possible to run the pipelines if you can set up
 
 </div></div>
 
+---------------------------------------
 
 ### PiGx BS-seq
 
