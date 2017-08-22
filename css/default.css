@@ -53,6 +53,15 @@ body.team .myroundThumb {
     -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
     box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
     padding: 0; }
+
+body.team .myThumb {
+    width: 150px;
+    height: 150px;
+    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
+    -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .4);
+    padding: 0; }
+
 body.team .content .row {
     margin-top: 2em; }
 
