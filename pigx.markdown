@@ -13,6 +13,7 @@ PiGx is a collection of reproducible pipelines for genomics data processing and 
 available via Docker. It is also possible to run the pipelines if you can set up the proper Conda environment. 
 
 
+</div></div>
 
 
 ### PiGx BS-seq
