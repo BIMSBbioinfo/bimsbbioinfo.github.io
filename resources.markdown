@@ -72,7 +72,6 @@ We try to develop software in the open as much as we can. You can reach our repo
 ### Other IT services
 The platform has additional IT responsibilities. Some of those are listed below for reference. 
 
-- BIMSB cluster maintenance
 - Linux workstation support
 - Customized software installation and packaging with [Guix](http://www.gnu.org/software/guix/), see list of available bioinformatics software [here](http://guix.mdc-berlin.de/packages?/?search=bioinfo).
 - Maintain and set up virtual machines running databases and web apps
@@ -94,11 +93,6 @@ The platform has additional IT responsibilities. Some of those are listed below 
 This is a resource maintained and developed by platform members.
 
 [[http://bioinformatics.mdc-berlin.de/intro2UnixandSGE/]](http://bioinformatics.mdc-berlin.de/intro2UnixandSGE/)
-
-##### **How to use the BIMSB cluster**
-Some specifics about BIMSB cluster
-
-[[https://bbc.mdc-berlin.de/howto/cluster]](https://bbc.mdc-berlin.de/howto/cluster)
 
 ##### **Notes on Computational Genomics with R**
 This is a resource developed by Dr.Akalin. Currently, it includes the basics of R and genomic interval analysis using R/Bioconductor packages. More to be added...
