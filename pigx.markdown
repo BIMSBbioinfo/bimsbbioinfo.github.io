@@ -10,7 +10,7 @@ class: team
   <div class="large-9 columns" markdown="1">
   
 PiGx is a collection of reproducible pipelines for genomics data processing and analysis. The pipelines are packaged via GNU Guix and also
-available via Docker. It is also possible to run the pipelines if you can set up the proper Conda environment. 
+[available via Docker](https://hub.docker.com/r/bimsbbioinfo/pigx_bsseq/). It is also possible to run the pipelines if you can set up the proper Conda environment. 
 
 
 </div></div>
