@@ -41,4 +41,6 @@ PiGx BS-seq pipeline analyzes high-throughput bisulfite sequencing results. It h
 - .rds files for methylKit objects
 - promoter/intron/exon/intergenic annotation for differentially methylated bases/regions
 
+Find a PiGx BS-seq example report [here](projects/pigx/PEsample_1_val_1_bt2.deduped.sorted_hg19_final.nb.html) 
+
 ---------------------------------------
