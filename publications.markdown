@@ -8,6 +8,14 @@ layout: with-nav
 
 (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D++OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D).)
 
+1. Zappulo A, van den Bruck D, Ciolli Mattioli C, <span class="highlight-contributor">Franke V</span>, Imami K, McShane E, Moreno-Estelles M, Calviello L, Filipchyk A, Peguero-Sanchez E, Müller T, Woehler A, Birchmeier C, Merino E, Rajewsky N, Ohler U, Mazzoni EO, Selbach M, <span class="highlight-contributor">Akalin A</span>, Chekulaeva M.[RNA localization is a key determinant of neurite-enriched proteome.](http://www.ncbi.nlm.nih.gov/pubmed/28928394). <span class="journal-name">Nature Commun.</span>, 2017  
+
+1. Grüning BA, Fallmann J,  <span class="highlight-contributor">Yusuf D</span>, Will S, Erxleben A, Eggenhofer F, Houwaart T, Batut B, Videm P, Bagnacani A, Wolfien M, Lott SC, Hoogstrate Y, Hess WR, Wolkenhauer O, Hoffmann S,  <span class="highlight-contributor">Akalin A</span>, Ohler U, Stadler PF, Backofen R. [The RNA workbench: best practices for RNA and high-throughput sequencing bioinformatics in Galaxy.](http://www.ncbi.nlm.nih.gov/pubmed/28582575). <span class="journal-name">Nucleic Acids Res.</span>, 2017
+
+1. <span class="highlight-contributor">Wreczycka K, Gosdschan A, Yusuf D</span>, Grüning B, Assenov Y, <span class="highlight-contributor">Akalin A</span>. [Strategies for analyzing bisulfite sequencing data.](http://www.ncbi.nlm.nih.gov/pubmed/28822795). <span class="journal-name">J Biotechnol.</span>, 2017
+
+1. <span class="highlight-contributor">Uyar B, Yusuf D, Wurmus R</span>,Rajewsky N, Ohler U, <span class="highlight-contributor">Akalin A</span>. [RCAS: an RNA centric annotation system for transcriptome-wide regions of interest.](http://www.ncbi.nlm.nih.gov/pubmed/28334930). <span class="journal-name">Nucleic Acids Res.</span>, 2017
+
 1. Baubec T, Colombo DF, Wirbelauer C, Schmidt J, Burger L, Krebs AR, <span class="highlight-contributor">Akalin A</span>, Schübeler D. [Genomic profiling of DNA methyltransferases reveals a role for DNMT3B in genic methylation](http://www.ncbi.nlm.nih.gov/pubmed/25607372). <span class="journal-name">Nature</span>, 2015  
 
 1. Rampal R *, <span class="highlight-contributor">Akalin A</span> *, Madzo J *, Vasanthakumar A *, Pronier E, Patel J, Li Y, Ahn, et al. [DNA Hydroxymethylation Profiling Reveals that WT1 Mutations Result in Loss of TET2 Function in Acute Myeloid Leukemia](http://www.ncbi.nlm.nih.gov/pubmed/25482556). <span class="journal-name">Cell Reports</span>, 2014  ( * Equal contribution)
@@ -101,3 +109,14 @@ layout: with-nav
 1. Baubec T & Akalin A. ["Genome-Wide Analysis of DNA Methylation Patterns by High-Throughput Sequencing"](http://link.springer.com/chapter/10.1007/978-3-319-31350-4_9). Field Guidelines for Genetic Experimental Designs in High-Throughput Sequencing. Springer, 2016.
 
 ### Pre-prints
+
+1. Strategies for analyzing bisulfite sequencing data. Katarzyna Wreczycka, Alexander Gosdschan, Dilmurat Yusuf, Bjoern Gruening, Yassen
+Assenov, Altuna Akalin. bioRxiv 109512; doi: https://doi.org/10.1101/109512
+
+1. HOT or not: Examining the basis of high-occupancy target regions. Katarzyna Wreczycka, Vedran Franke, Bora Uyar, Ricardo Wurmus,
+Altuna Akalin. bioRxiv 107680; doi: https://doi.org/10.1101/107680
+
+1. Mutations In Disordered Regions Cause Disease By Creating Endocytosis Motifs. Katrina Meyer, Bora Uyar, Marieluise Kirchner, Jingyuan
+Cheng, Altuna Akalin, Matthias Selbach. bioRxiv 141622; doi: https://doi.org/10.1101/141622
+
+1. FACT sets a barrier for cell fate reprogramming in C. elegans and Human. Ena Kolundzic, Andreas Ofenbauer, Bora Uyar, Anne Sommermeier, Stefanie Seelk, Mei He, Guelkiz Baytek, Altuna Akalin, Sebastian Diecke, Scott Allen Lacadie, Baris Tursun. bioRxiv 185116; doi: https://doi.org/10.1101/185116
