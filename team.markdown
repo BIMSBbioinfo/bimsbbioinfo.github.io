@@ -91,6 +91,34 @@ Vedran supports research projects for the platform. He has extensive experience 
 
 
 <div class="row">
+  <img src="img/andromeda-orbit.jpg" " class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+    
+### Wolfgang Kopp, PhD
+
+#### Bioinformatics Scientist
+
+TBA
+
+
+##### Previous Work Experience:
+- 2011 - 2011,TBA
+- 2010 - 2011, TBA
+
+##### Education:
+- 2011 - 2014 TBA
+
+**Publications:** TBA
+
+**Websites:**
+TBA
+
+
+**E-mail:** wolfgang.kopp [at] mdc-berlin [dot] de
+</div></div>
+
+
+<div class="row">
   <img src="img/team/danyel.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
@@ -234,26 +262,6 @@ Ricardo is an Emacs, Scheme, and Free Software enthusiast.
   <img src="https://avatars2.githubusercontent.com/u/11738833?v=3&s=460" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
-### Dilmurat Yusuf, PhD
-
-#### Bioinformatics Scientist
-
-Dilmurat has started working at MDC on 1st of September, 2015 as a bioinformatics scientist. He has had a extensive training in RNA bioinformatics. After obtaining PhD degree in University of Vienna, he has worked in various European countries where he mainly focused on developing methods for analyzing transcriptomic data. At MDC, he will develop tools and annotation pipelines related to RNA bioinformatics and NGS data analysis, which will be integrated with the Galaxy instance of the Berlin Institute of Medical Systems Biology. 
-
-##### Previous Experience:
-
-- 2012-2015, postdoc, LCSB, Luxembourg
-- 2011-2012, postdoc, Lund University, Sweden
-- 2006-2010, PhD, University of Veinna, Austria
-
-**Publications:** [[PubMed]](http://www.ncbi.nlm.nih.gov/pubmed/?term=yusuf%2C+Dilmurat%5BAuthor%5D)
-
-**Webserver:**
-[[LinkedIn]](http://rna.tbi.univie.ac.at/bcheck/)
-
-**E-mail:** dilmurat.yusuf [at] gmail [dot] com
-</div></div>
-
 
 
 PhD Students
@@ -385,11 +393,11 @@ Interns and Master's students
   <div class="large-9 columns" markdown="1">
   
   
-### Adrian Bierling
+### Bożena Mika-Gospodorz
 
-#### Master's student (FU)
+#### Research Intern 
 
-TBA
+Bozena works on improving the [genomation](https://github.com/BIMSBbioinfo/genomation/) bioconductor package. 
 
 
 ##### Previous Work Experience:
@@ -425,4 +433,21 @@ Administration
 
 
 **E-mail:** sabrina.deter [at] mdc-berlin [dot] de
+</div></div>
+
+
+Alumni
+---------------------------------------
+---------------------------------------
+
+#### Dilmurat Yusuf, PhD
+
+Bioinformatics Scientist from 2015-2017, currently at University of Freiburg
+
+**Publications:** [[PubMed]](http://www.ncbi.nlm.nih.gov/pubmed/?term=yusuf%2C+Dilmurat%5BAuthor%5D)
+
+**Webserver:**
+[[Web]](http://rna.tbi.univie.ac.at/bcheck/)
+
+**E-mail:** dilmurat.yusuf [at] gmail [dot] com
 </div></div>
