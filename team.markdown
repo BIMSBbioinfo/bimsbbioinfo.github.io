@@ -91,7 +91,7 @@ Vedran supports research projects for the platform. He has extensive experience 
 
 
 <div class="row">
-  <img src="img/andromeda-orbit.jpg" " class="columns myroundThumb">
+  <img src="img/andromeda-orbit.jpg"  class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
     
 ### Wolfgang Kopp, PhD
@@ -258,9 +258,6 @@ Ricardo is an Emacs, Scheme, and Free Software enthusiast.
 **E-mail:** ricardo.wurmus [at] mdc-berlin [dot] de
 </div></div>
 
-<div class="row">
-  <img src="https://avatars2.githubusercontent.com/u/11738833?v=3&s=460" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
 
 
 
