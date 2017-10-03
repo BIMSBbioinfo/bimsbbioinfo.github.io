@@ -447,4 +447,3 @@ Bioinformatics Scientist from 2015-2017, currently at University of Freiburg
 [[Web]](http://rna.tbi.univie.ac.at/bcheck/)
 
 **E-mail:** dilmurat.yusuf [at] gmail [dot] com
-</div></div>
