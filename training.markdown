@@ -12,7 +12,7 @@ training sessions.
 ---------------------------------------
 
 ### Computational genomics course 2018
-We are organizing a computional genomics course titled "Computational genomics approaches to precision medicine". The course will take place between 23 and 25 May 2018 in Berlin. The course will cover fundamental in BS-seq analysis. The course will also be usefull for integrating and visualizing processed genomics data. 
+We are organizing a computional genomics course titled "Computational genomics: BS-seq analysis and data integration". The course will take place between 23 and 25 May 2018 in Berlin. The course will cover fundamental in BS-seq analysis. The course will also be usefull for integrating and visualizing processed genomics data. 
 
 There will be theoretical lectures followed by practical sessions where students directly apply what they have learned. The programming will be mainly done in R and unix shell. 
 
