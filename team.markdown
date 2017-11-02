@@ -154,7 +154,7 @@ nodes. He is also involved in cluster maintenance tasks.
   <img src="img/team/BrenO.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
-### Bren Osberg, Dr. rer. nat.
+### Brendan Osberg, PhD
 
 #### Biophysicist/Bioinformatics Scientist
 
