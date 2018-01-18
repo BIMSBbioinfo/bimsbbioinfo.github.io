@@ -19,7 +19,7 @@ There will be theoretical lectures followed by practical sessions where students
 The course will be beneficial for computational biologists and experimental biologists who are doing data analysis. 
 More info on: [http://compgen.mdc-berlin.de/](http://compgen.mdc-berlin.de/)
 
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/it10gh8xhkVUeD" width="477" height="660" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/altunaakalin/computational-genomics-course-2018-berlin" title="computational genomics course 2018 berlin" target="_blank">computational genomics course 2018 berlin</a> </strong> from <strong><a href="https://www.slideshare.net/altunaakalin" target="_blank">Altuna Akalin</a></strong> </div>
 
 ---------------------------------------
 
