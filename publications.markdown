@@ -8,6 +8,14 @@ layout: with-nav
 
 (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D++OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D).)
 
+
+1. Wyler E, Menegatti J, <span class="highlight-contributor">Franke V</span>, Kocks C, Boltengagen A, Hennig T, Theil K, Rutkowski A, Ferrai C, Baer L, Kermas L, Friedel C, Rajewsky N, <span class="highlight-contributor">Akalin A</span>, Dölken L, Grässer F, Landthaler M.
+[Widespread activation of antisense transcription of the host genome during herpes simplex virus 1 infection.](https://www.ncbi.nlm.nih.gov/pubmed/29089033) <span class="journal-name">Genome Biol.</span> 2017 Oct 31;18(1):209. doi: 10.1186/s13059-017-1329-5.
+
+1. Ferrai C, Torlai Triglia E, Risner-Janiczek JR, Rito T, Rackham OJ, de Santiago I, Kukalev A, Nicodemi M, <span class="highlight-contributor">Akalin A</span>, Li M, Ungless MA, Pombo A. [RNA polymerase II primes Polycomb-repressed developmental genes throughout terminal neuronal differentiation](https://www.ncbi.nlm.nih.gov/pubmed/29038337). Mol Syst Biol. 2017 Oct 16;13(10):946. doi: 10.15252/msb.20177754
+
+
+
 1. Zappulo A, van den Bruck D, Ciolli Mattioli C, <span class="highlight-contributor">Franke V</span>, Imami K, McShane E, Moreno-Estelles M, Calviello L, Filipchyk A, Peguero-Sanchez E, Müller T, Woehler A, Birchmeier C, Merino E, Rajewsky N, Ohler U, Mazzoni EO, Selbach M, <span class="highlight-contributor">Akalin A</span>, Chekulaeva M.[RNA localization is a key determinant of neurite-enriched proteome.](http://www.ncbi.nlm.nih.gov/pubmed/28928394). <span class="journal-name">Nature Commun.</span>, 2017  
 
 1. Grüning BA, Fallmann J,  <span class="highlight-contributor">Yusuf D</span>, Will S, Erxleben A, Eggenhofer F, Houwaart T, Batut B, Videm P, Bagnacani A, Wolfien M, Lott SC, Hoogstrate Y, Hess WR, Wolkenhauer O, Hoffmann S,  <span class="highlight-contributor">Akalin A</span>, Ohler U, Stadler PF, Backofen R. [The RNA workbench: best practices for RNA and high-throughput sequencing bioinformatics in Galaxy.](http://www.ncbi.nlm.nih.gov/pubmed/28582575). <span class="journal-name">Nucleic Acids Res.</span>, 2017
