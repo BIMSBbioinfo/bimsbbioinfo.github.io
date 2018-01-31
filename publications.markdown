@@ -4,6 +4,25 @@ layout: with-nav
 
 # Publications
 
+
+### Pre-prints
+
+Full list of pre-prints at [bioRxiv](https://www.biorxiv.org/search/author1%3Aaltuna%2Bakalin%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard).
+
+1. netSmooth: Network-smoothing based imputation for single cell RNA-seq. Jonathan Ronen, Altuna Akalin bioRxiv 234021; doi: [https://doi.org/10.1101/234021]
+
+1. Strategies for analyzing bisulfite sequencing data. Katarzyna Wreczycka, Alexander Gosdschan, Dilmurat Yusuf, Bjoern Gruening, Yassen
+Assenov, Altuna Akalin. bioRxiv 109512; doi: [https://doi.org/10.1101/109512]
+
+1. HOT or not: Examining the basis of high-occupancy target regions. Katarzyna Wreczycka, Vedran Franke, Bora Uyar, Ricardo Wurmus,
+Altuna Akalin. bioRxiv 107680; doi: [https://doi.org/10.1101/107680]
+
+1. Mutations In Disordered Regions Cause Disease By Creating Endocytosis Motifs. Katrina Meyer, Bora Uyar, Marieluise Kirchner, Jingyuan
+Cheng, Altuna Akalin, Matthias Selbach. bioRxiv 141622; doi: [https://doi.org/10.1101/141622]
+
+1. FACT sets a barrier for cell fate reprogramming in C. elegans and Human. Ena Kolundzic, Andreas Ofenbauer, Bora Uyar, Anne Sommermeier, Stefanie Seelk, Mei He, Guelkiz Baytek, Altuna Akalin, Sebastian Diecke, Scott Allen Lacadie, Baris Tursun. bioRxiv 185116; doi: [https://doi.org/10.1101/185116]
+
+
 ### Peer-reviewed publications
 
 (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D++OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D).)
@@ -116,15 +135,3 @@ layout: with-nav
 
 1. Baubec T & Akalin A. ["Genome-Wide Analysis of DNA Methylation Patterns by High-Throughput Sequencing"](http://link.springer.com/chapter/10.1007/978-3-319-31350-4_9). Field Guidelines for Genetic Experimental Designs in High-Throughput Sequencing. Springer, 2016.
 
-### Pre-prints
-
-1. Strategies for analyzing bisulfite sequencing data. Katarzyna Wreczycka, Alexander Gosdschan, Dilmurat Yusuf, Bjoern Gruening, Yassen
-Assenov, Altuna Akalin. bioRxiv 109512; doi: https://doi.org/10.1101/109512
-
-1. HOT or not: Examining the basis of high-occupancy target regions. Katarzyna Wreczycka, Vedran Franke, Bora Uyar, Ricardo Wurmus,
-Altuna Akalin. bioRxiv 107680; doi: https://doi.org/10.1101/107680
-
-1. Mutations In Disordered Regions Cause Disease By Creating Endocytosis Motifs. Katrina Meyer, Bora Uyar, Marieluise Kirchner, Jingyuan
-Cheng, Altuna Akalin, Matthias Selbach. bioRxiv 141622; doi: https://doi.org/10.1101/141622
-
-1. FACT sets a barrier for cell fate reprogramming in C. elegans and Human. Ena Kolundzic, Andreas Ofenbauer, Bora Uyar, Anne Sommermeier, Stefanie Seelk, Mei He, Guelkiz Baytek, Altuna Akalin, Sebastian Diecke, Scott Allen Lacadie, Baris Tursun. bioRxiv 185116; doi: https://doi.org/10.1101/185116
