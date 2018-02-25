@@ -18,16 +18,16 @@ Assenov, Altuna Akalin. bioRxiv 109512; doi: [https://doi.org/10.1101/109512]
 Altuna Akalin. bioRxiv 107680; doi: [https://doi.org/10.1101/107680]
 
 1. Mutations In Disordered Regions Cause Disease By Creating Endocytosis Motifs. Katrina Meyer, Bora Uyar, Marieluise Kirchner, Jingyuan
-Cheng, Altuna Akalin, Matthias Selbach. bioRxiv 141622; doi: [https://doi.org/10.1101/141622]
+Cheng, Altuna Akalin, Matthias Selbach. bioRxiv 141622; doi: [https://doi.org/10.1101/141622]()
 
-1. FACT sets a barrier for cell fate reprogramming in C. elegans and Human. Ena Kolundzic, Andreas Ofenbauer, Bora Uyar, Anne Sommermeier, Stefanie Seelk, Mei He, Guelkiz Baytek, Altuna Akalin, Sebastian Diecke, Scott Allen Lacadie, Baris Tursun. bioRxiv 185116; doi: [https://doi.org/10.1101/185116]
+1. FACT sets a barrier for cell fate reprogramming in C. elegans and Human. Ena Kolundzic, Andreas Ofenbauer, Bora Uyar, Anne Sommermeier, Stefanie Seelk, Mei He, Guelkiz Baytek, Altuna Akalin, Sebastian Diecke, Scott Allen Lacadie, Baris Tursun. bioRxiv 185116; doi: [https://doi.org/10.1101/185116](https://doi.org/10.1101/185116)
 
 
 ### Peer-reviewed publications
 
 (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D++OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D).)
 
-1. Dewitz C, Pimpinella S, Hackel P, <span class="highlight-contributor">Akalin A</span>, Jessell TM, Zampieri N.(Nuclear Organization in the Spinal Cord Depends on Motor Neuron Lamination Orchestrated by Catenin and Afadin Function.)[https://www.ncbi.nlm.nih.gov/pubmed/29444423] <span class="journal-name">Cell Reports</span>. 2018 Feb 13;22(7):1681-1694. doi: 10.1016/j.celrep.2018.01.059.
+1. Dewitz C, Pimpinella S, Hackel P, <span class="highlight-contributor">Akalin A</span>, Jessell TM, Zampieri N.[Nuclear Organization in the Spinal Cord Depends on Motor Neuron Lamination Orchestrated by Catenin and Afadin Function.](https://www.ncbi.nlm.nih.gov/pubmed/29444423) <span class="journal-name">Cell Reports</span>. 2018 Feb 13;22(7):1681-1694. doi: 10.1016/j.celrep.2018.01.059.
 
 
 1. Wyler E, Menegatti J, <span class="highlight-contributor">Franke V</span>, Kocks C, Boltengagen A, Hennig T, Theil K, Rutkowski A, Ferrai C, Baer L, Kermas L, Friedel C, Rajewsky N, <span class="highlight-contributor">Akalin A</span>, Dölken L, Grässer F, Landthaler M.
