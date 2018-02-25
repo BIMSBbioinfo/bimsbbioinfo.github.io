@@ -27,6 +27,8 @@ Cheng, Altuna Akalin, Matthias Selbach. bioRxiv 141622; doi: [https://doi.org/10
 
 (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D++OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D).)
 
+1. Dewitz C, Pimpinella S, Hackel P, <span class="highlight-contributor">Akalin A</span>, Jessell TM, Zampieri N.(Nuclear Organization in the Spinal Cord Depends on Motor Neuron Lamination Orchestrated by Catenin and Afadin Function.)[https://www.ncbi.nlm.nih.gov/pubmed/29444423] <span class="journal-name">Cell Reports</span>. 2018 Feb 13;22(7):1681-1694. doi: 10.1016/j.celrep.2018.01.059.
+
 
 1. Wyler E, Menegatti J, <span class="highlight-contributor">Franke V</span>, Kocks C, Boltengagen A, Hennig T, Theil K, Rutkowski A, Ferrai C, Baer L, Kermas L, Friedel C, Rajewsky N, <span class="highlight-contributor">Akalin A</span>, Dölken L, Grässer F, Landthaler M.
 [Widespread activation of antisense transcription of the host genome during herpes simplex virus 1 infection.](https://www.ncbi.nlm.nih.gov/pubmed/29089033) <span class="journal-name">Genome Biol.</span> 2017 Oct 31;18(1):209. doi: 10.1186/s13059-017-1329-5.
