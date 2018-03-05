@@ -119,7 +119,7 @@ TBA
 
 
 <div class="row">
-  <img src="img/team/danyel.jpg" class="columns myroundThumb">
+  <img src="img/team/DanMunteanu.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
 ### Dan Munteanu
