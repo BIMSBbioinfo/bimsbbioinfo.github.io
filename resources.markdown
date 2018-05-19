@@ -62,6 +62,43 @@ RNA Centric Annotation System (RCAS) is an R package that provides
     
 [[https://github.com/BIMSBbioinfo/RCAS/]](https://github.com/BIMSBbioinfo/RCAS/)
 
+##### **netSmooth**
+
+netSmooth is an R/Bioconductor package for network smoothing of single cell RNA sequencing data. Using gene interaction networks such as protein- protein interactions as priors for gene co-expression, netsmooth improves cell type identification from noisy, sparse scRNA-seq data. The smoothing method is suitable for other gene-based omics data sets such as proteomics, copy-number variation, etc.
+
+The algorithm uses a network-diffusion based approach which takes in a network (such as PPI network) and gene-expression matrix. The gene expression values in the matrix are smoothed using the interaction information in the network. The network-smoothing parameter is optimized using a robust clustering approach.
+
+For a detailed exposition, check out our paper on [F1000Research](https://f1000research.com/articles/7-8/v2).
+    
+[[https://github.com/BIMSBbioinfo/netSmooth/]](https://github.com/BIMSBbioinfo/netSmooth/)
+
+
+##### **PiGx**
+
+PiGx is a collection of reproducible genomics pipelines. More information can be found at the [PiGx website](http://bioinformatics.mdc-berlin.de/pigx/)
+
+It includes the following pipelines:
+
+- [PiGx BSseq](https://github.com/BIMSBbioinfo/pigx_bsseq) for raw
+  fastq read data of bisulfite experiments
+
+- [PiGx RNAseq](https://github.com/BIMSBbioinfo/pigx_rnaseq) for RNAseq samples
+
+- [PiGx scRNAseq](https://github.com/BIMSBbioinfo/pigx_scrnaseq) for
+  single cell RNA-seq analysis
+
+- [PiGx ChIPseq](https://github.com/BIMSBbioinfo/pigx_chipseq) for
+  reads from ChIPseq experiments
+
+- [PiGx CRISPR](https://github.com/BIMSBbioinfo/pigx_crispr) *(work in progress)*
+  for the analysis of sequence mutations in CRISPR-CAS9 targeted
+  amplicon sequencing data
+
+All pipelines are easily configured with a sample sheet (in CSV
+format) and a descriptive settings file (in YAML format).  For more
+detailed information see the README.md file for each of the pipelines
+in the `pipelines` directory.
+
 ##### **github repository**
 We try to develop software in the open as much as we can. You can reach our repository here:
 
