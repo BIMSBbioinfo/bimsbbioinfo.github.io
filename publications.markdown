@@ -9,16 +9,19 @@ layout: with-nav
 
 Full list of pre-prints at [bioRxiv](https://www.biorxiv.org/search/author1%3Aaltuna%2Bakalin%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard).
 
-1. netSmooth: Network-smoothing based imputation for single cell RNA-seq. Jonathan Ronen, Altuna Akalin bioRxiv 234021; doi: [https://doi.org/10.1101/234021]
+1. Reproducible genomics analysis pipelines with GNU Guix. Ricardo Wurmus, Bora Uyar, Brendan Osberg, Vedran Franke, Alexander Gosdschan, Katarzyna Wreczycka, Jonathan Ronen, Altuna Akalin
+bioRxiv 298653; doi: [https://doi.org/10.1101/298653](https://doi.org/10.1101/298653)
+
+1. netSmooth: Network-smoothing based imputation for single cell RNA-seq. Jonathan Ronen, Altuna Akalin bioRxiv 234021; doi: [https://doi.org/10.1101/234021](https://doi.org/10.1101/234021)
 
 1. Strategies for analyzing bisulfite sequencing data. Katarzyna Wreczycka, Alexander Gosdschan, Dilmurat Yusuf, Bjoern Gruening, Yassen
-Assenov, Altuna Akalin. bioRxiv 109512; doi: [https://doi.org/10.1101/109512]
+Assenov, Altuna Akalin. bioRxiv 109512; doi: [https://doi.org/10.1101/109512](https://doi.org/10.1101/109512)
 
 1. HOT or not: Examining the basis of high-occupancy target regions. Katarzyna Wreczycka, Vedran Franke, Bora Uyar, Ricardo Wurmus,
-Altuna Akalin. bioRxiv 107680; doi: [https://doi.org/10.1101/107680]
+Altuna Akalin. bioRxiv 107680; doi: [https://doi.org/10.1101/107680](https://doi.org/10.1101/107680)
 
 1. Mutations In Disordered Regions Cause Disease By Creating Endocytosis Motifs. Katrina Meyer, Bora Uyar, Marieluise Kirchner, Jingyuan
-Cheng, Altuna Akalin, Matthias Selbach. bioRxiv 141622; doi: [https://doi.org/10.1101/141622]()
+Cheng, Altuna Akalin, Matthias Selbach. bioRxiv 141622; doi: [https://doi.org/10.1101/141622](https://doi.org/10.1101/141622)
 
 1. FACT sets a barrier for cell fate reprogramming in C. elegans and Human. Ena Kolundzic, Andreas Ofenbauer, Bora Uyar, Anne Sommermeier, Stefanie Seelk, Mei He, Guelkiz Baytek, Altuna Akalin, Sebastian Diecke, Scott Allen Lacadie, Baris Tursun. bioRxiv 185116; doi: [https://doi.org/10.1101/185116](https://doi.org/10.1101/185116)
 
@@ -27,15 +30,14 @@ Cheng, Altuna Akalin, Matthias Selbach. bioRxiv 141622; doi: [https://doi.org/10
 
 (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D++OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D).)
 
-1. Dewitz C, Pimpinella S, Hackel P, <span class="highlight-contributor">Akalin A</span>, Jessell TM, Zampieri N.[Nuclear Organization in the Spinal Cord Depends on Motor Neuron Lamination Orchestrated by Catenin and Afadin Function.](https://www.ncbi.nlm.nih.gov/pubmed/29444423) <span class="journal-name">Cell Reports</span>. 2018 Feb 13;22(7):1681-1694. doi: 10.1016/j.celrep.2018.01.059.
+1. <span class="highlight-contributor">Ronen J, Akalin A.</span> [netSmooth: Network-smoothing based imputation for single cell RNA-seq](https://www.ncbi.nlm.nih.gov/pubmed/29511531.2). Version 2. <span class="journal-name">F1000Res</span>. 2018 Jan 3 [revised 2018 Jan 1];7:8. doi: 10.12688/f1000research.13511.2. eCollection 2018.
 
+1. Dewitz C, Pimpinella S, Hackel P, <span class="highlight-contributor">Akalin A</span>, Jessell TM, Zampieri N.[Nuclear Organization in the Spinal Cord Depends on Motor Neuron Lamination Orchestrated by Catenin and Afadin Function.](https://www.ncbi.nlm.nih.gov/pubmed/29444423) <span class="journal-name">Cell Reports</span>. 2018 Feb 13;22(7):1681-1694. doi: 10.1016/j.celrep.2018.01.059.
 
 1. Wyler E, Menegatti J, <span class="highlight-contributor">Franke V</span>, Kocks C, Boltengagen A, Hennig T, Theil K, Rutkowski A, Ferrai C, Baer L, Kermas L, Friedel C, Rajewsky N, <span class="highlight-contributor">Akalin A</span>, Dölken L, Grässer F, Landthaler M.
 [Widespread activation of antisense transcription of the host genome during herpes simplex virus 1 infection.](https://www.ncbi.nlm.nih.gov/pubmed/29089033) <span class="journal-name">Genome Biol.</span> 2017 Oct 31;18(1):209. doi: 10.1186/s13059-017-1329-5.
 
 1. Ferrai C, Torlai Triglia E, Risner-Janiczek JR, Rito T, Rackham OJ, de Santiago I, Kukalev A, Nicodemi M, <span class="highlight-contributor">Akalin A</span>, Li M, Ungless MA, Pombo A. [RNA polymerase II primes Polycomb-repressed developmental genes throughout terminal neuronal differentiation](https://www.ncbi.nlm.nih.gov/pubmed/29038337). Mol Syst Biol. 2017 Oct 16;13(10):946. doi: 10.15252/msb.20177754
-
-
 
 1. Zappulo A, van den Bruck D, Ciolli Mattioli C, <span class="highlight-contributor">Franke V</span>, Imami K, McShane E, Moreno-Estelles M, Calviello L, Filipchyk A, Peguero-Sanchez E, Müller T, Woehler A, Birchmeier C, Merino E, Rajewsky N, Ohler U, Mazzoni EO, Selbach M, <span class="highlight-contributor">Akalin A</span>, Chekulaeva M.[RNA localization is a key determinant of neurite-enriched proteome.](http://www.ncbi.nlm.nih.gov/pubmed/28928394). <span class="journal-name">Nature Commun.</span>, 2017  
 
