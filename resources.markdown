@@ -95,8 +95,8 @@ We try to develop software in the open as much as we can. You can reach our repo
 
 -----------------------------------------
 
-### Other IT services
-The platform has additional IT responsibilities. Some of those are listed below for reference. 
+### Bioinformatics infrastructure support
+The platform has additional IT responsibilities within the framework of bioinformatics infrastructure support. Some of those are listed below for reference. 
 
 - Linux workstation support
 - Customized software installation and packaging with [Guix](http://www.gnu.org/software/guix/), see list of available bioinformatics software [here](http://guix.mdc-berlin.de/packages?/?search=bioinfo).
