@@ -30,6 +30,25 @@ Cheng, Altuna Akalin, Matthias Selbach. bioRxiv 141622; doi: [https://doi.org/10
 
 (Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D++OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D).)
 
+
+1. Mikuda N, Kolesnichenko M, Beaudette P, Popp O, **Uyar B**, Sun W, Tufan AB,
+Perder B, **Akalin A**, Chen W, Mertins P, Dittmar G, Hinz M, Scheidereit C. [The IκB 
+kinase complex is a regulator of mRNA stability](https://www.ncbi.nlm.nih.gov/pubmed/30467221). **EMBO J**. 2018 Nov 22. pii:
+e98658. doi: 10.15252/embj.201798658. PubMed PMID:30467221.
+
+1. **Wurmus R, Uyar B, Osberg B, Franke V, Gosdschan A, Wreczycka K, Ronen J,
+Akalin A**. [PiGx: Reproducible genomics analysis pipelines with GNU Guix.](https://www.ncbi.nlm.nih.gov/pubmed/30277498)
+**Gigascience**. 2018 Oct 2. doi: 10.1093/gigascience/giy123. PubMed PMID: 30277498.
+
+1. Meyer K, Kirchner M, **Uyar B**, Cheng JY, Russo G, Hernandez-Miranda LR,
+Szymborska A, Zauber H, Rudolph IM, Willnow TE, **Akalin A**, Haucke V, Gerhardt H,
+Birchmeier C, Kühn R, Krauss M, Diecke S, Pascual JM, Selbach M. [Mutations in
+Disordered Regions Can Cause Disease by Creating Dileucine Motifs](https://www.ncbi.nlm.nih.gov/pubmed/30197081). **Cell**. 2018 Sep
+20;175(1):239-253.e17. doi: 10.1016/j.cell.2018.08.019. Epub 2018 Sep 6. PubMed
+PMID: 30197081.
+
+1. Kolundzic E, Ofenbauer A, Bulut SI, **Uyar B**, Baytek G, Sommermeier A, Seelk S, He M, Hirsekorn A, Vucicevic D, **Akalin A**, Diecke S, Lacadie SA, Tursun B.[FACT Sets a Barrier for Cell Fate Reprogramming in Caenorhabditis elegans and Human Cells.] (https://www.ncbi.nlm.nih.gov/pubmed/30078731). **Dev Cell**. 2018 Sep 10;46(5):611-626.e12. doi: 10.1016/j.devcel.2018.07.006. Epub 2018 Aug 2. PMID: 30078731 
+
 1. <span class="highlight-contributor">Ronen J, Akalin A.</span> [netSmooth: Network-smoothing based imputation for single cell RNA-seq](https://www.ncbi.nlm.nih.gov/pubmed/29511531.2). Version 2. <span class="journal-name">F1000Res</span>. 2018 Jan 3 [revised 2018 Jan 1];7:8. doi: 10.12688/f1000research.13511.2. eCollection 2018.
 
 1. Dewitz C, Pimpinella S, Hackel P, <span class="highlight-contributor">Akalin A</span>, Jessell TM, Zampieri N.[Nuclear Organization in the Spinal Cord Depends on Motor Neuron Lamination Orchestrated by Catenin and Afadin Function.](https://www.ncbi.nlm.nih.gov/pubmed/29444423) <span class="journal-name">Cell Reports</span>. 2018 Feb 13;22(7):1681-1694. doi: 10.1016/j.celrep.2018.01.059.
