@@ -126,7 +126,7 @@ TBA
 
 #### System Engineer
 
-Dan's big challenge is to maintain, extend and keep safe the BIMSB's IT infrastructure consisting of  application servers, virtualization systems, storage, databases and dedicated systems used to analyze the biological data. Most of these systems are based on open source technologies (inclusing the operating systems/Linux) and they are designed based on the idea that a scientist must do science and not to loose time with unfriendly IT systems - and, of course, this cannot be done wihout a very close relationship with the users.
+Dan's big challenge is to maintain, extend and keep safe the BIMSB's IT infrastructure consisting of  application servers, virtualization systems, storage, databases and dedicated systems used to analyze the biological data. Most of these systems are based on open source technologies (inclusing the operating systems/Linux) and they are designed based on the idea that a scientist must do science and not to loose time with unfriendly IT systems - of course, this cannot be done wihout a very close relationship with the users.
 
 ##### Previous Work Experience:
 
