@@ -124,17 +124,13 @@ TBA
 
 ### Dan Munteanu
 
-#### System Administrator
+#### System Engineer
 
-
-
-Dan provides technical (IT) support for BIMSB users, maintenance for
-BIMSB servers and scientific software installation on cluster
-nodes. He is also involved in cluster maintenance tasks.
+Dan's big challenge is to maintain, extend and keep safe the BIMSB's IT infrastructure consisting of  application servers, virtualization systems, storage, databases and dedicated systems used to analyze the biological data. Most of these systems are based on open source technologies (inclusing the operating systems/Linux) and they are designed based on the idea that a scientist must do science and not to loose time with unfriendly IT systems - and, of course, this cannot be done wihout a very close relationship with the users.
 
 ##### Previous Work Experience:
 
-- 2013- , System Administrator , MDC/ BIMSB
+- 2013- , System Administrator/Engineer , MDC/ BIMSB
 - 2009-2013, System Administrator, Alexandru Ioan Cuza University of
   Iasi, Romania
 - 2003-2009, System Administrator, Cersanit SA, Romania
