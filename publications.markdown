@@ -39,7 +39,7 @@ Cheng, Altuna Akalin, Matthias Selbach. bioRxiv 141622; doi: [https://doi.org/10
 <script type="text/javascript"> 
 <!-- 
 rssfeed_url = new Array(); 
-rssfeed_url[0]="https://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=1NmYS9bj5R9wDb9VOiNEXqsYjgPly-HG1NL_BVsuTmz5ap1sgs";  
+rssfeed_url[0]="https://pubmed.ncbi.nlm.nih.gov/rss/search/1Zorz_P_0HTOaoqNzhpRE_TsJaeqNCh3crwyIY4Tkjg9JCpQvD/?limit=50&utm_campaign=pubmed-2&fc=20200621070236";  
 rssfeed_frame_width="700"; 
 rssfeed_frame_height="800"; 
 rssfeed_scroll="off"; 
