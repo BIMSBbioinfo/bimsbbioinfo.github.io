@@ -130,9 +130,8 @@ Dan's big challenge is to maintain, extend and keep safe the BIMSB's IT infrastr
 
 ##### Previous Work Experience:
 
-- 2013- , System Administrator/Engineer , MDC/ BIMSB
-- 2009-2013, System Administrator, Alexandru Ioan Cuza University of
-  Iasi, Romania
+- 2013-    , System Administrator/Engineer , MDC/ BIMSB
+- 2009-2013, System Administrator, Alexandru Ioan Cuza University of Iasi - Faculty of Computer Science,  Romania
 - 2003-2009, System Administrator, Cersanit SA, Romania
 
 ##### Education:
