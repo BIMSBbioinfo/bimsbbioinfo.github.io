@@ -31,7 +31,7 @@ Cheng, Altuna Akalin, Matthias Selbach. bioRxiv 141622; doi: [https://doi.org/10
 
 
 
-(Up-to-date publications at [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D++OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D).)
+(Up-to-date publications at [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D+OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D&sort=date).)
 
 #### Publications indexed by PubMed 
 
