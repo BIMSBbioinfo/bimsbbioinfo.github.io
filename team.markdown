@@ -398,9 +398,6 @@ Administration
 Alumni
 ---------------------------------------
 ---------------------------------------
-<div class="row">
-  <img src="img/team/BrenO.jpg" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
 
 #### Brendan Osberg, PhD
 
