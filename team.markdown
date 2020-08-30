@@ -147,6 +147,35 @@ Dan's big challenge is to maintain, extend and keep safe the BIMSB's IT infrastr
 
 
 <div class="row">
+  <img src="./img/team/yona.jpg" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+
+
+### Jonathan (Yona) Ronen, PhD
+Jonathan recently completed his PhD with our lab. He is following up on his research project within BIH Digital Health Accelarator program.
+More info at https://arcas.ai/
+
+#### Bioinformatics Scientist
+
+
+##### Previous Work Experience:
+- 2013 - 2015 Research Scientist, Social Media and Political Participation lab, New York University
+- 2010 - 2013 Software developer, Oslo, Brussels, Munich
+
+
+##### Education:
+- 2015 - 2020 PhD, MDC BIMSB, Berlin, Germany
+- 2008 - 2009 M.Sc Electrical Engineering, University of California, Santa Barbara
+- 2005 - 2010 M.Sc Electrical Engineering, Norwegian U of Sci & Tech
+
+
+
+**E-mail:** yablee [at] gmail [dot] com
+
+</div></div>
+
+
+<div class="row">
   <img src="https://avatars2.githubusercontent.com/u/6254567?v=3&s=460" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
@@ -278,34 +307,7 @@ Alexander will join with Baris Tursun (Tursun Research Group at MDC) during his 
 
 </div></div> 
 
-<div class="row">
-  <img src="./img/team/yona.jpg" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
 
-
-### Jonathan (Yona) Ronen, PhD
-Jonathan recently completed his PhD with our lab. He is following up on his research project within BIH Digital Health Accelarator program.
-More info at https://arcas.ai/
-
-#### Bioinformatics Scientist
-
-
-
-##### Previous Work Experience:
-- 2013 - 2015 Research Scientist, Social Media and Political Participation lab, New York University
-- 2010 - 2013 Software developer, Oslo, Brussels, Munich
-
-
-##### Education:
-- 2015 - 2020 PhD, MDC BIMSB, Berlin, Germany
-- 2008 - 2009 M.Sc Electrical Engineering, University of California, Santa Barbara
-- 2005 - 2010 M.Sc Electrical Engineering, Norwegian U of Sci & Tech
-
-
-
-**E-mail:** yablee [at] gmail [dot] com
-
-</div></div>
 
 
 
