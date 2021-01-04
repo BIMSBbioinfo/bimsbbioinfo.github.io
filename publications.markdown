@@ -86,3 +86,4 @@ rssfeed_cache = "924219f0f9710dd1aa89cf089890a652";
 
 1. Baubec T & Akalin A. ["Genome-Wide Analysis of DNA Methylation Patterns by High-Throughput Sequencing"](http://link.springer.com/chapter/10.1007/978-3-319-31350-4_9). Field Guidelines for Genetic Experimental Designs in High-Throughput Sequencing. Springer, 2016.
 
+2. Strozzi F., Janssen R., Wurmus R., Crusoe M. R., Githinji G., Di Tommaso P., Belhachemi D., Möller S., Smant G., de Ligt J., Prins P. ["Scalable Workflows and Reproducible Data Analysis for Genomics"](https://link.springer.com/protocol/10.1007%2F978-1-4939-9074-0_24). Evolutionary Genomics. Springer, 2019.
