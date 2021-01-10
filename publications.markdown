@@ -6,13 +6,13 @@ layout: with-nav
 
 ### Books and Book chapters
 
-1. Akalin A. ["Computational Genomics with R."](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). Chapman and Hall/CRC, 2020.
+1. Akalin A. ["Computational Genomics with R"](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). Chapman and Hall/CRC, 2020.
 
-1. Uyar B. ["RNA-seq Analysis."](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). In Akalin A. Computational Genomics with R. Chapman and Hall/CRC, 2020.
+1. Uyar B. ["RNA-seq Analysis"](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). In Akalin A. Computational Genomics with R. Chapman and Hall/CRC, 2020.
 
-1. Franke V. ["ChIP-seq Analysis."](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). In Akalin A. Computational Genomics with R. Chapman and Hall/CRC, 2020.
+1. Franke V. ["ChIP-seq Analysis"](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). In Akalin A. Computational Genomics with R. Chapman and Hall/CRC, 2020.
 
-1. Ronen J.["Multi-omics Analysis."](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). In Akalin A. Computational Genomics with R. Chapman and Hall/CRC, 2020.
+1. Ronen J.["Multi-omics Analysis"](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). In Akalin A. Computational Genomics with R. Chapman and Hall/CRC, 2020.
 
 1. Baubec T & Akalin A. ["Genome-Wide Analysis of DNA Methylation Patterns by High-Throughput Sequencing"](http://link.springer.com/chapter/10.1007/978-3-319-31350-4_9). Field Guidelines for Genetic Experimental Designs in High-Throughput Sequencing. Springer, 2016.
 
