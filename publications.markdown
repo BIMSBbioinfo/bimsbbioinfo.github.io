@@ -6,24 +6,26 @@ layout: with-nav
 
 ### Books and Book chapters
 
-1. Akalin A. ["Computational Genomics with R"](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). Chapman and Hall/CRC, 2020.
+1. **Akalin A**. ["Computational Genomics with R"](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). Chapman and Hall/CRC, 2020.
 
-1. Uyar B. ["RNA-seq Analysis"](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). In Akalin A. Computational Genomics with R. Chapman and Hall/CRC, 2020.
+1. **Uyar B**. ["RNA-seq Analysis"](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). In Akalin A. Computational Genomics with R. Chapman and Hall/CRC, 2020.
 
-1. Franke V. ["ChIP-seq Analysis"](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). In Akalin A. Computational Genomics with R. Chapman and Hall/CRC, 2020.
+1. **Franke V**. ["ChIP-seq Analysis"](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). In Akalin A. Computational Genomics with R. Chapman and Hall/CRC, 2020.
 
-1. Ronen J.["Multi-omics Analysis"](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). In Akalin A. Computational Genomics with R. Chapman and Hall/CRC, 2020.
+1. **Ronen J**.["Multi-omics Analysis"](https://www.routledge.com/Computational-Genomics-with-R/Akalin/p/book/9781498781855). In Akalin A. Computational Genomics with R. Chapman and Hall/CRC, 2020.
 
-1. Baubec T & Akalin A. ["Genome-Wide Analysis of DNA Methylation Patterns by High-Throughput Sequencing"](http://link.springer.com/chapter/10.1007/978-3-319-31350-4_9). Field Guidelines for Genetic Experimental Designs in High-Throughput Sequencing. Springer, 2016.
+2. Strozzi F., Janssen R., **Wurmus R.**, Crusoe M. R., Githinji G., Di Tommaso P., Belhachemi D., Möller S., Smant G., de Ligt J., Prins P. ["Scalable Workflows and Reproducible Data Analysis for Genomics"](https://link.springer.com/protocol/10.1007%2F978-1-4939-9074-0_24). In: Anisimova M. (eds) Evolutionary Genomics. Methods in Molecular Biology, vol 1910. Humana, New York Evolutionary Genomics. 2019.
 
-2. Strozzi F., Janssen R., Wurmus R., Crusoe M. R., Githinji G., Di Tommaso P., Belhachemi D., Möller S., Smant G., de Ligt J., Prins P. ["Scalable Workflows and Reproducible Data Analysis for Genomics"](https://link.springer.com/protocol/10.1007%2F978-1-4939-9074-0_24). Evolutionary Genomics. Springer, 2019.
+1. Baubec T & **Akalin A**. ["Genome-Wide Analysis of DNA Methylation Patterns by High-Throughput Sequencing"](http://link.springer.com/chapter/10.1007/978-3-319-31350-4_9).In: Aransay A., Lavín Trueba J. (eds) Field Guidelines for Genetic Experimental Designs in High-Throughput Sequencing. Springer, 2016.
+
+
 
 
 
 
 ### Selected Peer-reviewed publications
 
-(Up-to-date publications at [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D+OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D&sort=date).)
+(See all publications at [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D+OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D&sort=date).)
 
 
 1. **Kopp W**, Monti R, Tamburrini A, Ohler U, **Akalin A**. [Deep learning for genomics
@@ -67,7 +69,7 @@ Akalin A**. [PiGx: Reproducible genomics analysis pipelines with GNU Guix.](http
 
 ### Selected Pre-prints
 
-Full list of pre-prints at [bioRxiv](https://www.biorxiv.org/search/author1%3Aaltuna%2Bakalin%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard).
+See full list of pre-prints at [bioRxiv](https://www.biorxiv.org/search/author1%3Aaltuna%2Bakalin%20numresults%3A10%20sort%3Arelevance-rank%20format_result%3Astandard).
 
 1. Reproducible genomics analysis pipelines with GNU Guix. Ricardo Wurmus, Bora Uyar, Brendan Osberg, Vedran Franke, Alexander Gosdschan, Katarzyna Wreczycka, Jonathan Ronen, Altuna Akalin
 bioRxiv 298653; doi: [https://doi.org/10.1101/298653](https://doi.org/10.1101/298653)
