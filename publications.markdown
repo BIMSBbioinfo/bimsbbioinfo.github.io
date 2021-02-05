@@ -29,17 +29,17 @@ layout: with-nav
 
 
 1. **Kopp W**, Monti R, Tamburrini A, Ohler U, **Akalin A**. [Deep learning for genomics
-using Janggu](https://pubmed.ncbi.nlm.nih.gov/32661261/). Nat Commun. 2020 Jul 13;11(1):3488. doi:
+using Janggu](https://pubmed.ncbi.nlm.nih.gov/32661261/). **Nat Commun.** 2020 Jul 13;11(1):3488. doi:
 10.1038/s41467-020-17155-y. PMID: 32661261; PMCID: PMC7359359.
 
 1. **Ronen J**, Hayat S, **Akalin A**. [Evaluation of colorectal cancer subtypes and
-cell lines using deep learning](https://pubmed.ncbi.nlm.nih.gov/31792061/). Life Sci Alliance. 2019 Dec 2;2(6):e201900517.
+cell lines using deep learning](https://pubmed.ncbi.nlm.nih.gov/31792061/). **Life Sci Alliance.** 2019 Dec 2;2(6):e201900517.
 doi: 10.26508/lsa.201900517. PMID: 31792061; PMCID: PMC6892438.
 
 1. Wyler E, **Franke V**, Menegatti J, Kocks C, Boltengagen A, Praktiknjo S, Walch-
 Rückheim B, Bosse J, Rajewsky N, Grässer F, **Akalin A**, Landthaler M. [Single-cell
 RNA-sequencing of herpes simplex virus 1-infected cells connects NRF2 activation
-to an antiviral program](https://pubmed.ncbi.nlm.nih.gov/31653857/). Nat Commun. 2019 Oct 25;10(1):4878. doi:
+to an antiviral program](https://pubmed.ncbi.nlm.nih.gov/31653857/). **Nat Commun.** 2019 Oct 25;10(1):4878. doi:
 10.1038/s41467-019-12894-z. PMID: 31653857; PMCID: PMC6814756.
 
 1. **Wurmus R, Uyar B, Osberg B, Franke V, Gosdschan A, Wreczycka K, Ronen J,
