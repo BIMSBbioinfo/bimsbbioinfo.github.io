@@ -130,9 +130,8 @@ Dan's big challenge is to maintain, extend and keep safe the BIMSB's IT infrastr
 
 ##### Previous Work Experience:
 
-- 2013- , System Administrator/Engineer , MDC/ BIMSB
-- 2009-2013, System Administrator, Alexandru Ioan Cuza University of
-  Iasi, Romania
+- 2013-    , System Administrator/Engineer , MDC/ BIMSB
+- 2009-2013, System Administrator, Alexandru Ioan Cuza University of Iasi - Faculty of Computer Science,  Romania
 - 2003-2009, System Administrator, Cersanit SA, Romania
 
 ##### Education:
@@ -146,41 +145,33 @@ Dan's big challenge is to maintain, extend and keep safe the BIMSB's IT infrastr
 **E-mail:** dan.munteanu [at] mdc-berlin [dot] de
 </div></div>
 
+
 <div class="row">
-  <img src="img/team/BrenO.jpg" class="columns myroundThumb">
+  <img src="./img/team/yona.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
-### Brendan Osberg, PhD
 
-#### Biophysicist/Bioinformatics Scientist
+### Jonathan (Yona) Ronen, PhD
+Jonathan recently completed his PhD with our lab. He is following up on his research project within BIH Digital Health Accelarator program.
+More info at https://arcas.ai/
 
-Bren specializes in chromatin structure and organization using thermodynamic and statistical-mechanics-based modelling. Previous publications have focused on granular media and nucleosome positioning; current projects focus on deconvolution algorithms for cell-mixtures using general bio-marker algorithms.
+#### Bioinformatics Scientist
+
 
 ##### Previous Work Experience:
-- 2014 - 2015, Researcher, Technical University of Munich (TUM), Physics of Complex Biosystems, Garching, Germany
+- 2013 - 2015 Research Scientist, Social Media and Political Participation lab, New York University
+- 2010 - 2013 Software developer, Oslo, Brussels, Munich
+
 
 ##### Education:
-- 2009 - 2014, doctoral candidate, University of Munich (LMU), Chair of Statistical and Biological Physics, Munich, Germany
-
-**Selected Publications:** 
-
-[[Adsorption-Desorption Kinetics of Soft Particles]](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.088301), <i>Physical Review Letters</i>, <b>115</b>, 088301 (2015)
-
-[[Replication-Guided Nucleosome Packing and Nucleosome Breathing Expedite the Formation of Dense Arrays]](http://nar.oxfordjournals.org/content/early/2014/11/26/nar.gku1190.abstract), <i>Nucleic Acids Research, Oxford Journals</i>, <b>42</b>, 13633 (2014)
-
-[[Toward a Unified Physical Model of Nucleosome Patterns Flanking Transcription Start Sites]](http://www.pnas.org/content/110/14/5719.abstract), <i>Proceedings of the National Acadamy of Sciences</i>, <b>110</b>, 5719 (2013)
+- 2015 - 2020 PhD, MDC BIMSB, Berlin, Germany
+- 2008 - 2009 M.Sc Electrical Engineering, University of California, Santa Barbara
+- 2005 - 2010 M.Sc Electrical Engineering, Norwegian U of Sci & Tech
 
 
-[[Further publications available on researchgate]](https://www.researchgate.net/profile/Brendan_Osberg)
 
-**Websites:**
+**E-mail:** yablee [at] gmail [dot] com
 
-[[LinkedIn]](https://www.linkedin.com/in/brendan-osberg-18960814)
-
-[[CV]](http://myweb.dal.ca/bosberg/resume.html)
-
-
-**E-mail:** Brendan.Osberg [at] mdc-berlin [dot] de
 </div></div>
 
 
@@ -316,32 +307,7 @@ Alexander will join with Baris Tursun (Tursun Research Group at MDC) during his 
 
 </div></div> 
 
-<div class="row">
-  <img src="./img/team/yona.jpg" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
 
-
-### Jonathan (Yona) Ronen
-
-#### PhD student
-
-
-
-##### Previous Work Experience:
-- 2013 - 2015 Research Scientist, Social Media and Political Participation lab, New York University
-- 2010 - 2013 Software developer, Oslo, Brussels, Munich
-
-
-##### Education:
-- 2015 - PhD Student, MDC BIMSB, Berlin, Germany
-- 2008 - 2009 M.Sc Electrical Engineering, University of California, Santa Barbara
-- 2005 - 2010 M.Sc Electrical Engineering, Norwegian U of Sci & Tech
-
-
-
-**E-mail:** yablee [at] gmail [dot] com
-
-</div></div>
 
 
 
@@ -432,6 +398,18 @@ Administration
 Alumni
 ---------------------------------------
 ---------------------------------------
+
+#### Brendan Osberg, PhD
+
+Bioinformatics Scientist from 2017-2019, currently at Max Planck Institute for Molecular Genetics, Berlin.
+
+
+**Publications:**[[publications on researchgate]](https://www.researchgate.net/profile/Brendan_Osberg)
+
+**Websites:** [[LinkedIn]](https://www.linkedin.com/in/brendan-osberg-18960814)
+
+
+
 
 #### Dilmurat Yusuf, PhD
 
