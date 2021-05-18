@@ -87,7 +87,7 @@ GEM
     mercenary (0.3.4)
     mini_portile2 (2.5.1)
     minitest (5.14.1)
-    nokogiri (1.11.3)
+    nokogiri (1.11.4)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     parslet (1.5.0)
