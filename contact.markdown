@@ -21,7 +21,7 @@ details and adress.
 </ul>
 
 ### Visit the lab
-see [directions here](https://www.mdc-berlin.de/8233888/en/about_the_mdc/wegweiser).
+see [directions here](https://www.mdc-berlin.de/travel-directions-mitte?mdcbl%5B0%5D=/travel-directions&mdctl=0&mdcou=0&mdcot=0&mdcbv=qALDf5qbh7zaIyhssjIC1Ouc-O0LjJ5dOjY-gzpLY3E).
 
 ## Open positions
 For up-to-date oppurtunities for prospective students and postdocs, please contact Altuna.
