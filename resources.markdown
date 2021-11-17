@@ -5,7 +5,7 @@ layout: with-nav
 # Resources
 
 Here is a list of software, databases and learning material maintained
-by bioinformatics platform members. More importantly for MDC members and faculty, here is a [1-pager](http://https://bioinformatics.mdc-berlin.de/1pager.pdf) that summarizes all the support services we provide and how to access them. 
+by bioinformatics platform members. More importantly for MDC members and faculty, here is a [1-pager](https://bioinformatics.mdc-berlin.de/1pager.pdf) that summarizes all the support services we provide and how to access them. 
 
 -----------------------------------------
 
