@@ -27,6 +27,9 @@ layout: with-nav
 
 (See all publications at [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Akalin%2C+Altuna%5BFull+Author+Name%5D+OR+Alkalin%2C+Altuna%5BFull+Author+Name%5D&sort=date).)
 
+1. **Dohmen J**, Baranovskii A, Ronen J, Uyar B, Franke V, **Akalin A**. 
+[Identifying tumor cells at the single-cell level using machine learning](https://pubmed.ncbi.nlm.nih.gov/35637521/).
+**Genome Biol.** 2022 May 30;23(1):123. doi: 10.1186/s13059-022-02683-1. PMID: 35637521; PMCID: PMC9150321.
 
 1. **Kopp W**, Monti R, Tamburrini A, Ohler U, **Akalin A**. [Deep learning for genomics
 using Janggu](https://pubmed.ncbi.nlm.nih.gov/32661261/). **Nat Commun.** 2020 Jul 13;11(1):3488. doi:
