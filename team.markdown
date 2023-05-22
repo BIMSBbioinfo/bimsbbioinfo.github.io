@@ -59,6 +59,14 @@ Research and IT Staff
 
 ---------------------------------------
 
+<div class="row">
+  <img src="./img/team/Alex.jpg" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+
+### Alexander Blume, PhD  
+
+ToDo
+
 
 <div class="row">
   <img src="img/team/vedran.jpg" class="columns myroundThumb">
@@ -89,35 +97,9 @@ Vedran supports research projects for the platform. He has extensive experience 
 **E-mail:** vedran.franke [at] mdc-berlin [dot] de
 </div></div>
 
+## ToDo Artür 
 
-<div class="row">
-  <img src="img/andromeda-orbit.jpg"  class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
     
-### Wolfgang Kopp, PhD
-
-#### Bioinformatics Scientist
-
-TBA
-
-
-##### Previous Work Experience:
-- 2011 - 2011,TBA
-- 2010 - 2011, TBA
-
-##### Education:
-- 2011 - 2014 TBA
-
-**Publications:** TBA
-
-**Websites:**
-TBA
-
-
-**E-mail:** wolfgang.kopp [at] mdc-berlin [dot] de
-</div></div>
-
-
 <div class="row">
   <img src="img/team/DanMunteanu.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
@@ -143,35 +125,6 @@ Dan's big challenge is to maintain, extend and keep safe the BIMSB's IT infrastr
 [[LinkedIn]](http://de.linkedin.com/pub/dan-munteanu/37/204/642)
 
 **E-mail:** dan.munteanu [at] mdc-berlin [dot] de
-</div></div>
-
-
-<div class="row">
-  <img src="./img/team/yona.jpg" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
-
-
-### Jonathan (Yona) Ronen, PhD
-Jonathan recently completed his PhD with our lab. He is following up on his research project within BIH Digital Health Accelarator program.
-More info at https://arcas.ai/
-
-#### Bioinformatics Scientist
-
-
-##### Previous Work Experience:
-- 2013 - 2015 Research Scientist, Social Media and Political Participation lab, New York University
-- 2010 - 2013 Software developer, Oslo, Brussels, Munich
-
-
-##### Education:
-- 2015 - 2020 PhD, MDC BIMSB, Berlin, Germany
-- 2008 - 2009 M.Sc Electrical Engineering, University of California, Santa Barbara
-- 2005 - 2010 M.Sc Electrical Engineering, Norwegian U of Sci & Tech
-
-
-
-**E-mail:** yablee [at] gmail [dot] com
-
 </div></div>
 
 
@@ -211,8 +164,6 @@ Bora has started working at MDC on 1st of August, 2015 as a bioinformatics scien
 </div></div>
 
 
-
-
 <div class="row">
   <img src="https://avatars.githubusercontent.com/u/47740" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
@@ -247,7 +198,6 @@ Ricardo is an Emacs, Scheme, and Free Software enthusiast.
 
 
 
-
 PhD Students
 ---------------------------------------
 
@@ -256,85 +206,13 @@ PhD Students
 
 
 <div class="row">
-  <img src="./img/team/Alex.jpg" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
-  
-
-### Alexander Gosdschan
-
-#### PhD student
-
-Alexander will join with Baris Tursun (Tursun Research Group at MDC) during his PhD to analyse and model gene-regulation in c.elegans and other model organisms.
-
-##### Previous Work Experience:
-- 2015 - 2016 Intern, MDC BIMSB, Berlin, Germany
-
-
-##### Education:
-- 2016 - PhD Student, MDC BIMSB, Berlin, Germany
-- 2014 - 2016 Master Student, Freie Universtät Berlin, Germany
-- 2010 - 2014 Bachelor Student, Freie Universtät Berlin, Germany
-
-
-**E-mail:** Alexander.Gosdschan [at] mdc-berlin [dot] de
-
-</div></div> 
-
-
-<div class="row">
-  <img src="./img/team/Inga.jpg" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
-  
-
-### Inga Patarcic
-
-#### PhD student
-
-
-
-##### Previous Work Experience:
-- 2013 - 2015 Researcher, The School of Medicine, University of Split
-- 2015 - 2015 Visiting Scientist, University of Edinburgh, The MRC Institute of Genetics and Molecular Medicine, Edinburgh
-
-
-##### Education:
-- 2015 - PhD Student, MDC BIMSB, Berlin, Germany
-- 2010 - 2013 Master Student, University of Zagreb, Croatia
-- 2007 - 2010 Bachelor Student, University of Zagreb, Croatia
-
-
-**E-mail:** inga.patarcic [at] mdc-berlin [dot] de
-
-</div></div> 
-
-
-
-
-
-<div class="row">
-  <img src="img/team/kasia.jpg" class="columns myroundThumb">
+  <img src=[ToDo taras] class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
   
   
-### Katarzyna Wreczycka 
+### Taras Savchyn
 
-After completing a 6-month internship, Katarzyna has started working at MDC on 1st of October, 2015 as a PhD student.
-Her project is dealing with assessing prognostic and diagnostic features of high-dimensional genomics data for neuroblastoma.
-
-#### PhD student
-
-##### Previous Work Experience:
-- 2014 Intern, MDC BIMSB &amp; [Insitute of Computer Science Polish Academy of Science](http://www2.ipipan.waw.pl/index.php/en), Berlin, Germany
-
-##### Education:
-- 2012 - 2014 MSc, Bioinformatics and Systems Biology, [University of Warsaw](http://www.mimuw.edu.pl/?LANG=en), Warsaw, Poland
-- 2010 - 2012 BSc, Bioinformatics and Systems Biology, [University of Warsaw](http://www.mimuw.edu.pl/?LANG=en), Warsaw, Poland
-
-**Websites:**
-[[LinkedIn]](https://www.linkedin.com/pub/katarzyna-wr??czycka/43/38b/a55)
-[[Github]](https://github.com/katwre)
-
-**E-mail:** katarzyna.wreczycka [at] mdc-berlin [dot] de
+ToDo
 
 </div></div>
 
@@ -344,35 +222,9 @@ Interns and Master's students
 ---------------------------------------
 ---------------------------------------
 
-
-
-
-<div class="row">
-  <img src="img/andromeda-orbit.jpg" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
-  
-  
-### Bożena Mika-Gospodorz
-
-#### Research Intern 
-
-Bozena works on improving the [genomation](https://github.com/BIMSBbioinfo/genomation/) bioconductor package. 
-
-
-##### Previous Work Experience:
-- 2009 - 2014 TBA
-
-##### Education:
-- 2005 - 2007 TBA
-
-**Websites:**
-TBA
-
-**E-mail:** TBA
-
-</div></div>
-
-
+ToDo Jonas
+ToDo Vic  
+ToDo Nour 
 
 
 Administration
@@ -398,6 +250,20 @@ Administration
 Alumni
 ---------------------------------------
 ---------------------------------------
+    
+#### ToDo - sort by time 
+* Wolfang, 
+* Yona 
+* Inga
+* Rafael
+* Irem
+* Miguel
+* Kashia 
+* Bożena Mika-Gospodorz
+* Yunhee 
+* Veronika 
+    
+    
 
 #### Brendan Osberg, PhD
 
@@ -407,8 +273,6 @@ Bioinformatics Scientist from 2017-2019, currently at Max Planck Institute for M
 **Publications:**[[publications on researchgate]](https://www.researchgate.net/profile/Brendan_Osberg)
 
 **Websites:** [[LinkedIn]](https://www.linkedin.com/in/brendan-osberg-18960814)
-
-
 
 
 #### Dilmurat Yusuf, PhD
