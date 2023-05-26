@@ -74,3 +74,19 @@ div class=row">
 
 **E-mail:** [NAME]@mdc.berlin.de
 </div></div> 
+
+# Template Alumi  
+
+
+#### [NAME, Title]
+
+[Role and Time in the Lab], [current (year) position]
+
+**Publications:** [[PubMed]][LINK]
+
+**Websites:**
+[[LinkedIn]]([LINK])  
+[[Github]]([LINK])  
+
+**E-mail:** [private/follow-up email]
+
