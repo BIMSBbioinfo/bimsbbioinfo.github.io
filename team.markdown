@@ -65,7 +65,29 @@ Research and IT Staff
 
 ### Alexander Blume, PhD  
 
-ToDo
+#### Bioinformatics Scientist
+
+Alex is currently working on cfDNA-methylation based biomarker detection.
+
+##### Previous Work Experience:  
+- 2016 - 2022 PhD Student, MDC BIMSB, Berlin, Germany
+- 2015 - 2016 Intern, MDC BIMSB, Berlin, Germany
+
+##### Education:
+- 2016 - 2022 PhD Student, MDC BIMSB, Berlin, Germany
+- 2014 - 2016 Master Student, Freie Universtät Berlin, Germany
+- 2010 - 2014 Bachelor Student, Freie Universtät Berlin, Germany
+
+    
+**Publications:** [[PubMed]]([LINK])
+
+**Websites:**
+[[LinkedIn]]([LINK])
+[[Github]](https://github.com/alexg9010)
+
+
+**E-mail:** Alexander.Blume@mdc.berlin.de
+</div></div>
 
 
 <div class="row">
@@ -97,7 +119,33 @@ Vedran supports research projects for the platform. He has extensive experience 
 **E-mail:** vedran.franke [at] mdc-berlin [dot] de
 </div></div>
 
-## ToDo Artür 
+
+<div class=row">
+  <img src="https://avatars.githubusercontent.com/u/39335576?s=96&v=4" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+ 
+### Artür Manukyan 
+
+#### [POSITION]
+
+Reasearch topic
+
+##### Previous Work Experience:
+- [year - year], [Location]
+
+##### Education:
+- [year - year], [Location]
+
+**Publications:** [[PubMed]]([LINK])
+
+**Websites:**
+[[LinkedIn]]([LINK])
+[[Github]](https://github.com/Artur-man)
+
+
+**E-mail:** Artuer.Manukyan@mdc.berlin.de
+</div></div>
+ 
 
     
 <div class="row">
@@ -205,15 +253,30 @@ PhD Students
 ---------------------------------------
 
 
-<div class="row">
-  <img src=[ToDo taras] class="columns myroundThumb">
+<div class=row">
+  <img src="https://avatars.githubusercontent.com/u/30748114?s=96&v=4" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
-  
-  
+ 
 ### Taras Savchyn
 
-ToDo
+#### [Degree field] 
+    
+Reasearch topic
 
+##### Previous Work Experience:
+- [year - year], [Location]
+
+##### Education:
+- [year - year], [Location]
+
+**Publications:** [[PubMed]]([LINK])
+
+**Websites:**
+[[LinkedIn]]([LINK])
+[[Github]](https://github.com/trsvchn)
+
+
+**E-mail:** Taras.Savchyn@mdc.berlin.de
 </div></div>
 
 
@@ -222,9 +285,87 @@ Interns and Master's students
 ---------------------------------------
 ---------------------------------------
 
-ToDo Jonas
-ToDo Vic  
-ToDo Nour 
+<div class=row">
+  <img src="https://avatars.githubusercontent.com/u/68993915?s=96&v=4" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+ 
+
+#### Jonas Freimuth
+
+#### Master student
+
+Jonas started in the lab in April 2022 as a HiWi student working
+to improve the [PiGx-SARS-CoV-2](https://github.com/BIMSBbioinfo/pigx_sars-cov-2)
+pipeline's code quality and
+deconvolution accurracy. As of September 2022 he is working on
+his Master's thesis, exploring the feasibility of improving
+prediction accurracy of machine learning models using cancer
+bulk RNA-sequencing through residuals derived from
+deconvolution models.
+
+### Previous Work Experience:
+
+2022: Intern, MDC BIMSB, Berlin, Germany
+
+### Education:
+
+2016 - 2020: BSc Biology, [University of Tuebingen](https://uni-tuebingen.de/), Tuebingen, Germany
+2020 -: MSc Bioinformatics, [University of Potsdam](https://uni-potsdam.de/), Potsdam, Germany
+
+**E-mail**: jonas.freimuth.mdc-berlin.de
+</div></div>
+
+<div class=row">
+  <img src="[IMAGE LINK/PATH]" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+ 
+### Vic-Fabienne Schumann
+
+#### Master Student
+
+Reasearch topic
+
+##### Previous Work Experience:
+- [year - year], [Location]
+
+##### Education:
+- [year - year], [Location]
+
+**Publications:** [[PubMed]]([LINK])
+
+**Websites:**
+[[LinkedIn]]([LINK])
+[[Github]]([LINK])
+
+
+**E-mail:** [NAME]@mdc.berlin.de
+</div></div>
+
+<div class=row">
+  <img src="[IMAGE LINK/PATH]" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+ 
+### Nour Alkhoury
+
+#### Master Student
+
+Reasearch topic
+
+##### Previous Work Experience:
+- [year - year], [Location]
+
+##### Education:
+- [year - year], [Location]
+
+**Publications:** [[PubMed]]([LINK])
+
+**Websites:**
+[[LinkedIn]]([LINK])
+[[Github]]([LINK])
+
+
+**E-mail:** [NAME]@mdc.berlin.de
+</div></div>
 
 
 Administration
@@ -251,19 +392,134 @@ Alumni
 ---------------------------------------
 ---------------------------------------
     
+
 #### ToDo - sort by time 
-* Wolfang, 
-* Yona 
-* Inga
-* Rafael
-* Irem
-* Miguel
-* Kashia 
-* Bożena Mika-Gospodorz
-* Yunhee 
-* Veronika 
+
     
-    
+#### Wolfgang Kopp, PhD
+
+[Role and Time in the Lab], [current (year) position]
+
+**Publications:** [[PubMed]][LINK]
+
+**Websites:** [[LinkedIn]] [LINK]
+**E-mail:** [private/follow-up email] 
+                                           
+#### Jonathan (Yona) Ronen, PhD
+
+[Role and Time in the Lab], [current (year) position]
+
+**Publications:** [[PubMed]][LINK]
+
+**Websites:** [[LinkedIn]] [LINK]
+**E-mail:** [private/follow-up email]
+                                           
+#### Inga Patarcic, PhD
+
+[Role and Time in the Lab], [current (year) position]
+
+**Publications:** [[PubMed]][LINK]
+
+**Websites:** [[LinkedIn]] [LINK]  
+                                           
+**E-mail:** [private/follow-up email]
+
+
+#### Katarzyna Wreczycka, PhD
+
+[Role and Time in the Lab], [current (year) position]
+
+**Publications:** [[PubMed]][LINK]
+
+**Websites:** [[LinkedIn]] [LINK]  
+                                           
+**E-mail:** [private/follow-up email]  
+                                           
+#### Rafael Cuadrat, PhD
+
+[Role and Time in the Lab], [current (year) position]
+
+**Publications:** [[PubMed]][LINK]
+
+**Websites:** [[LinkedIn]] [LINK]  
+                                           
+**E-mail:** [private/follow-up email]  
+                                           
+#### Irem Güngüz
+
+[Role and Time in the Lab], [current (year) position]
+
+**Publications:** [[PubMed]][LINK]
+
+**Websites:**
+[[LinkedIn]]([LINK])  
+[[Github]]([LINK])  
+                                           
+**E-mail:** [private/follow-up email]  
+                                           
+#### Jan Dohmen
+
+[Role and Time in the Lab], [current (year) position]
+
+**Publications:** [[PubMed]][LINK]
+
+**Websites:** [[LinkedIn]] [LINK]  
+                                           
+**E-mail:** [private/follow-up email]  
+                                           
+#### Miguel Arbesú, PhD
+
+[Role and Time in the Lab], [current (year) position]
+
+**Publications:** [[PubMed]][LINK]
+
+**Websites:** [[LinkedIn]] [LINK]
+**E-mail:** [private/follow-up email]  
+                                           
+#### Katarzyna Wreczycka
+
+[Role and Time in the Lab], [current (year) position]
+
+**Publications:** [[PubMed]][LINK]
+
+**Websites:**
+[[LinkedIn]]([LINK])
+[[Github]](https://github.com/katwre)
+**E-mail:** [private/follow-up email]  
+                                           
+#### Yunhee Jeong
+
+[Role and Time in the Lab], [current (year) position]
+
+**Publications:** [[PubMed]][LINK]
+
+**Websites:**
+[[LinkedIn]]([LINK])
+[[Github]](https://github.com/hanyangii)
+**E-mail:** [private/follow-up email]  
+                                           
+#### Bożena Mika-Gospodorz
+
+[Role and Time in the Lab], [current (year) position]
+
+**Publications:** [[PubMed]][LINK]
+
+**Websites:**
+[[LinkedIn]]([LINK])
+[[Github]]([LINK])
+**E-mail:** [private/follow-up email]  
+                                           
+#### Veronika ???
+
+[Role and Time in the Lab], [current (year) position]
+
+**Publications:** [[PubMed]][LINK]
+
+**Websites:**
+[[LinkedIn]]([LINK])
+[[Github]](https://github.com/sevene7)
+**E-mail:** [private/follow-up email]
+                                           
 
 #### Brendan Osberg, PhD
 
