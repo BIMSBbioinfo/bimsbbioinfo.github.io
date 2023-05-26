@@ -29,15 +29,14 @@ Reasearch topic
 **E-mail:** [NAME]@mdc.berlin.de
 </div></div>
 
-                                                                                                                                                                                                         
+                                                                                                                                                                                      
 
 # Template with placeholder 
 
-div class=row">
+<div class=row">
   <img src="[IMAGE LINK/PATH]" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
---> best to use github profile pic. E.g. "https://avatars2.githubusercontent.com/u/6254567?v=3&s=460"
  
 ### [NAME]
 
@@ -61,11 +60,9 @@ TBA
 # Template for minimal information
 
 
-div class=row">
+<div class=row">
   <img src="img/andromeda-orbit.jpg" class="columns myroundThumb"> 
   <div class="large-9 columns" markdown="1">
-
---> best to use github profile pic. E.g. "https://avatars2.githubusercontent.com/u/6254567?v=3&s=460"
  
 ### [NAME]
 
@@ -76,7 +73,6 @@ div class=row">
 </div></div> 
 
 # Template Alumi  
-
 
 #### [NAME, Title]
 
