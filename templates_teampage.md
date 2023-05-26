@@ -1,12 +1,11 @@
 # Template BIMSBbioinfo Team Page  
+For profile pic:best to use github profile pic. E.g. "https://avatars2.githubusercontent.com/u/6254567?v=3&s=460"
 
 ## Team Members 
 
 <div class=row">
   <img src="[IMAGE LINK/PATH]" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
-
---> best to use github profile pic. E.g. "https://avatars2.githubusercontent.com/u/6254567?v=3&s=460"
  
 ### [NAME]
 
