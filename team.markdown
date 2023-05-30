@@ -59,6 +59,36 @@ Research and IT Staff
 
 ---------------------------------------
 
+<div class="row">
+  <img src="./img/team/Alex.jpg" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+
+### Alexander Blume, PhD  
+
+#### Bioinformatics Scientist
+
+Alex is currently working on cfDNA-methylation based biomarker detection.
+
+##### Previous Work Experience:  
+- 2016 - 2022 PhD Student, MDC BIMSB, Berlin, Germany
+- 2015 - 2016 Intern, MDC BIMSB, Berlin, Germany
+
+##### Education:
+- 2016 - 2022 PhD Student, MDC BIMSB, Berlin, Germany
+- 2014 - 2016 Master Student, Freie Universtät Berlin, Germany
+- 2010 - 2014 Bachelor Student, Freie Universtät Berlin, Germany
+
+    
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Blume+A&cauthor_id=36769095)
+
+**Websites:**
+[[LinkedIn]](https://www.linkedin.com/in/alexander-blume-243430176/)
+[[Github]](https://github.com/alexg9010)
+
+
+**E-mail:** Alexander.Blume@mdc.berlin.de
+</div></div>
+
 
 <div class="row">
   <img src="img/team/vedran.jpg" class="columns myroundThumb">
@@ -90,34 +120,37 @@ Vedran supports research projects for the platform. He has extensive experience 
 </div></div>
 
 
-<div class="row">
-  <img src="img/andromeda-orbit.jpg"  class="columns myroundThumb">
+<div class=row">
+  <img src="img/team/artur.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
-    
-### Wolfgang Kopp, PhD
+ 
+### Artür Manukyan, PhD
 
-#### Bioinformatics Scientist
+#### Postdoctoral Researcher
 
-TBA
-
+Artür is a trained statistician, computational scientist and bioinformatician. His main research interest is Network Science, and he aims to develop graph-based statistical learning frameworks for analyzing omics datasets towards, e.g., Spatial Biology and Biological Knowledge Graphs. He has built several  software packages and tools that implement statistical learning methods for knowledge discovery, and he has extensive expertise in analyzing data from a large variety of omics technologies such as scRNA-Seq, CITE-Seq, SLAM-Seq etc..
 
 ##### Previous Work Experience:
-- 2011 - 2011,TBA
-- 2010 - 2011, TBA
+- 2020 – 2022, Postdoctoral Research Fellow, UMass Bioinformatics Core, Worcester, USA   
+- 2019 – 2020, Postdoctoral Research Fellow, Broad Institute of MIT and Harvard, Boston, USA  
+- 2017 – 2019, Teaching Assistant Professor, Yeditepe University, Istanbul, Turkey 
 
 ##### Education:
-- 2011 - 2014 TBA
-
-**Publications:** TBA
+- 2013 – 2017, PhD, Computational Sciences, Koç University, Istanbul, Turkey                                             
+                                           
+**Publications:** [[GoogleScholar]](https://scholar.google.com/citations?user=5OrlhE8AAAAJ&hl=en&oi=ao)
 
 **Websites:**
-TBA
+[[Homepage]](https://artur-man.github.io/)
+[[LinkedIn]](https://www.linkedin.com/in/art%C3%BCr-manukyan-a2071890/)
+[[Github]](https://github.com/Artur-man)  
 
 
-**E-mail:** wolfgang.kopp [at] mdc-berlin [dot] de
+**E-mail:** Artuer.Manukyan@mdc.berlin.de
 </div></div>
+ 
 
-
+    
 <div class="row">
   <img src="img/team/DanMunteanu.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
@@ -130,48 +163,19 @@ Dan's big challenge is to maintain, extend and keep safe the BIMSB's IT infrastr
 
 ##### Previous Work Experience:
 
-- 2013-    , System Administrator/Engineer , MDC/ BIMSB
-- 2009-2013, System Administrator, Alexandru Ioan Cuza University of Iasi - Faculty of Computer Science,  Romania
+- 2013- now, System Administrator/Engineer , MDC/ BIMSB  
+- 2009-2013, System Administrator, Alexandru Ioan Cuza University of Iasi - Faculty of Computer Science,  Romania  
 - 2003-2009, System Administrator, Cersanit SA, Romania
 
 ##### Education:
 
-- MSc, Computer Science, Alexandru Ioan Cuza University of Iasi, Romania
+- MSc, Computer Science, Alexandru Ioan Cuza University of Iasi, Romania  
 - BSc, Computer Science, Alexandru Ioan Cuza University of Iasi, Romania
 
 **Websites:**
 [[LinkedIn]](http://de.linkedin.com/pub/dan-munteanu/37/204/642)
 
 **E-mail:** dan.munteanu [at] mdc-berlin [dot] de
-</div></div>
-
-
-<div class="row">
-  <img src="./img/team/yona.jpg" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
-
-
-### Jonathan (Yona) Ronen, PhD
-Jonathan recently completed his PhD with our lab. He is following up on his research project within BIH Digital Health Accelarator program.
-More info at https://arcas.ai/
-
-#### Bioinformatics Scientist
-
-
-##### Previous Work Experience:
-- 2013 - 2015 Research Scientist, Social Media and Political Participation lab, New York University
-- 2010 - 2013 Software developer, Oslo, Brussels, Munich
-
-
-##### Education:
-- 2015 - 2020 PhD, MDC BIMSB, Berlin, Germany
-- 2008 - 2009 M.Sc Electrical Engineering, University of California, Santa Barbara
-- 2005 - 2010 M.Sc Electrical Engineering, Norwegian U of Sci & Tech
-
-
-
-**E-mail:** yablee [at] gmail [dot] com
-
 </div></div>
 
 
@@ -211,8 +215,6 @@ Bora has started working at MDC on 1st of August, 2015 as a bioinformatics scien
 </div></div>
 
 
-
-
 <div class="row">
   <img src="https://avatars.githubusercontent.com/u/47740" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
@@ -247,7 +249,6 @@ Ricardo is an Emacs, Scheme, and Free Software enthusiast.
 
 
 
-
 PhD Students
 ---------------------------------------
 
@@ -255,87 +256,37 @@ PhD Students
 ---------------------------------------
 
 
-<div class="row">
-  <img src="./img/team/Alex.jpg" class="columns myroundThumb">
+<div class=row">
+  <img src="https://avatars.githubusercontent.com/u/30748114?s=96&v=4" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
-  
+ 
+### Taras Savchyn
 
-### Alexander Gosdschan
-
-#### PhD student
-
-Alexander will join with Baris Tursun (Tursun Research Group at MDC) during his PhD to analyse and model gene-regulation in c.elegans and other model organisms.
+#### PhD Student  
+    
+Enhancing machine learning-aided cancer biology with prior biological knowledge integration.
 
 ##### Previous Work Experience:
-- 2015 - 2016 Intern, MDC BIMSB, Berlin, Germany
 
-
-##### Education:
-- 2016 - PhD Student, MDC BIMSB, Berlin, Germany
-- 2014 - 2016 Master Student, Freie Universtät Berlin, Germany
-- 2010 - 2014 Bachelor Student, Freie Universtät Berlin, Germany
-
-
-**E-mail:** Alexander.Gosdschan [at] mdc-berlin [dot] de
-
-</div></div> 
-
-
-<div class="row">
-  <img src="./img/team/Inga.jpg" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
-  
-
-### Inga Patarcic
-
-#### PhD student
-
-
-
-##### Previous Work Experience:
-- 2013 - 2015 Researcher, The School of Medicine, University of Split
-- 2015 - 2015 Visiting Scientist, University of Edinburgh, The MRC Institute of Genetics and Molecular Medicine, Edinburgh
-
+- 2019 - 2022 Software Developer, Ukraine.
+- 2017 - 2018 Junior Software Engineer, Gliwice, Poland.
+- 2016 - 2017 Intern, Enamine Ltd, Kyiv, Ukraine.
+- 2013 - 2017 Research Intern, Ukrainian National Cancer Institute, Kyiv, Ukraine.
 
 ##### Education:
-- 2015 - PhD Student, MDC BIMSB, Berlin, Germany
-- 2010 - 2013 Master Student, University of Zagreb, Croatia
-- 2007 - 2010 Bachelor Student, University of Zagreb, Croatia
 
-
-**E-mail:** inga.patarcic [at] mdc-berlin [dot] de
-
-</div></div> 
-
-
-
-
-
-<div class="row">
-  <img src="img/team/kasia.jpg" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
-  
-  
-### Katarzyna Wreczycka 
-
-After completing a 6-month internship, Katarzyna has started working at MDC on 1st of October, 2015 as a PhD student.
-Her project is dealing with assessing prognostic and diagnostic features of high-dimensional genomics data for neuroblastoma.
-
-#### PhD student
-
-##### Previous Work Experience:
-- 2014 Intern, MDC BIMSB &amp; [Insitute of Computer Science Polish Academy of Science](http://www2.ipipan.waw.pl/index.php/en), Berlin, Germany
-
-##### Education:
-- 2012 - 2014 MSc, Bioinformatics and Systems Biology, [University of Warsaw](http://www.mimuw.edu.pl/?LANG=en), Warsaw, Poland
-- 2010 - 2012 BSc, Bioinformatics and Systems Biology, [University of Warsaw](http://www.mimuw.edu.pl/?LANG=en), Warsaw, Poland
+- 2022 - PhD Student, MDC BIMSB, Berlin, Germany.
+- 2015 - 2017 MSc, Cytology and Histology (Biology), Taras Shevchenko National University of Kyiv, Kyiv, Ukraine.
+- 2011 - 2015 BSc, Biology, Taras Shevchenko National University of Kyiv, Kyiv, Ukraine.
+    
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Savchyn+TM&cauthor_id=27031719)
 
 **Websites:**
-[[LinkedIn]](https://www.linkedin.com/pub/katarzyna-wr??czycka/43/38b/a55)
-[[Github]](https://github.com/katwre)
+[[LinkedIn]](https://www.linkedin.com/in/trsvchn/)
+[[Github]](https://github.com/trsvchn)
 
-**E-mail:** katarzyna.wreczycka [at] mdc-berlin [dot] de
 
+**E-mail:** Taras.Savchyn@mdc.berlin.de
 </div></div>
 
 
@@ -344,35 +295,96 @@ Interns and Master's students
 ---------------------------------------
 ---------------------------------------
 
-
-
-
-<div class="row">
-  <img src="img/andromeda-orbit.jpg" class="columns myroundThumb">
+<div class=row">
+  <img src="[IMAGE LINK/PATH]" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
-  
-  
-### Bożena Mika-Gospodorz
+ 
+### Nour Alkhoury
 
-#### Research Intern 
+#### Master Student
 
-Bozena works on improving the [genomation](https://github.com/BIMSBbioinfo/genomation/) bioconductor package. 
-
+Nour is workin on the development of a genomic patient matching system using tumor genome profiles.
 
 ##### Previous Work Experience:
-- 2009 - 2014 TBA
+- 2021 - now , Data Scientist, Mushlabs GmbH
 
 ##### Education:
-- 2005 - 2007 TBA
+- 2021 - 2023,  MSc Bioinformatics, [Free University of Berlin](https://www.fu-berlin.de/en/index.html), Berlin, Germany
+- 2017 - 2021, BSc Bioinformatics, [Lebanese American University](https://www.lau.edu.lb/)
 
 **Websites:**
-TBA
+[[LinkedIn]](https://www.linkedin.com/in/nour-alkhoury/)
+[[Github]](https://github.com/nouralkhoury)
 
-**E-mail:** TBA
 
+**E-mail:** Nour.Alkhoury@mdc.berlin.de
+</div></div>
+
+<div class=row">
+  <img src="https://avatars.githubusercontent.com/u/68993915?s=96&v=4" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+ 
+
+#### Jonas Freimuth
+
+#### Master student
+
+Jonas started in the lab in April 2022 as a HiWi student working
+to improve the [PiGx-SARS-CoV-2](https://github.com/BIMSBbioinfo/pigx_sars-cov-2)
+pipeline's code quality and
+deconvolution accurracy. As of September 2022 he is working on
+his Master's thesis, exploring the feasibility of improving
+prediction accurracy of machine learning models using cancer
+bulk RNA-sequencing through residuals derived from
+deconvolution models.
+
+### Previous Work Experience:
+
+2022: Intern, MDC BIMSB, Berlin, Germany
+
+### Education:
+
+- 2020 - now, MSc Bioinformatics, [University of Potsdam](https://uni-potsdam.de/), Potsdam, Germany
+- 2016 - 2020, BSc Biology, [University of Tuebingen](https://uni-tuebingen.de/), Tuebingen, Germany
+
+                     
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Jonas+Freimuth&sort=date)
+
+**Websites:**
+[[Github]](https://github.com/jonasfreimuth)  
+                                           
+                                           
+**E-mail**: jonas.freimuth.mdc-berlin.de
 </div></div>
 
 
+<div class=row">
+  <img src="https://avatars.githubusercontent.com/u/19505743?s=96&v=4" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">    
+ 
+### Vic-Fabienne Schumann
+
+#### Master Student
+
+Vic-Fabienne acitively participates in a range of projects focused on developing bioinformatics tools for omics science, with a specific emphasis on machine learning. Notably, she have contributed to the PiGx-Sars-Cov-2 analysis pipeline.
+
+##### Previous Work Experience:
+- 2019 - 2023,  Intern (Labs: Ohler, Preibisch, Akalin, N.Rajewsky), MDC BIMSB, Berlin, Germany
+
+##### Education:
+- 2020 - now,  MSc Bioinformatics, [University of Potsdam](https://uni-potsdam.de/), Potsdam, Germany
+- 2016 - 2019, BSc Biochemistry, [University of Tuebingen](https://uni-tuebingen.de/), Tuebingen, Germany
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Vic-Fabienne+Schumann)
+
+**Websites:**
+[[LinkedIn]](https://www.linkedin.com/in/vic-fabienne-schumann/)
+[[Github]](https://github.com/vfschumann)
+
+
+**E-mail:** Vic-Fabienne.Schumann@mdc.berlin.de
+</div></div>
 
 
 Administration
@@ -399,6 +411,97 @@ Alumni
 ---------------------------------------
 ---------------------------------------
 
+                                           
+#### Yunhee Jeong
+
+Visting student in 2022, currently PhD Student at DKFZ
+
+**Websites:**
+[[LinkedIn]](https://www.linkedin.com/in/yunhee-jeong-ba2132165/)
+                                           
+                                           
+#### Miguel Arbesú, PhD
+
+Visting Researcher in 2022, currently at InstaDeep Ltd
+
+**Publications:** [[GoogleScholar]](https://scholar.google.es/citations?user=9t-FKjoAAAAJ&hl=en)
+
+**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/miguel-arbes%C3%BA-andr%C3%A9s-phd-720404227/)                                           
+                                           
+
+#### Irem Gündüz
+
+Internship from 2021-2022, currently PhD Student at F.Müller Lab at Saarland University
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=G%C3%BCnd%C3%BCz+IB&cauthor_id=36428696)
+
+**Websites:**
+[[LinkedIn]](https://www.linkedin.com/in/ibgunduz/)  
+
+
+#### Jonathan (Yona) Ronen, PhD
+                                           
+PhD Student and Bioinformatics Scientist for Arcas.ai from 2015-2022, currently at Inceptive
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Jonathan+Ronen&sort=date)
+
+**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/jronen/)
+                                                                                 
+                                           
+#### Rafael Cuadrat, PhD
+
+Postdoctoral Researcher from 2020 - 2022, currently at Eagle Genomics
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Cuadrat+RRC&cauthor_id=35846832)
+
+**Websites:** [[LinkedIn]] [LINK]  
+                                           
+**E-mail:** [private/follow-up email]   
+                                           
+                                           
+ #### Jan Dohmen
+
+Bioinformatics Scientist from 2020-2021, currently PhD Student at TU Hamburg
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Jan+Dohmen)
+
+**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/jan-dohmen-99832816b/) 
+                                                                                      
+                                           
+#### Katarzyna Wreczycka, PhD
+
+PhD Student from 2015-2021, currently at Ardigen
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Katarzyna+Wr%C4%99czycka&sort=date)
+
+**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/katwre/)  
+                                           
+                                           
+#### Wolfgang Kopp, PhD
+                              
+Bioinformatics Scientist from 2017-2021, currently at Roche Diagnostics
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Wolfgang+Kopp&sort=date)
+
+**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/wolfgang-kopp-6a5085146/) 
+                                           
+                                           
+#### Inga Patarcic, PhD
+
+PhD Student from 2015-2019, currently at MDC, Data Management
+
+**Websites:** [[LinkedIn]] (https://pubmed.ncbi.nlm.nih.gov/?term=Inga+Patarcic&sort=date)  
+                                           
+
+                                           
+#### Veronika Severin
+
+Master Thesis in 2020
+
+**Websites:**
+[[Github]](https://github.com/sevene7)
+                                           
+
 #### Brendan Osberg, PhD
 
 Bioinformatics Scientist from 2017-2019, currently at Max Planck Institute for Molecular Genetics, Berlin.
@@ -407,9 +510,14 @@ Bioinformatics Scientist from 2017-2019, currently at Max Planck Institute for M
 **Publications:**[[publications on researchgate]](https://www.researchgate.net/profile/Brendan_Osberg)
 
 **Websites:** [[LinkedIn]](https://www.linkedin.com/in/brendan-osberg-18960814)
+                                           
+#### Bożena Mika-Gospodorz
 
+Intern in 2017, currently at Ardigen
 
-
+**Websites:**
+[[LinkedIn]](https://www.linkedin.com/in/bo%C5%BCena-mika-gospodorz-76aa6080/)
+                                           
 
 #### Dilmurat Yusuf, PhD
 
