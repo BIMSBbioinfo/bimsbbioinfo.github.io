@@ -344,8 +344,9 @@ deconvolution models.
 
 ### Education:
 
-2016 - 2020: BSc Biology, [University of Tuebingen](https://uni-tuebingen.de/), Tuebingen, Germany
-2020 -: MSc Bioinformatics, [University of Potsdam](https://uni-potsdam.de/), Potsdam, Germany
+- 2020 - now, MSc Bioinformatics, [University of Potsdam](https://uni-potsdam.de/), Potsdam, Germany
+- 2016 - 2020, BSc Biology, [University of Tuebingen](https://uni-tuebingen.de/), Tuebingen, Germany
+
                      
 
 **Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Jonas+Freimuth&sort=date)
@@ -369,7 +370,7 @@ deconvolution models.
 Vic-Fabienne acitively participates in a range of projects focused on developing bioinformatics tools for omics science, with a specific emphasis on machine learning. Notably, she have contributed to the PiGx-Sars-Cov-2 analysis pipeline.
 
 ##### Previous Work Experience:
-- 2019 - 2023 Intern (Labs: Ohler, Preibisch, Akalin, N.Rajewsky), MDC BIMSB, Berlin, Germany
+- 2019 - 2023,  Intern (Labs: Ohler, Preibisch, Akalin, N.Rajewsky), MDC BIMSB, Berlin, Germany
 
 ##### Education:
 - 2020 - now,  MSc Bioinformatics, [University of Potsdam](https://uni-potsdam.de/), Potsdam, Germany
