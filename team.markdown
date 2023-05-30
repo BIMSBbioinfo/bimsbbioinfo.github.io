@@ -124,7 +124,7 @@ Vedran supports research projects for the platform. He has extensive experience 
   <img src="img/team/artur.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
  
-### Artür Manukyan 
+### Artür Manukyan, PhD
 
 #### Postdoctoral Researcher
 
