@@ -79,10 +79,10 @@ Alex is currently working on cfDNA-methylation based biomarker detection.
 - 2010 - 2014 Bachelor Student, Freie Universtät Berlin, Germany
 
     
-**Publications:** [[PubMed]]([LINK])
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Blume+A&cauthor_id=36769095)
 
 **Websites:**
-[[LinkedIn]]([LINK])
+[[LinkedIn]](https://www.linkedin.com/in/alexander-blume-243430176/)
 [[Github]](https://github.com/alexg9010)
 
 
@@ -121,26 +121,29 @@ Vedran supports research projects for the platform. He has extensive experience 
 
 
 <div class=row">
-  <img src="https://avatars.githubusercontent.com/u/39335576?s=96&v=4" class="columns myroundThumb">
+  <img src="img/team/artur.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
  
 ### Artür Manukyan 
 
-#### [POSITION]
+#### Postdoctoral Researcher
 
-Reasearch topic
+Artür is a trained statistician, computational scientist and bioinformatician. His main research interest is Network Science, and he aims to develop graph-based statistical learning frameworks for analyzing omics datasets towards, e.g., Spatial Biology and Biological Knowledge Graphs. He has built several  software packages and tools that implement statistical learning methods for knowledge discovery, and he has extensive expertise in analyzing data from a large variety of omics technologies such as scRNA-Seq, CITE-Seq, SLAM-Seq etc..
 
 ##### Previous Work Experience:
-- [year - year], [Location]
+- 2020 – 2022, Postdoctoral Research Fellow, UMass Bioinformatics Core, Worcester, USA   
+- 2019 – 2020, Postdoctoral Research Fellow, Broad Institute of MIT and Harvard, Boston, USA  
+- 2017 – 2019, Teaching Assistant Professor, Yeditepe University, Istanbul, Turkey 
 
 ##### Education:
-- [year - year], [Location]
-
-**Publications:** [[PubMed]]([LINK])
+- 2013 – 2017, PhD, Computational Sciences, Koç University, Istanbul, Turkey                                             
+                                           
+**Publications:** [[GoogleScholar]](https://scholar.google.com/citations?user=5OrlhE8AAAAJ&hl=en&oi=ao)
 
 **Websites:**
-[[LinkedIn]]([LINK])
-[[Github]](https://github.com/Artur-man)
+[[Homepage]](https://artur-man.github.io/)
+[[LinkedIn]](https://www.linkedin.com/in/art%C3%BCr-manukyan-a2071890/)
+[[Github]](https://github.com/Artur-man)  
 
 
 **E-mail:** Artuer.Manukyan@mdc.berlin.de
@@ -160,13 +163,13 @@ Dan's big challenge is to maintain, extend and keep safe the BIMSB's IT infrastr
 
 ##### Previous Work Experience:
 
-- 2013-    , System Administrator/Engineer , MDC/ BIMSB
-- 2009-2013, System Administrator, Alexandru Ioan Cuza University of Iasi - Faculty of Computer Science,  Romania
+- 2013- now, System Administrator/Engineer , MDC/ BIMSB  
+- 2009-2013, System Administrator, Alexandru Ioan Cuza University of Iasi - Faculty of Computer Science,  Romania  
 - 2003-2009, System Administrator, Cersanit SA, Romania
 
 ##### Education:
 
-- MSc, Computer Science, Alexandru Ioan Cuza University of Iasi, Romania
+- MSc, Computer Science, Alexandru Ioan Cuza University of Iasi, Romania  
 - BSc, Computer Science, Alexandru Ioan Cuza University of Iasi, Romania
 
 **Websites:**
@@ -259,20 +262,27 @@ PhD Students
  
 ### Taras Savchyn
 
-#### [Degree field] 
+#### PhD Student  
     
-Reasearch topic
+Enhancing machine learning-aided cancer biology with prior biological knowledge integration.
 
 ##### Previous Work Experience:
-- [year - year], [Location]
+
+- 2019 - 2022 Software Developer, Ukraine.
+- 2017 - 2018 Junior Software Engineer, Gliwice, Poland.
+- 2016 - 2017 Intern, Enamine Ltd, Kyiv, Ukraine.
+- 2013 - 2017 Research Intern, Ukrainian National Cancer Institute, Kyiv, Ukraine.
 
 ##### Education:
-- [year - year], [Location]
 
-**Publications:** [[PubMed]]([LINK])
+- 2022 - PhD Student, MDC BIMSB, Berlin, Germany.
+- 2015 - 2017 MSc, Cytology and Histology (Biology), Taras Shevchenko National University of Kyiv, Kyiv, Ukraine.
+- 2011 - 2015 BSc, Biology, Taras Shevchenko National University of Kyiv, Kyiv, Ukraine.
+    
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Savchyn+TM&cauthor_id=27031719)
 
 **Websites:**
-[[LinkedIn]]([LINK])
+[[LinkedIn]](https://www.linkedin.com/in/trsvchn/)
 [[Github]](https://github.com/trsvchn)
 
 
@@ -284,6 +294,31 @@ Reasearch topic
 Interns and Master's students
 ---------------------------------------
 ---------------------------------------
+
+<div class=row">
+  <img src="[IMAGE LINK/PATH]" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+ 
+### Nour Alkhoury
+
+#### Master Student
+
+Nour is workin on the development of a genomic patient matching system using tumor genome profiles.
+
+##### Previous Work Experience:
+- 2021 - now , Data Scientist, Mushlabs GmbH
+
+##### Education:
+- 2021 - 2023,  MSc Bioinformatics, [Free University of Berlin](https://www.fu-berlin.de/en/index.html), Berlin, Germany
+- 2017 - 2021, BSc Bioinformatics, [Lebanese American University](https://www.lau.edu.lb/)
+
+**Websites:**
+[[LinkedIn]](https://www.linkedin.com/in/nour-alkhoury/)
+[[Github]](https://github.com/nouralkhoury)
+
+
+**E-mail:** Nour.Alkhoury@mdc.berlin.de
+</div></div>
 
 <div class=row">
   <img src="https://avatars.githubusercontent.com/u/68993915?s=96&v=4" class="columns myroundThumb">
@@ -311,60 +346,43 @@ deconvolution models.
 
 2016 - 2020: BSc Biology, [University of Tuebingen](https://uni-tuebingen.de/), Tuebingen, Germany
 2020 -: MSc Bioinformatics, [University of Potsdam](https://uni-potsdam.de/), Potsdam, Germany
+                     
 
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Jonas+Freimuth&sort=date)
+
+**Websites:**
+[[Github]](https://github.com/jonasfreimuth)  
+                                           
+                                           
 **E-mail**: jonas.freimuth.mdc-berlin.de
 </div></div>
 
+
 <div class=row">
-  <img src="[IMAGE LINK/PATH]" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
+  <img src="https://avatars.githubusercontent.com/u/19505743?s=96&v=4" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">    
  
 ### Vic-Fabienne Schumann
 
 #### Master Student
 
-Reasearch topic
+Vic-Fabienne acitively participates in a range of projects focused on developing bioinformatics tools for omics science, with a specific emphasis on machine learning. Notably, she have contributed to the PiGx-Sars-Cov-2 analysis pipeline.
 
 ##### Previous Work Experience:
-- [year - year], [Location]
+- 2019 - 2023 Intern (Labs: Ohler, Preibisch, Akalin, N.Rajewsky), MDC BIMSB, Berlin, Germany
 
 ##### Education:
-- [year - year], [Location]
+- 2020 - now,  MSc Bioinformatics, [University of Potsdam](https://uni-potsdam.de/), Potsdam, Germany
+- 2016 - 2019, BSc Biochemistry, [University of Tuebingen](https://uni-tuebingen.de/), Tuebingen, Germany
 
-**Publications:** [[PubMed]]([LINK])
-
-**Websites:**
-[[LinkedIn]]([LINK])
-[[Github]]([LINK])
-
-
-**E-mail:** [NAME]@mdc.berlin.de
-</div></div>
-
-<div class=row">
-  <img src="[IMAGE LINK/PATH]" class="columns myroundThumb">
-  <div class="large-9 columns" markdown="1">
- 
-### Nour Alkhoury
-
-#### Master Student
-
-Reasearch topic
-
-##### Previous Work Experience:
-- [year - year], [Location]
-
-##### Education:
-- [year - year], [Location]
-
-**Publications:** [[PubMed]]([LINK])
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Vic-Fabienne+Schumann)
 
 **Websites:**
-[[LinkedIn]]([LINK])
-[[Github]]([LINK])
+[[LinkedIn]](https://www.linkedin.com/in/vic-fabienne-schumann/)
+[[Github]](https://github.com/vfschumann)
 
 
-**E-mail:** [NAME]@mdc.berlin.de
+**E-mail:** Vic-Fabienne.Schumann@mdc.berlin.de
 </div></div>
 
 
@@ -391,134 +409,96 @@ Administration
 Alumni
 ---------------------------------------
 ---------------------------------------
-    
 
-#### ToDo - sort by time 
-
-    
-#### Wolfgang Kopp, PhD
-
-[Role and Time in the Lab], [current (year) position]
-
-**Publications:** [[PubMed]][LINK]
-
-**Websites:** [[LinkedIn]] [LINK]
-**E-mail:** [private/follow-up email] 
-                                           
-#### Jonathan (Yona) Ronen, PhD
-
-[Role and Time in the Lab], [current (year) position]
-
-**Publications:** [[PubMed]][LINK]
-
-**Websites:** [[LinkedIn]] [LINK]
-**E-mail:** [private/follow-up email]
-                                           
-#### Inga Patarcic, PhD
-
-[Role and Time in the Lab], [current (year) position]
-
-**Publications:** [[PubMed]][LINK]
-
-**Websites:** [[LinkedIn]] [LINK]  
-                                           
-**E-mail:** [private/follow-up email]
-
-
-#### Katarzyna Wreczycka, PhD
-
-[Role and Time in the Lab], [current (year) position]
-
-**Publications:** [[PubMed]][LINK]
-
-**Websites:** [[LinkedIn]] [LINK]  
-                                           
-**E-mail:** [private/follow-up email]  
-                                           
-#### Rafael Cuadrat, PhD
-
-[Role and Time in the Lab], [current (year) position]
-
-**Publications:** [[PubMed]][LINK]
-
-**Websites:** [[LinkedIn]] [LINK]  
-                                           
-**E-mail:** [private/follow-up email]  
-                                           
-#### Irem Güngüz
-
-[Role and Time in the Lab], [current (year) position]
-
-**Publications:** [[PubMed]][LINK]
-
-**Websites:**
-[[LinkedIn]]([LINK])  
-[[Github]]([LINK])  
-                                           
-**E-mail:** [private/follow-up email]  
-                                           
-#### Jan Dohmen
-
-[Role and Time in the Lab], [current (year) position]
-
-**Publications:** [[PubMed]][LINK]
-
-**Websites:** [[LinkedIn]] [LINK]  
-                                           
-**E-mail:** [private/follow-up email]  
-                                           
-#### Miguel Arbesú, PhD
-
-[Role and Time in the Lab], [current (year) position]
-
-**Publications:** [[PubMed]][LINK]
-
-**Websites:** [[LinkedIn]] [LINK]
-**E-mail:** [private/follow-up email]  
-                                           
-#### Katarzyna Wreczycka
-
-[Role and Time in the Lab], [current (year) position]
-
-**Publications:** [[PubMed]][LINK]
-
-**Websites:**
-[[LinkedIn]]([LINK])
-[[Github]](https://github.com/katwre)
-**E-mail:** [private/follow-up email]  
                                            
 #### Yunhee Jeong
 
-[Role and Time in the Lab], [current (year) position]
-
-**Publications:** [[PubMed]][LINK]
+Visting student in 2022, currently PhD Student at DKFZ
 
 **Websites:**
-[[LinkedIn]]([LINK])
-[[Github]](https://github.com/hanyangii)
-**E-mail:** [private/follow-up email]  
+[[LinkedIn]](https://www.linkedin.com/in/yunhee-jeong-ba2132165/)
                                            
-#### Bożena Mika-Gospodorz
-
-[Role and Time in the Lab], [current (year) position]
-
-**Publications:** [[PubMed]][LINK]
-
-**Websites:**
-[[LinkedIn]]([LINK])
-[[Github]]([LINK])
-**E-mail:** [private/follow-up email]  
                                            
-#### Veronika ???
+#### Miguel Arbesú, PhD
 
-[Role and Time in the Lab], [current (year) position]
+Visting Researcher in 2022, currently at InstaDeep Ltd
 
-**Publications:** [[PubMed]][LINK]
+**Publications:** [[GoogleScholar]](https://scholar.google.es/citations?user=9t-FKjoAAAAJ&hl=en)
+
+**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/miguel-arbes%C3%BA-andr%C3%A9s-phd-720404227/)                                           
+                                           
+
+#### Irem Gündüz
+
+Internship from 2021-2022, currently PhD Student at F.Müller Lab at Saarland University
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=G%C3%BCnd%C3%BCz+IB&cauthor_id=36428696)
 
 **Websites:**
-[[LinkedIn]]([LINK])
+[[LinkedIn]](https://www.linkedin.com/in/ibgunduz/)  
+
+
+#### Jonathan (Yona) Ronen, PhD
+                                           
+PhD Student and Bioinformatics Scientist for Arcas.ai from 2015-2022, currently at Inceptive
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Jonathan+Ronen&sort=date)
+
+**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/jronen/)
+                                                                                 
+                                           
+#### Rafael Cuadrat, PhD
+
+Postdoctoral Researcher from 2020 - 2022, currently at Eagle Genomics
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Cuadrat+RRC&cauthor_id=35846832)
+
+**Websites:** [[LinkedIn]] [LINK]  
+                                           
+**E-mail:** [private/follow-up email]   
+                                           
+                                           
+ #### Jan Dohmen
+
+Bioinformatics Scientist from 2020-2021, currently PhD Student at TU Hamburg
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Jan+Dohmen)
+
+**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/jan-dohmen-99832816b/) 
+                                                                                      
+                                           
+#### Katarzyna Wreczycka, PhD
+
+PhD Student from 2015-2021, currently at Ardigen
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Katarzyna+Wr%C4%99czycka&sort=date)
+
+**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/katwre/)  
+                                           
+                                           
+#### Wolfgang Kopp, PhD
+                              
+Bioinformatics Scientist from 2017-2021, currently at Roche Diagnostics
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Wolfgang+Kopp&sort=date)
+
+**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/wolfgang-kopp-6a5085146/) 
+                                           
+                                           
+#### Inga Patarcic, PhD
+
+PhD Student from 2015-2019, currently at MDC, Data Management
+
+**Websites:** [[LinkedIn]] (https://pubmed.ncbi.nlm.nih.gov/?term=Inga+Patarcic&sort=date)  
+                                           
+
+                                           
+#### Veronika Severin
+
+Master Thesis in 2020
+
+**Websites:**
 [[Github]](https://github.com/sevene7)
-**E-mail:** [private/follow-up email]
                                            
 
 #### Brendan Osberg, PhD
@@ -529,7 +509,14 @@ Bioinformatics Scientist from 2017-2019, currently at Max Planck Institute for M
 **Publications:**[[publications on researchgate]](https://www.researchgate.net/profile/Brendan_Osberg)
 
 **Websites:** [[LinkedIn]](https://www.linkedin.com/in/brendan-osberg-18960814)
+                                           
+#### Bożena Mika-Gospodorz
 
+Intern in 2017, currently at Ardigen
+
+**Websites:**
+[[LinkedIn]](https://www.linkedin.com/in/bo%C5%BCena-mika-gospodorz-76aa6080/)
+                                           
 
 #### Dilmurat Yusuf, PhD
 
