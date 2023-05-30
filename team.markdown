@@ -461,7 +461,7 @@ Postdoctoral Researcher from 2020 - 2022, currently at Eagle Genomics
 **E-mail:** [private/follow-up email]   
                                            
                                            
- #### Jan Dohmen
+#### Jan Dohmen
 
 Bioinformatics Scientist from 2020-2021, currently PhD Student at TU Hamburg
 
