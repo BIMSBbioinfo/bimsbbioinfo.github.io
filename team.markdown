@@ -306,9 +306,11 @@ Interns and Master's students
 Nour is workin on the development of a genomic patient matching system using tumor genome profiles.
 
 ##### Previous Work Experience:
+    
 - 2021 - now , Data Scientist, Mushlabs GmbH
 
 ##### Education:
+    
 - 2021 - 2023,  MSc Bioinformatics, [Free University of Berlin](https://www.fu-berlin.de/en/index.html), Berlin, Germany
 - 2017 - 2021, BSc Bioinformatics, [Lebanese American University](https://www.lau.edu.lb/)
 
@@ -325,7 +327,7 @@ Nour is workin on the development of a genomic patient matching system using tum
   <div class="large-9 columns" markdown="1">
  
 
-#### Jonas Freimuth
+### Jonas Freimuth
 
 #### Master student
 
@@ -338,11 +340,11 @@ prediction accurracy of machine learning models using cancer
 bulk RNA-sequencing through residuals derived from
 deconvolution models.
 
-### Previous Work Experience:
+##### Previous Work Experience:
 
 2022: Intern, MDC BIMSB, Berlin, Germany
 
-### Education:
+##### Education:
 
 - 2020 - now, MSc Bioinformatics, [University of Potsdam](https://uni-potsdam.de/), Potsdam, Germany
 - 2016 - 2020, BSc Biology, [University of Tuebingen](https://uni-tuebingen.de/), Tuebingen, Germany
