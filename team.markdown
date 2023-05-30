@@ -120,7 +120,7 @@ Vedran supports research projects for the platform. He has extensive experience 
 </div></div>
 
 
-<div class=row">
+<div class="row">
   <img src="img/team/artur.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
  
@@ -256,7 +256,7 @@ PhD Students
 ---------------------------------------
 
 
-<div class=row">
+<div class="row">
   <img src="https://avatars.githubusercontent.com/u/30748114?s=96&v=4" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
  
@@ -295,7 +295,7 @@ Interns and Master's students
 ---------------------------------------
 ---------------------------------------
 
-<div class=row">
+<div class="row">
   <img src="[IMAGE LINK/PATH]" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
  
@@ -320,7 +320,7 @@ Nour is workin on the development of a genomic patient matching system using tum
 **E-mail:** Nour.Alkhoury@mdc.berlin.de
 </div></div>
 
-<div class=row">
+<div class="row">
   <img src="https://avatars.githubusercontent.com/u/68993915?s=96&v=4" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
  
@@ -359,7 +359,7 @@ deconvolution models.
 </div></div>
 
 
-<div class=row">
+<div class="row">
   <img src="https://avatars.githubusercontent.com/u/19505743?s=96&v=4" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">    
  
