@@ -83,9 +83,10 @@ It includes the following pipelines:
   single cell RNA-seq analysis
 - [PiGx ChIPseq](https://github.com/BIMSBbioinfo/pigx_chipseq) for
   reads from ChIPseq experiments
-- [PiGx CRISPR](https://github.com/BIMSBbioinfo/pigx_crispr) *(work in progress)*
+- [PiGx CRISPR](https://github.com/BIMSBbioinfo/pigx_crispr) 
   for the analysis of sequence mutations in CRISPR-CAS9 targeted
   amplicon sequencing data
+- [PiGx SARS-cov-2](https://github.com/BIMSBbioinfo/pigx_sars-cov-2) for analysing sequenced wastewater samples and identifying given and emerging lineages of SARS-CoV-2.
 
 
 ##### **github repository**
