@@ -11,10 +11,10 @@ training sessions.
 
 ---------------------------------------
 
-### Computational genomics course 2018
-We are organizing a computional genomics course titled "Computational genomics: BS-seq analysis and data integration". The course will take place between 23 and 25 May 2018 in Berlin. The course will cover fundamental in BS-seq analysis. The course will also be usefull for integrating and visualizing processed genomics data. 
+### Computational genomics course
+Yearly since 2015 we are organizing a computational genomics course focusing on various topics from special sequencing technologies to machine learning. Before 2020 it took place in Berlin. Since then, the course has been conducted in an online format, facilitating access for interested participants worldwide with minimal obstacles. The courses cover fundamentals in BS-seq analysis, integration and visualization of processed genomics data. 
 
-There will be theoretical lectures followed by practical sessions where students directly apply what they have learned. The programming will be mainly done in R and unix shell. 
+The course design consists of theoretical lectures followed by practical sessions where students directly apply what they have learned. The programming is mainly done in R and unix shell. 
 
 The course will be beneficial for computational biologists and experimental biologists who are doing data analysis. 
 More info on: [http://compgen.mdc-berlin.de/](http://compgen.mdc-berlin.de/)
@@ -23,11 +23,11 @@ More info on: [http://compgen.mdc-berlin.de/](http://compgen.mdc-berlin.de/)
 
 ---------------------------------------
 
-### Bioinformatics walk-in clinics
-Bioinformatics platform is offering walk-in clinics to help researchers with their bioinformatics questions and provide discussion. The clinics takes place every 30-45 days, it is announced via e-mail through MDC maillists. 
+### Bioinformatics consulations
+Bioinformatics platform is offering consultation servive to help researchers with their bioinformatics questions and provide discussion. The services can be booked over the "Open Iris" system.
 
 #### **How it works**
-Bring your bioinformatics problems/questions (and data if you have), no appointment needed. We will advise you on how to deal with your problem and/or refer you to other platforms or groups who can best advise you. The format is one-to-one consultation. This is not a course, lecture or a tutorial with a predefined agenda.
+Bring your bioinformatics problems/questions (and data if you have). We will advise you on how to deal with your problem and/or refer you to other platforms or groups who can best advise you. The format is one-to-one consultation. This is just a consultation service, not "analyze my data" service.
 Some of the things we can help with are listed below:
 
 * Sequence analysis
@@ -36,6 +36,23 @@ Some of the things we can help with are listed below:
 * Development and validation of predictive models from data
 * Data visualisation and exploratory data analysis
 * R programming
+
+---------------------------------------
+
+
+### Mentorship
+Mentorship is only offered to students/researchers who have basic skills in bioinformatics such as understanding of data types in genomics and some programming. The mentorship is offered for a limited amount of time and with clear learning goals in mind. The goals will be decided in the first meeting with the mentor. The mentors are a point of contact for bioinformatics questions, they will advise on how to do a particular analysis. Keep in mind that mentors are researchers and can only allocate a limited amount of time per week for mentorship activities. There will be an initial meeting for the skill set assessment, this opportunity can not be offered to people who have no bioinformatics skills and/or can not establish clear learning objectives at that meeting. 
+
+
+---------------------------------------
+
+
+### Small scale collaboration
+A small-scale project is a project where we have specialized expertise, set of existing scripts and experience that can do the job in shorter time-frame.
+After initial consultation meeting, it will be decided if the project is suitable for small-scale project, depending on the expertise and the time required to complete it. 
+The project must have clear goals and a clear set of questions to be answered. 
+These projects will not have open-ended goals and spontaneous derivative analysis that has not been discussed before.
+
 
 ---------------------------------------
 
