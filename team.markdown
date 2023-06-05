@@ -63,23 +63,20 @@ Research and IT Staff
   <img src="./img/team/Alex.jpg" class="columns myroundThumb">
   <div class="large-9 columns" markdown="1">
 
-### Alexander Blume, PhD  
+### Alexander Blume, PhD
 
 #### Bioinformatics Scientist
 
-Alex is currently working on cfDNA-methylation based biomarker detection.
+Alex is a trained bioinformatician. He is experienced in workflow development and analysis of sequencing data including short/long-read RNA-Seq, ChIP-Seq, ATAC-Seq and BS-Seq.
 
-##### Previous Work Experience:  
-- 2016 - 2022 PhD Student, MDC BIMSB, Berlin, Germany
-- 2015 - 2016 Intern, MDC BIMSB, Berlin, Germany
+##### Previous Work Experience:
+- 2021 - 2022 Researcher, University of Hamburg, Germany
 
 ##### Education:
 - 2016 - 2022 PhD Student, MDC BIMSB, Berlin, Germany
-- 2014 - 2016 Master Student, Freie Universtät Berlin, Germany
-- 2010 - 2014 Bachelor Student, Freie Universtät Berlin, Germany
 
     
-**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Blume+A&cauthor_id=36769095)
+**Publications:** [[PubMed]](http://ncbi.nlm.nih.gov/pubmed?term=Blume%2C%20Alexander+%5BFull+Author+Name%5D+OR+Gosdschan%2C+Alexander+%5BFull+Author+Name%5D+%28%222017%22%5BDate+-+Publication%5D+%3A+%223000%22%5BDate+-+Publication%5D%29)
 
 **Websites:**
 [[LinkedIn]](https://www.linkedin.com/in/alexander-blume-243430176/)
