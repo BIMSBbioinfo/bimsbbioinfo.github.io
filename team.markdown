@@ -425,7 +425,7 @@ Visting Researcher in 2022, currently at InstaDeep Ltd
 
 **Publications:** [[GoogleScholar]](https://scholar.google.es/citations?user=9t-FKjoAAAAJ&hl=en)
 
-**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/miguel-arbes%C3%BA-andr%C3%A9s-phd-720404227/)                                           
+**Websites:** [[LinkedIn]](https://www.linkedin.com/in/miguel-arbes%C3%BA-andr%C3%A9s-phd-720404227/)                                           
                                            
 
 #### Irem Gündüz
@@ -444,7 +444,7 @@ PhD Student and Bioinformatics Scientist for Arcas.ai from 2015-2022, currently 
 
 **Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Jonathan+Ronen&sort=date)
 
-**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/jronen/)
+**Websites:** [[LinkedIn]](https://www.linkedin.com/in/jronen/)
                                                                                  
                                            
 #### Rafael Cuadrat, PhD
@@ -453,9 +453,8 @@ Postdoctoral Researcher from 2020 - 2022, currently at Eagle Genomics
 
 **Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Cuadrat+RRC&cauthor_id=35846832)
 
-**Websites:** [[LinkedIn]] [LINK]  
-                                           
-**E-mail:** [private/follow-up email]   
+**Websites:** [[LinkedIn]](https://www.linkedin.com/in/rafael-cuadrat-phd-aa6a6230/) 
+                                            
                                            
                                            
 #### Jan Dohmen
@@ -464,7 +463,7 @@ Bioinformatics Scientist from 2020-2021, currently PhD Student at TU Hamburg
 
 **Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Jan+Dohmen)
 
-**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/jan-dohmen-99832816b/) 
+**Websites:** [[LinkedIn]](https://www.linkedin.com/in/jan-dohmen-99832816b/) 
                                                                                       
                                            
 #### Katarzyna Wreczycka, PhD
@@ -473,7 +472,7 @@ PhD Student from 2015-2021, currently at Ardigen
 
 **Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Katarzyna+Wr%C4%99czycka&sort=date)
 
-**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/katwre/)  
+**Websites:** [[LinkedIn]](https://www.linkedin.com/in/katwre/)  
                                            
                                            
 #### Wolfgang Kopp, PhD
@@ -482,14 +481,14 @@ Bioinformatics Scientist from 2017-2021, currently at Roche Diagnostics
 
 **Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?term=Wolfgang+Kopp&sort=date)
 
-**Websites:** [[LinkedIn]] (https://www.linkedin.com/in/wolfgang-kopp-6a5085146/) 
+**Websites:** [[LinkedIn]](https://www.linkedin.com/in/wolfgang-kopp-6a5085146/) 
                                            
                                            
 #### Inga Patarcic, PhD
 
 PhD Student from 2015-2019, currently at MDC, Data Management
 
-**Websites:** [[LinkedIn]] (https://pubmed.ncbi.nlm.nih.gov/?term=Inga+Patarcic&sort=date)  
+**Websites:** [[LinkedIn]](https://pubmed.ncbi.nlm.nih.gov/?term=Inga+Patarcic&sort=date)  
                                            
 
                                            
