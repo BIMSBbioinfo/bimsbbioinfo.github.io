@@ -123,7 +123,7 @@ Vedran supports research projects for the platform. He has extensive experience 
  
 ### Artür Manukyan, PhD
 
-#### Postdoctoral Researcher
+#### Bioinformatics Scientist
 
 Artür is a trained statistician, computational scientist and bioinformatician. His main research interest is Network Science, and he aims to develop graph-based statistical learning frameworks for analyzing omics datasets towards, e.g., Spatial Biology and Biological Knowledge Graphs. He has built several  software packages and tools that implement statistical learning methods for knowledge discovery, and he has extensive expertise in analyzing data from a large variety of omics technologies such as scRNA-Seq, CITE-Seq, SLAM-Seq etc..
 
