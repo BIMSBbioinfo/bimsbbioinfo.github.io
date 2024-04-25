@@ -184,7 +184,7 @@ Dan's big challenge is to maintain, extend and keep safe the BIMSB's IT infrastr
 
 #### Bioinformatics Scientist
 
-Bora has started working at MDC on 1st of August, 2015 as a bioinformatics scientist. He has had a balanced trainining of biological and computational sciences. He is interested in doing large-scale data analysis to understand the molecular biology of diseases. At MDC, he will develop tools and annotation pipelines related to RNA bioinformatics and NGS data analysis, which will be integrated with the Galaxy instance of the Berlin Institute of Medical Systems Biology. 
+Bora has started working at MDC on 1st of August, 2015 as a bioinformatics scientist. His roles in the platform include research, collaborations with other labs in the institute, and supporting other researchers in the form of consultations, mentorships, workshops, and user-friendly software development. His current research is focused on development of deep learning-based multi-modal data integration tools for precision oncology. 
 
 ##### Previous Experience:
 
@@ -195,7 +195,7 @@ Bora has started working at MDC on 1st of August, 2015 as a bioinformatics scien
   [European Molecular Biology Laboratory](http://www.embl.de/),
   Heidelberg, Germany
 - 2008-2010, M.Sc, CIHR/MSFHR Bioinformatics Training Program
-  [Simon Fraser University](http://www.sfu.ca) and [BC Cancer Research Center](http://bioinformatics.bcgsc.ca/)
+  [Simon Fraser University](http://www.sfu.ca) and [BC Cancer Research Center](https://www.bccrc.ca/)
   Vancouver, Canada
 - 2003-2008, B.Sc Biological Sciences and Bioengineering (followed a Bioinformatics curriculum), [Sabanci University](http://www.sabanciuniv.edu), 
   Istanbul, Turkey
