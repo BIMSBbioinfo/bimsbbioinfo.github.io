@@ -286,7 +286,29 @@ Enhancing machine learning-aided cancer biology with prior biological knowledge 
 **E-mail:** Taras.Savchyn@mdc.berlin.de
 </div></div>
 
+<div class="row">
+  <img src="img/team/fabianjanosch_krueger.jpg" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
 
+### Fabian Janosch Krüger
+
+#### PhD Student
+
+Development and application of machine learning methods for cancer drug target and biomarker discovery
+
+##### Previous Work Experience:
+- 2023 Junior Software Engineer, status C AG, Berlin, Germany
+
+##### Education:
+- 2019-2023 MSc Biotechnology, Technische Universität Berlin, Berlin, Germany
+- 2015-2020, BSc Biotechnology, Technische Universität Berlin, Berlin, Germany
+
+**Websites:**
+[[LinkedIn]](https://www.linkedin.com/in/fabianjkrueger/)
+[[Github]](https://github.com/fabianjkrueger)
+
+**E-mail:** FabianJanosch.Krueger@mdc-berlin.de
+</div></div>
 
 Interns and Master's students
 ---------------------------------------
