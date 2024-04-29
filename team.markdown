@@ -252,6 +252,37 @@ PhD Students
 
 ---------------------------------------
 
+<div class="row">
+  <img src="https://avatars.githubusercontent.com/u/112400172" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+
+### Francesco Santini
+
+#### PhD Student
+
+Works at MDC as of January 2024 as guest PhD Student. He has experience in RNAseq data analysis and Snakemake. 
+He is implementing methods for porting in cloud the pipelines of the group.
+He is generally interested in miRNA, single cell RNAseq and stem cells.
+
+##### Previous Work Experience:
+
+- 2022-2022, Bioinformatics Scientist, [National Councils of Researches](http://www.ibiom.cnr.it/), Bari, Italy
+- 2021-2022, Biologist/Bioinformatics Scientist, [National Institute for the Infectious Diseases Lazzaro Spallanzani](https://www.inmi.it/), Rome, Italy
+- 2018-2018, Post Graduate Internship, San Camillo hospital, Rome, Italy
+
+##### Education:
+
+- 2022-Now, PhD Life Sciences (Bioinformatics and Omics track), [Sapienza University](https://www.uniroma1.it), Rome, Italy
+- 2015-2017, M.Sc Genetics and Molecular Biology, [Sapienza University](https://www.uniroma1.it), Rome, Italy
+- 2008-2015, B.Sc Biological Sciences, [Sapienza University](https://www.uniroma1.it), Rome, Italy
+
+**Publications:** [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Santini+F&cauthor_id=34991646)
+
+**Websites:**
+[[Github]](https://github.com/FrancescoSantini)
+
+**E-mail:** francesco.santini [at] mdc-berlin [dot] de
+</div></div>
 
 <div class="row">
   <img src="https://avatars.githubusercontent.com/u/30748114?s=96&v=4" class="columns myroundThumb">
@@ -281,7 +312,6 @@ Enhancing machine learning-aided cancer biology with prior biological knowledge 
 **Websites:**
 [[LinkedIn]](https://www.linkedin.com/in/trsvchn/)
 [[Github]](https://github.com/trsvchn)
-
 
 **E-mail:** Taras.Savchyn@mdc.berlin.de
 </div></div>
