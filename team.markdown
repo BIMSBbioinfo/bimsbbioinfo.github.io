@@ -147,6 +147,38 @@ Artür is a trained statistician, computational scientist and bioinformatician. 
 </div></div>
  
 
+<div class="row">
+  <img src="https://www.mdc-berlin.de/system/files/styles/mdc_person_mdc_wide_2x/private/w21_mdc_persdb/photos/45b865d134d2c25cf5ed131317fe88de-1704789794.jpg?h=05c5e97b&itok=9mnU8cpH" class="columns myroundThumb">
+  <div class="large-9 columns" markdown="1">
+
+### Ahmet Sarigun
+
+#### Machine Learning Scientist
+
+Ahmet joined the MDC-BIMSB on January 1, 2024, as a Computational Chemist and Machine Learning Scientist. His professional focus includes Graph Representation Learning, Deep Generative Models, and Computational Chemistry. Ahmet is actively developing innovative methods and tools for Molecular Machine Learning and Computational Molecular Systems, particularly in the area of drug discovery & design. His work integrates advanced computational techniques with chemical analytics to enhance the precision and efficacy of molecular modeling in pharmaceutical research.
+
+##### Previous Experience:
+
+- 2021 - 2023 Undergraduate Researcher, CanSyl & MCTCLab, Middle East Technical University, Ankara, Turkey.
+- 2021 - 2022 Research Internship, Hacettepe University BioData Analysis Lab, Ankara, Turkey
+- 2022 - 2022 Internship Trainee, Heidelberg University Hospital, Institute for Computational Biomedicine (AG Saez Lab), Heidelberg, Germany
+
+##### Education:
+
+- 2020 - 2023 BSc *(Not Completed)*, Physics, Middle East Technical University, Ankara, Turkey.
+- 2019 - 2023 BSc, Chemistry, Middle East Technical University, Ankara, Turkey.
+
+**Publications:** 
+[[GoogleScholar]](https://scholar.google.com/citations?user=XssNjFEAAAAJ&hl=en) 
+
+**Websites:**
+[[Homepage]](https://asarigun.github.io/)
+[[LinkedIn]](https://www.linkedin.com/in/ahmetsar%C4%B1g%C3%BCn/)
+[[Github]](https://github.com/asarigun)
+
+
+**E-mail:** ahmet.sariguen [at] mdc-berlin [dot] de
+</div></div>
     
 <div class="row">
   <img src="img/team/DanMunteanu.jpg" class="columns myroundThumb">
